@@ -1,0 +1,1025 @@
+{
+ "ACME-10K-2022": {
+  "filing_id": "ACME-10K-2022",
+  "company": "ACME Corp",
+  "ticker": "ACME",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 49905,
+   "net_income": 3439,
+   "total_assets": 148871,
+   "operating_cash_flow": 8045
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 49905,
+    "net_income": 3439
+   },
+   "balance_sheet": {
+    "total_assets": 148871
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8045
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $49,905 million. Net income was $3,439 million. Total assets were $148,871 million. Operating cash flow was $8,045 million.",
+   "mda": "Management Discussion FY2022 for ACME Corp. Revenue of $49,905 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "ACME-10K-2023": {
+  "filing_id": "ACME-10K-2023",
+  "company": "ACME Corp",
+  "ticker": "ACME",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 17144,
+   "net_income": 3003,
+   "total_assets": 48918,
+   "operating_cash_flow": 5538
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17144,
+    "net_income": 3003
+   },
+   "balance_sheet": {
+    "total_assets": 48918
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5538
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $17,144 million. Net income was $3,003 million. Total assets were $48,918 million. Operating cash flow was $5,538 million.",
+   "mda": "Management Discussion FY2023 for ACME Corp. Revenue of $17,144 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "ACME-10K-2024": {
+  "filing_id": "ACME-10K-2024",
+  "company": "ACME Corp",
+  "ticker": "ACME",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 13697,
+   "net_income": 2059,
+   "total_assets": 21416,
+   "operating_cash_flow": 1690
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 13697,
+    "net_income": 2059
+   },
+   "balance_sheet": {
+    "total_assets": 21416
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1690
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $13,697 million. Net income was $2,059 million. Total assets were $21,416 million. Operating cash flow was $1,690 million.",
+   "mda": "Management Discussion FY2024 for ACME Corp. Revenue of $13,697 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "GLBX-10K-2022": {
+  "filing_id": "GLBX-10K-2022",
+  "company": "Globex Inc",
+  "ticker": "GLBX",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 23247,
+   "net_income": 3159,
+   "total_assets": 36104,
+   "operating_cash_flow": 3480
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23247,
+    "net_income": 3159
+   },
+   "balance_sheet": {
+    "total_assets": 36104
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3480
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $23,247 million. Net income was $3,159 million. Total assets were $36,104 million. Operating cash flow was $3,480 million.",
+   "mda": "Management Discussion FY2022 for Globex Inc. Revenue of $23,247 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "GLBX-10K-2023": {
+  "filing_id": "GLBX-10K-2023",
+  "company": "Globex Inc",
+  "ticker": "GLBX",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 50590,
+   "net_income": 8561,
+   "total_assets": 118332,
+   "operating_cash_flow": 10740
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 50590,
+    "net_income": 8561
+   },
+   "balance_sheet": {
+    "total_assets": 118332
+   },
+   "cash_flow": {
+    "operating_cash_flow": 10740
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $50,590 million. Net income was $8,561 million. Total assets were $118,332 million. Operating cash flow was $10,740 million.",
+   "mda": "Management Discussion FY2023 for Globex Inc. Revenue of $50,590 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "GLBX-10K-2024": {
+  "filing_id": "GLBX-10K-2024",
+  "company": "Globex Inc",
+  "ticker": "GLBX",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 26231,
+   "net_income": 4921,
+   "total_assets": 39687,
+   "operating_cash_flow": 7907
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 26231,
+    "net_income": 4921
+   },
+   "balance_sheet": {
+    "total_assets": 39687
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7907
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $26,231 million. Net income was $4,921 million. Total assets were $39,687 million. Operating cash flow was $7,907 million.",
+   "mda": "Management Discussion FY2024 for Globex Inc. Revenue of $26,231 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "INIT-10K-2022": {
+  "filing_id": "INIT-10K-2022",
+  "company": "Initech LLC",
+  "ticker": "INIT",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 53753,
+   "net_income": 6549,
+   "total_assets": 110502,
+   "operating_cash_flow": 8268
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 53753,
+    "net_income": 6549
+   },
+   "balance_sheet": {
+    "total_assets": 110502
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8268
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $53,753 million. Net income was $6,549 million. Total assets were $110,502 million. Operating cash flow was $8,268 million.",
+   "mda": "Management Discussion FY2022 for Initech LLC. Revenue of $53,753 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "INIT-10K-2023": {
+  "filing_id": "INIT-10K-2023",
+  "company": "Initech LLC",
+  "ticker": "INIT",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 58036,
+   "net_income": 6222,
+   "total_assets": 97819,
+   "operating_cash_flow": 7206
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58036,
+    "net_income": 6222
+   },
+   "balance_sheet": {
+    "total_assets": 97819
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7206
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $58,036 million. Net income was $6,222 million. Total assets were $97,819 million. Operating cash flow was $7,206 million.",
+   "mda": "Management Discussion FY2023 for Initech LLC. Revenue of $58,036 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "INIT-10K-2024": {
+  "filing_id": "INIT-10K-2024",
+  "company": "Initech LLC",
+  "ticker": "INIT",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 30541,
+   "net_income": 4661,
+   "total_assets": 95112,
+   "operating_cash_flow": 8625
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 30541,
+    "net_income": 4661
+   },
+   "balance_sheet": {
+    "total_assets": 95112
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8625
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $30,541 million. Net income was $4,661 million. Total assets were $95,112 million. Operating cash flow was $8,625 million.",
+   "mda": "Management Discussion FY2024 for Initech LLC. Revenue of $30,541 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "UMBR-10K-2022": {
+  "filing_id": "UMBR-10K-2022",
+  "company": "Umbrella Co",
+  "ticker": "UMBR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 43142,
+   "net_income": 3072,
+   "total_assets": 144292,
+   "operating_cash_flow": 5164
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 43142,
+    "net_income": 3072
+   },
+   "balance_sheet": {
+    "total_assets": 144292
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5164
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $43,142 million. Net income was $3,072 million. Total assets were $144,292 million. Operating cash flow was $5,164 million.",
+   "mda": "Management Discussion FY2022 for Umbrella Co. Revenue of $43,142 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "UMBR-10K-2023": {
+  "filing_id": "UMBR-10K-2023",
+  "company": "Umbrella Co",
+  "ticker": "UMBR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 27213,
+   "net_income": 5197,
+   "total_assets": 74483,
+   "operating_cash_flow": 8583
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27213,
+    "net_income": 5197
+   },
+   "balance_sheet": {
+    "total_assets": 74483
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8583
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $27,213 million. Net income was $5,197 million. Total assets were $74,483 million. Operating cash flow was $8,583 million.",
+   "mda": "Management Discussion FY2023 for Umbrella Co. Revenue of $27,213 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "UMBR-10K-2024": {
+  "filing_id": "UMBR-10K-2024",
+  "company": "Umbrella Co",
+  "ticker": "UMBR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 45837,
+   "net_income": 3790,
+   "total_assets": 75131,
+   "operating_cash_flow": 12161
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 45837,
+    "net_income": 3790
+   },
+   "balance_sheet": {
+    "total_assets": 75131
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12161
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $45,837 million. Net income was $3,790 million. Total assets were $75,131 million. Operating cash flow was $12,161 million.",
+   "mda": "Management Discussion FY2024 for Umbrella Co. Revenue of $45,837 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "HOOL-10K-2022": {
+  "filing_id": "HOOL-10K-2022",
+  "company": "Hooli Systems",
+  "ticker": "HOOL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 58663,
+   "net_income": 5819,
+   "total_assets": 97356,
+   "operating_cash_flow": 9280
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58663,
+    "net_income": 5819
+   },
+   "balance_sheet": {
+    "total_assets": 97356
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9280
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $58,663 million. Net income was $5,819 million. Total assets were $97,356 million. Operating cash flow was $9,280 million.",
+   "mda": "Management Discussion FY2022 for Hooli Systems. Revenue of $58,663 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "HOOL-10K-2023": {
+  "filing_id": "HOOL-10K-2023",
+  "company": "Hooli Systems",
+  "ticker": "HOOL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 14619,
+   "net_income": 1675,
+   "total_assets": 35185,
+   "operating_cash_flow": 4510
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 14619,
+    "net_income": 1675
+   },
+   "balance_sheet": {
+    "total_assets": 35185
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4510
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $14,619 million. Net income was $1,675 million. Total assets were $35,185 million. Operating cash flow was $4,510 million.",
+   "mda": "Management Discussion FY2023 for Hooli Systems. Revenue of $14,619 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "HOOL-10K-2024": {
+  "filing_id": "HOOL-10K-2024",
+  "company": "Hooli Systems",
+  "ticker": "HOOL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 18659,
+   "net_income": 2107,
+   "total_assets": 35806,
+   "operating_cash_flow": 3111
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 18659,
+    "net_income": 2107
+   },
+   "balance_sheet": {
+    "total_assets": 35806
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3111
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $18,659 million. Net income was $2,107 million. Total assets were $35,806 million. Operating cash flow was $3,111 million.",
+   "mda": "Management Discussion FY2024 for Hooli Systems. Revenue of $18,659 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "STK-10K-2022": {
+  "filing_id": "STK-10K-2022",
+  "company": "Stark Industries",
+  "ticker": "STK",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 52796,
+   "net_income": 8456,
+   "total_assets": 143513,
+   "operating_cash_flow": 7538
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 52796,
+    "net_income": 8456
+   },
+   "balance_sheet": {
+    "total_assets": 143513
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7538
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $52,796 million. Net income was $8,456 million. Total assets were $143,513 million. Operating cash flow was $7,538 million.",
+   "mda": "Management Discussion FY2022 for Stark Industries. Revenue of $52,796 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "STK-10K-2023": {
+  "filing_id": "STK-10K-2023",
+  "company": "Stark Industries",
+  "ticker": "STK",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 55784,
+   "net_income": 5110,
+   "total_assets": 135249,
+   "operating_cash_flow": 9343
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 55784,
+    "net_income": 5110
+   },
+   "balance_sheet": {
+    "total_assets": 135249
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9343
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $55,784 million. Net income was $5,110 million. Total assets were $135,249 million. Operating cash flow was $9,343 million.",
+   "mda": "Management Discussion FY2023 for Stark Industries. Revenue of $55,784 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "STK-10K-2024": {
+  "filing_id": "STK-10K-2024",
+  "company": "Stark Industries",
+  "ticker": "STK",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 49943,
+   "net_income": 8339,
+   "total_assets": 96850,
+   "operating_cash_flow": 9043
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 49943,
+    "net_income": 8339
+   },
+   "balance_sheet": {
+    "total_assets": 96850
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9043
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $49,943 million. Net income was $8,339 million. Total assets were $96,850 million. Operating cash flow was $9,043 million.",
+   "mda": "Management Discussion FY2024 for Stark Industries. Revenue of $49,943 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "WYNE-10K-2022": {
+  "filing_id": "WYNE-10K-2022",
+  "company": "Wayne Enterprises",
+  "ticker": "WYNE",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 58352,
+   "net_income": 10615,
+   "total_assets": 114258,
+   "operating_cash_flow": 6303
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58352,
+    "net_income": 10615
+   },
+   "balance_sheet": {
+    "total_assets": 114258
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6303
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $58,352 million. Net income was $10,615 million. Total assets were $114,258 million. Operating cash flow was $6,303 million.",
+   "mda": "Management Discussion FY2022 for Wayne Enterprises. Revenue of $58,352 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "WYNE-10K-2023": {
+  "filing_id": "WYNE-10K-2023",
+  "company": "Wayne Enterprises",
+  "ticker": "WYNE",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 28673,
+   "net_income": 3389,
+   "total_assets": 46805,
+   "operating_cash_flow": 9412
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 28673,
+    "net_income": 3389
+   },
+   "balance_sheet": {
+    "total_assets": 46805
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9412
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $28,673 million. Net income was $3,389 million. Total assets were $46,805 million. Operating cash flow was $9,412 million.",
+   "mda": "Management Discussion FY2023 for Wayne Enterprises. Revenue of $28,673 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "WYNE-10K-2024": {
+  "filing_id": "WYNE-10K-2024",
+  "company": "Wayne Enterprises",
+  "ticker": "WYNE",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 45170,
+   "net_income": 8988,
+   "total_assets": 96182,
+   "operating_cash_flow": 11918
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 45170,
+    "net_income": 8988
+   },
+   "balance_sheet": {
+    "total_assets": 96182
+   },
+   "cash_flow": {
+    "operating_cash_flow": 11918
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $45,170 million. Net income was $8,988 million. Total assets were $96,182 million. Operating cash flow was $11,918 million.",
+   "mda": "Management Discussion FY2024 for Wayne Enterprises. Revenue of $45,170 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "MSDV-10K-2022": {
+  "filing_id": "MSDV-10K-2022",
+  "company": "Massive Dynamic",
+  "ticker": "MSDV",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 33928,
+   "net_income": 6799,
+   "total_assets": 94513,
+   "operating_cash_flow": 4604
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 33928,
+    "net_income": 6799
+   },
+   "balance_sheet": {
+    "total_assets": 94513
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4604
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $33,928 million. Net income was $6,799 million. Total assets were $94,513 million. Operating cash flow was $4,604 million.",
+   "mda": "Management Discussion FY2022 for Massive Dynamic. Revenue of $33,928 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "MSDV-10K-2023": {
+  "filing_id": "MSDV-10K-2023",
+  "company": "Massive Dynamic",
+  "ticker": "MSDV",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 17150,
+   "net_income": 1576,
+   "total_assets": 44979,
+   "operating_cash_flow": 2841
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17150,
+    "net_income": 1576
+   },
+   "balance_sheet": {
+    "total_assets": 44979
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2841
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $17,150 million. Net income was $1,576 million. Total assets were $44,979 million. Operating cash flow was $2,841 million.",
+   "mda": "Management Discussion FY2023 for Massive Dynamic. Revenue of $17,150 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "MSDV-10K-2024": {
+  "filing_id": "MSDV-10K-2024",
+  "company": "Massive Dynamic",
+  "ticker": "MSDV",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 46311,
+   "net_income": 5688,
+   "total_assets": 123514,
+   "operating_cash_flow": 8822
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 46311,
+    "net_income": 5688
+   },
+   "balance_sheet": {
+    "total_assets": 123514
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8822
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $46,311 million. Net income was $5,688 million. Total assets were $123,514 million. Operating cash flow was $8,822 million.",
+   "mda": "Management Discussion FY2024 for Massive Dynamic. Revenue of $46,311 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "CYBD-10K-2022": {
+  "filing_id": "CYBD-10K-2022",
+  "company": "Cyberdyne Systems",
+  "ticker": "CYBD",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 34773,
+   "net_income": 4812,
+   "total_assets": 100953,
+   "operating_cash_flow": 4491
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 34773,
+    "net_income": 4812
+   },
+   "balance_sheet": {
+    "total_assets": 100953
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4491
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $34,773 million. Net income was $4,812 million. Total assets were $100,953 million. Operating cash flow was $4,491 million.",
+   "mda": "Management Discussion FY2022 for Cyberdyne Systems. Revenue of $34,773 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "CYBD-10K-2023": {
+  "filing_id": "CYBD-10K-2023",
+  "company": "Cyberdyne Systems",
+  "ticker": "CYBD",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 32875,
+   "net_income": 2902,
+   "total_assets": 51225,
+   "operating_cash_flow": 4246
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 32875,
+    "net_income": 2902
+   },
+   "balance_sheet": {
+    "total_assets": 51225
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4246
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $32,875 million. Net income was $2,902 million. Total assets were $51,225 million. Operating cash flow was $4,246 million.",
+   "mda": "Management Discussion FY2023 for Cyberdyne Systems. Revenue of $32,875 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "CYBD-10K-2024": {
+  "filing_id": "CYBD-10K-2024",
+  "company": "Cyberdyne Systems",
+  "ticker": "CYBD",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 8577,
+   "net_income": 574,
+   "total_assets": 26150,
+   "operating_cash_flow": 2334
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8577,
+    "net_income": 574
+   },
+   "balance_sheet": {
+    "total_assets": 26150
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2334
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $8,577 million. Net income was $574 million. Total assets were $26,150 million. Operating cash flow was $2,334 million.",
+   "mda": "Management Discussion FY2024 for Cyberdyne Systems. Revenue of $8,577 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "TYRL-10K-2022": {
+  "filing_id": "TYRL-10K-2022",
+  "company": "Tyrell Corp",
+  "ticker": "TYRL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 27856,
+   "net_income": 4676,
+   "total_assets": 62866,
+   "operating_cash_flow": 5606
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27856,
+    "net_income": 4676
+   },
+   "balance_sheet": {
+    "total_assets": 62866
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5606
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $27,856 million. Net income was $4,676 million. Total assets were $62,866 million. Operating cash flow was $5,606 million.",
+   "mda": "Management Discussion FY2022 for Tyrell Corp. Revenue of $27,856 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "TYRL-10K-2023": {
+  "filing_id": "TYRL-10K-2023",
+  "company": "Tyrell Corp",
+  "ticker": "TYRL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 53305,
+   "net_income": 8736,
+   "total_assets": 118154,
+   "operating_cash_flow": 9845
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 53305,
+    "net_income": 8736
+   },
+   "balance_sheet": {
+    "total_assets": 118154
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9845
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $53,305 million. Net income was $8,736 million. Total assets were $118,154 million. Operating cash flow was $9,845 million.",
+   "mda": "Management Discussion FY2023 for Tyrell Corp. Revenue of $53,305 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "TYRL-10K-2024": {
+  "filing_id": "TYRL-10K-2024",
+  "company": "Tyrell Corp",
+  "ticker": "TYRL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 26528,
+   "net_income": 4109,
+   "total_assets": 45734,
+   "operating_cash_flow": 3117
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 26528,
+    "net_income": 4109
+   },
+   "balance_sheet": {
+    "total_assets": 45734
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3117
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $26,528 million. Net income was $4,109 million. Total assets were $45,734 million. Operating cash flow was $3,117 million.",
+   "mda": "Management Discussion FY2024 for Tyrell Corp. Revenue of $26,528 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "SOYL-10K-2022": {
+  "filing_id": "SOYL-10K-2022",
+  "company": "Soylent Corp",
+  "ticker": "SOYL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 14201,
+   "net_income": 1361,
+   "total_assets": 30260,
+   "operating_cash_flow": 4768
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 14201,
+    "net_income": 1361
+   },
+   "balance_sheet": {
+    "total_assets": 30260
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4768
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $14,201 million. Net income was $1,361 million. Total assets were $30,260 million. Operating cash flow was $4,768 million.",
+   "mda": "Management Discussion FY2022 for Soylent Corp. Revenue of $14,201 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "SOYL-10K-2023": {
+  "filing_id": "SOYL-10K-2023",
+  "company": "Soylent Corp",
+  "ticker": "SOYL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 26986,
+   "net_income": 1509,
+   "total_assets": 61305,
+   "operating_cash_flow": 5918
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 26986,
+    "net_income": 1509
+   },
+   "balance_sheet": {
+    "total_assets": 61305
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5918
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $26,986 million. Net income was $1,509 million. Total assets were $61,305 million. Operating cash flow was $5,918 million.",
+   "mda": "Management Discussion FY2023 for Soylent Corp. Revenue of $26,986 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "SOYL-10K-2024": {
+  "filing_id": "SOYL-10K-2024",
+  "company": "Soylent Corp",
+  "ticker": "SOYL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic procedural filing (seeded generator, no real issuer)",
+  "values": {
+   "revenue": 20489,
+   "net_income": 1681,
+   "total_assets": 41320,
+   "operating_cash_flow": 3319
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 20489,
+    "net_income": 1681
+   },
+   "balance_sheet": {
+    "total_assets": 41320
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3319
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $20,489 million. Net income was $1,681 million. Total assets were $41,320 million. Operating cash flow was $3,319 million.",
+   "mda": "Management Discussion FY2024 for Soylent Corp. Revenue of $20,489 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ }
+}

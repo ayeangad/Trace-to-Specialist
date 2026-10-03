@@ -1,0 +1,23 @@
+{
+ "seed": 42,
+ "train_companies": [
+  "ACME Corp",
+  "Globex Inc",
+  "Initech LLC",
+  "Umbrella Co",
+  "Hooli Systems",
+  "Stark Industries",
+  "Wayne Enterprises",
+  "Massive Dynamic"
+ ],
+ "test_companies": [
+  "Cyberdyne Systems",
+  "Tyrell Corp",
+  "Soylent Corp"
+ ],
+ "counts": {
+  "train": 400,
+  "dev": 56,
+  "frozen_test": 99
+ }
+}
