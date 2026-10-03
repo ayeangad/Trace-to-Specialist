@@ -1,0 +1,400 @@
+{"prompt": "What was Globex Inc's operating cash flow for FY2023? Cite the filing.", "completion": "$10,740 million (filing GLBX-10K-2023, evidence: \"$10,740 million\")", "task_id": "tr-0000"}
+{"prompt": "Extract revenue FY2023 for ACME Corp (ACME) from the 10-K.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0001"}
+{"prompt": "How much net income did Wayne Enterprises report in FY2024?", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0002"}
+{"prompt": "How much revenue did Wayne Enterprises report in FY2023?", "completion": "$28,673 million (filing WYNE-10K-2023, evidence: \"$28,673 million\")", "task_id": "tr-0003"}
+{"prompt": "HOOL FY2022 operating cash flow \u2014 lookup and cite.", "completion": "$9,280 million (filing HOOL-10K-2022, evidence: \"$9,280 million\")", "task_id": "tr-0004"}
+{"prompt": "What was Initech LLC's revenue for FY2024? Cite the filing.", "completion": "$30,541 million (filing INIT-10K-2024, evidence: \"$30,541 million\")", "task_id": "tr-0005"}
+{"prompt": "Find Massive Dynamic 2022 total assets \u2014 give value + evidence.", "completion": "$94,513 million (filing MSDV-10K-2022, evidence: \"$94,513 million\")", "task_id": "tr-0006"}
+{"prompt": "How much total assets did Globex Inc report in FY2022?", "completion": "$36,104 million (filing GLBX-10K-2022, evidence: \"$36,104 million\")", "task_id": "tr-0007"}
+{"prompt": "What was Globex Inc's operating cash flow for FY2024? Cite the filing.", "completion": "$7,907 million (filing GLBX-10K-2024, evidence: \"$7,907 million\")", "task_id": "tr-0008"}
+{"prompt": "MSDV FY2024 total assets \u2014 lookup and cite.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0009"}
+{"prompt": "Find Globex Inc 2024 revenue \u2014 give value + evidence.", "completion": "$26,231 million (filing GLBX-10K-2024, evidence: \"$26,231 million\")", "task_id": "tr-0010"}
+{"prompt": "Extract net income FY2024 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0011"}
+{"prompt": "UMBR FY2024 net income \u2014 lookup and cite.", "completion": "$3,790 million (filing UMBR-10K-2024, evidence: \"$3,790 million\")", "task_id": "tr-0012"}
+{"prompt": "STK FY2023 revenue \u2014 lookup and cite.", "completion": "$55,784 million (filing STK-10K-2023, evidence: \"$55,784 million\")", "task_id": "tr-0013"}
+{"prompt": "What was Umbrella Co's operating cash flow for FY2023? Cite the filing.", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0014"}
+{"prompt": "Find Globex Inc 2022 total assets \u2014 give value + evidence.", "completion": "$36,104 million (filing GLBX-10K-2022, evidence: \"$36,104 million\")", "task_id": "tr-0015"}
+{"prompt": "Extract revenue FY2023 for Initech LLC (INIT) from the 10-K.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0016"}
+{"prompt": "What was Wayne Enterprises's revenue for FY2022? Cite the filing.", "completion": "$58,352 million (filing WYNE-10K-2022, evidence: \"$58,352 million\")", "task_id": "tr-0017"}
+{"prompt": "What was Massive Dynamic's operating cash flow for FY2024? Cite the filing.", "completion": "$8,822 million (filing MSDV-10K-2024, evidence: \"$8,822 million\")", "task_id": "tr-0018"}
+{"prompt": "Extract net income FY2024 for Stark Industries (STK) from the 10-K.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0019"}
+{"prompt": "MSDV FY2022 operating cash flow \u2014 lookup and cite.", "completion": "$4,604 million (filing MSDV-10K-2022, evidence: \"$4,604 million\")", "task_id": "tr-0020"}
+{"prompt": "GLBX FY2024 total assets \u2014 lookup and cite.", "completion": "$39,687 million (filing GLBX-10K-2024, evidence: \"$39,687 million\")", "task_id": "tr-0021"}
+{"prompt": "Extract operating cash flow FY2023 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$9,412 million (filing WYNE-10K-2023, evidence: \"$9,412 million\")", "task_id": "tr-0022"}
+{"prompt": "Find Stark Industries 2024 net income \u2014 give value + evidence.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0023"}
+{"prompt": "How much total assets did Hooli Systems report in FY2022?", "completion": "$97,356 million (filing HOOL-10K-2022, evidence: \"$97,356 million\")", "task_id": "tr-0024"}
+{"prompt": "What was Stark Industries's operating cash flow for FY2023? Cite the filing.", "completion": "$9,343 million (filing STK-10K-2023, evidence: \"$9,343 million\")", "task_id": "tr-0025"}
+{"prompt": "What was Initech LLC's net income for FY2023? Cite the filing.", "completion": "$6,222 million (filing INIT-10K-2023, evidence: \"$6,222 million\")", "task_id": "tr-0026"}
+{"prompt": "UMBR FY2023 revenue \u2014 lookup and cite.", "completion": "$27,213 million (filing UMBR-10K-2023, evidence: \"$27,213 million\")", "task_id": "tr-0027"}
+{"prompt": "STK FY2024 net income \u2014 lookup and cite.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0028"}
+{"prompt": "What was Initech LLC's revenue for FY2023? Cite the filing.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0029"}
+{"prompt": "Extract revenue FY2023 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$17,150 million (filing MSDV-10K-2023, evidence: \"$17,150 million\")", "task_id": "tr-0030"}
+{"prompt": "Find ACME Corp 2024 revenue \u2014 give value + evidence.", "completion": "$13,697 million (filing ACME-10K-2024, evidence: \"$13,697 million\")", "task_id": "tr-0031"}
+{"prompt": "Find ACME Corp 2024 net income \u2014 give value + evidence.", "completion": "$2,059 million (filing ACME-10K-2024, evidence: \"$2,059 million\")", "task_id": "tr-0032"}
+{"prompt": "Extract operating cash flow FY2022 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$4,604 million (filing MSDV-10K-2022, evidence: \"$4,604 million\")", "task_id": "tr-0033"}
+{"prompt": "STK FY2024 net income \u2014 lookup and cite.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0034"}
+{"prompt": "Extract operating cash flow FY2022 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$6,303 million (filing WYNE-10K-2022, evidence: \"$6,303 million\")", "task_id": "tr-0035"}
+{"prompt": "Extract operating cash flow FY2022 for Stark Industries (STK) from the 10-K.", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0036"}
+{"prompt": "How much revenue did Globex Inc report in FY2022?", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0037"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2024?", "completion": "$12,161 million (filing UMBR-10K-2024, evidence: \"$12,161 million\")", "task_id": "tr-0038"}
+{"prompt": "What was Hooli Systems's revenue for FY2024? Cite the filing.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0039"}
+{"prompt": "Find ACME Corp 2023 operating cash flow \u2014 give value + evidence.", "completion": "$5,538 million (filing ACME-10K-2023, evidence: \"$5,538 million\")", "task_id": "tr-0040"}
+{"prompt": "Extract net income FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$3,159 million (filing GLBX-10K-2022, evidence: \"$3,159 million\")", "task_id": "tr-0041"}
+{"prompt": "Extract operating cash flow FY2022 for Initech LLC (INIT) from the 10-K.", "completion": "$8,268 million (filing INIT-10K-2022, evidence: \"$8,268 million\")", "task_id": "tr-0042"}
+{"prompt": "Find Hooli Systems 2023 net income \u2014 give value + evidence.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0043"}
+{"prompt": "What was Hooli Systems's net income for FY2024? Cite the filing.", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0044"}
+{"prompt": "What was Hooli Systems's revenue for FY2024? Cite the filing.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0045"}
+{"prompt": "What was Wayne Enterprises's revenue for FY2024? Cite the filing.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0046"}
+{"prompt": "How much net income did Initech LLC report in FY2023?", "completion": "$6,222 million (filing INIT-10K-2023, evidence: \"$6,222 million\")", "task_id": "tr-0047"}
+{"prompt": "Extract operating cash flow FY2022 for Stark Industries (STK) from the 10-K.", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0048"}
+{"prompt": "Extract revenue FY2022 for Hooli Systems (HOOL) from the 10-K.", "completion": "$58,663 million (filing HOOL-10K-2022, evidence: \"$58,663 million\")", "task_id": "tr-0049"}
+{"prompt": "How much revenue did Hooli Systems report in FY2022?", "completion": "$58,663 million (filing HOOL-10K-2022, evidence: \"$58,663 million\")", "task_id": "tr-0050"}
+{"prompt": "Find Initech LLC 2024 operating cash flow \u2014 give value + evidence.", "completion": "$8,625 million (filing INIT-10K-2024, evidence: \"$8,625 million\")", "task_id": "tr-0051"}
+{"prompt": "Extract operating cash flow FY2023 for Hooli Systems (HOOL) from the 10-K.", "completion": "$4,510 million (filing HOOL-10K-2023, evidence: \"$4,510 million\")", "task_id": "tr-0052"}
+{"prompt": "Extract total assets FY2022 for Initech LLC (INIT) from the 10-K.", "completion": "$110,502 million (filing INIT-10K-2022, evidence: \"$110,502 million\")", "task_id": "tr-0053"}
+{"prompt": "Find ACME Corp 2023 revenue \u2014 give value + evidence.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0054"}
+{"prompt": "ACME FY2023 revenue \u2014 lookup and cite.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0055"}
+{"prompt": "What was Stark Industries's net income for FY2022? Cite the filing.", "completion": "$8,456 million (filing STK-10K-2022, evidence: \"$8,456 million\")", "task_id": "tr-0056"}
+{"prompt": "Extract revenue FY2023 for Stark Industries (STK) from the 10-K.", "completion": "$55,784 million (filing STK-10K-2023, evidence: \"$55,784 million\")", "task_id": "tr-0057"}
+{"prompt": "Extract revenue FY2024 for ACME Corp (ACME) from the 10-K.", "completion": "$13,697 million (filing ACME-10K-2024, evidence: \"$13,697 million\")", "task_id": "tr-0058"}
+{"prompt": "HOOL FY2022 revenue \u2014 lookup and cite.", "completion": "$58,663 million (filing HOOL-10K-2022, evidence: \"$58,663 million\")", "task_id": "tr-0059"}
+{"prompt": "INIT FY2023 revenue \u2014 lookup and cite.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0060"}
+{"prompt": "ACME FY2024 operating cash flow \u2014 lookup and cite.", "completion": "$1,690 million (filing ACME-10K-2024, evidence: \"$1,690 million\")", "task_id": "tr-0061"}
+{"prompt": "Find Wayne Enterprises 2022 total assets \u2014 give value + evidence.", "completion": "$114,258 million (filing WYNE-10K-2022, evidence: \"$114,258 million\")", "task_id": "tr-0062"}
+{"prompt": "Extract total assets FY2022 for Initech LLC (INIT) from the 10-K.", "completion": "$110,502 million (filing INIT-10K-2022, evidence: \"$110,502 million\")", "task_id": "tr-0063"}
+{"prompt": "Extract operating cash flow FY2024 for Initech LLC (INIT) from the 10-K.", "completion": "$8,625 million (filing INIT-10K-2024, evidence: \"$8,625 million\")", "task_id": "tr-0064"}
+{"prompt": "How much total assets did Massive Dynamic report in FY2022?", "completion": "$94,513 million (filing MSDV-10K-2022, evidence: \"$94,513 million\")", "task_id": "tr-0065"}
+{"prompt": "What was Umbrella Co's revenue for FY2023? Cite the filing.", "completion": "$27,213 million (filing UMBR-10K-2023, evidence: \"$27,213 million\")", "task_id": "tr-0066"}
+{"prompt": "What was Hooli Systems's revenue for FY2024? Cite the filing.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0067"}
+{"prompt": "STK FY2024 net income \u2014 lookup and cite.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0068"}
+{"prompt": "Find Initech LLC 2024 net income \u2014 give value + evidence.", "completion": "$4,661 million (filing INIT-10K-2024, evidence: \"$4,661 million\")", "task_id": "tr-0069"}
+{"prompt": "Find ACME Corp 2024 net income \u2014 give value + evidence.", "completion": "$2,059 million (filing ACME-10K-2024, evidence: \"$2,059 million\")", "task_id": "tr-0070"}
+{"prompt": "How much net income did Umbrella Co report in FY2022?", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0071"}
+{"prompt": "STK FY2024 total assets \u2014 lookup and cite.", "completion": "$96,850 million (filing STK-10K-2024, evidence: \"$96,850 million\")", "task_id": "tr-0072"}
+{"prompt": "WYNE FY2024 revenue \u2014 lookup and cite.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0073"}
+{"prompt": "Extract revenue FY2022 for Umbrella Co (UMBR) from the 10-K.", "completion": "$43,142 million (filing UMBR-10K-2022, evidence: \"$43,142 million\")", "task_id": "tr-0074"}
+{"prompt": "What was Initech LLC's revenue for FY2024? Cite the filing.", "completion": "$30,541 million (filing INIT-10K-2024, evidence: \"$30,541 million\")", "task_id": "tr-0075"}
+{"prompt": "Find Massive Dynamic 2024 net income \u2014 give value + evidence.", "completion": "$5,688 million (filing MSDV-10K-2024, evidence: \"$5,688 million\")", "task_id": "tr-0076"}
+{"prompt": "Find Umbrella Co 2022 net income \u2014 give value + evidence.", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0077"}
+{"prompt": "INIT FY2022 total assets \u2014 lookup and cite.", "completion": "$110,502 million (filing INIT-10K-2022, evidence: \"$110,502 million\")", "task_id": "tr-0078"}
+{"prompt": "What was Stark Industries's total assets for FY2022? Cite the filing.", "completion": "$143,513 million (filing STK-10K-2022, evidence: \"$143,513 million\")", "task_id": "tr-0079"}
+{"prompt": "Find ACME Corp 2024 operating cash flow \u2014 give value + evidence.", "completion": "$1,690 million (filing ACME-10K-2024, evidence: \"$1,690 million\")", "task_id": "tr-0080"}
+{"prompt": "Find ACME Corp 2023 revenue \u2014 give value + evidence.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0081"}
+{"prompt": "Extract total assets FY2023 for Globex Inc (GLBX) from the 10-K.", "completion": "$118,332 million (filing GLBX-10K-2023, evidence: \"$118,332 million\")", "task_id": "tr-0082"}
+{"prompt": "MSDV FY2024 operating cash flow \u2014 lookup and cite.", "completion": "$8,822 million (filing MSDV-10K-2024, evidence: \"$8,822 million\")", "task_id": "tr-0083"}
+{"prompt": "MSDV FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0084"}
+{"prompt": "What was ACME Corp's revenue for FY2022? Cite the filing.", "completion": "$49,905 million (filing ACME-10K-2022, evidence: \"$49,905 million\")", "task_id": "tr-0085"}
+{"prompt": "MSDV FY2023 net income \u2014 lookup and cite.", "completion": "$1,576 million (filing MSDV-10K-2023, evidence: \"$1,576 million\")", "task_id": "tr-0086"}
+{"prompt": "ACME FY2023 total assets \u2014 lookup and cite.", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0087"}
+{"prompt": "How much net income did Stark Industries report in FY2024?", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0088"}
+{"prompt": "Find Globex Inc 2023 revenue \u2014 give value + evidence.", "completion": "$50,590 million (filing GLBX-10K-2023, evidence: \"$50,590 million\")", "task_id": "tr-0089"}
+{"prompt": "Find Umbrella Co 2024 revenue \u2014 give value + evidence.", "completion": "$45,837 million (filing UMBR-10K-2024, evidence: \"$45,837 million\")", "task_id": "tr-0090"}
+{"prompt": "What was Initech LLC's net income for FY2022? Cite the filing.", "completion": "$6,549 million (filing INIT-10K-2022, evidence: \"$6,549 million\")", "task_id": "tr-0091"}
+{"prompt": "UMBR FY2024 operating cash flow \u2014 lookup and cite.", "completion": "$12,161 million (filing UMBR-10K-2024, evidence: \"$12,161 million\")", "task_id": "tr-0092"}
+{"prompt": "Extract net income FY2024 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$5,688 million (filing MSDV-10K-2024, evidence: \"$5,688 million\")", "task_id": "tr-0093"}
+{"prompt": "How much net income did Globex Inc report in FY2024?", "completion": "$4,921 million (filing GLBX-10K-2024, evidence: \"$4,921 million\")", "task_id": "tr-0094"}
+{"prompt": "Find ACME Corp 2022 net income \u2014 give value + evidence.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0095"}
+{"prompt": "Find Hooli Systems 2023 net income \u2014 give value + evidence.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0096"}
+{"prompt": "How much revenue did Globex Inc report in FY2024?", "completion": "$26,231 million (filing GLBX-10K-2024, evidence: \"$26,231 million\")", "task_id": "tr-0097"}
+{"prompt": "Extract operating cash flow FY2023 for ACME Corp (ACME) from the 10-K.", "completion": "$5,538 million (filing ACME-10K-2023, evidence: \"$5,538 million\")", "task_id": "tr-0098"}
+{"prompt": "Find Initech LLC 2022 operating cash flow \u2014 give value + evidence.", "completion": "$8,268 million (filing INIT-10K-2022, evidence: \"$8,268 million\")", "task_id": "tr-0099"}
+{"prompt": "Extract net income FY2022 for Umbrella Co (UMBR) from the 10-K.", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0100"}
+{"prompt": "How much net income did ACME Corp report in FY2022?", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0101"}
+{"prompt": "What was Umbrella Co's total assets for FY2023? Cite the filing.", "completion": "$74,483 million (filing UMBR-10K-2023, evidence: \"$74,483 million\")", "task_id": "tr-0102"}
+{"prompt": "INIT FY2024 total assets \u2014 lookup and cite.", "completion": "$95,112 million (filing INIT-10K-2024, evidence: \"$95,112 million\")", "task_id": "tr-0103"}
+{"prompt": "What was Hooli Systems's total assets for FY2022? Cite the filing.", "completion": "$97,356 million (filing HOOL-10K-2022, evidence: \"$97,356 million\")", "task_id": "tr-0104"}
+{"prompt": "Extract total assets FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$36,104 million (filing GLBX-10K-2022, evidence: \"$36,104 million\")", "task_id": "tr-0105"}
+{"prompt": "What was Wayne Enterprises's total assets for FY2022? Cite the filing.", "completion": "$114,258 million (filing WYNE-10K-2022, evidence: \"$114,258 million\")", "task_id": "tr-0106"}
+{"prompt": "Find Globex Inc 2022 operating cash flow \u2014 give value + evidence.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0107"}
+{"prompt": "How much total assets did Massive Dynamic report in FY2024?", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0108"}
+{"prompt": "How much revenue did Wayne Enterprises report in FY2023?", "completion": "$28,673 million (filing WYNE-10K-2023, evidence: \"$28,673 million\")", "task_id": "tr-0109"}
+{"prompt": "Find Wayne Enterprises 2022 net income \u2014 give value + evidence.", "completion": "$10,615 million (filing WYNE-10K-2022, evidence: \"$10,615 million\")", "task_id": "tr-0110"}
+{"prompt": "What was ACME Corp's operating cash flow for FY2023? Cite the filing.", "completion": "$5,538 million (filing ACME-10K-2023, evidence: \"$5,538 million\")", "task_id": "tr-0111"}
+{"prompt": "Find Stark Industries 2023 net income \u2014 give value + evidence.", "completion": "$5,110 million (filing STK-10K-2023, evidence: \"$5,110 million\")", "task_id": "tr-0112"}
+{"prompt": "Find Hooli Systems 2023 revenue \u2014 give value + evidence.", "completion": "$14,619 million (filing HOOL-10K-2023, evidence: \"$14,619 million\")", "task_id": "tr-0113"}
+{"prompt": "What was Wayne Enterprises's total assets for FY2023? Cite the filing.", "completion": "$46,805 million (filing WYNE-10K-2023, evidence: \"$46,805 million\")", "task_id": "tr-0114"}
+{"prompt": "MSDV FY2024 total assets \u2014 lookup and cite.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0115"}
+{"prompt": "Find Umbrella Co 2022 operating cash flow \u2014 give value + evidence.", "completion": "$5,164 million (filing UMBR-10K-2022, evidence: \"$5,164 million\")", "task_id": "tr-0116"}
+{"prompt": "HOOL FY2022 total assets \u2014 lookup and cite.", "completion": "$97,356 million (filing HOOL-10K-2022, evidence: \"$97,356 million\")", "task_id": "tr-0117"}
+{"prompt": "How much net income did Globex Inc report in FY2023?", "completion": "$8,561 million (filing GLBX-10K-2023, evidence: \"$8,561 million\")", "task_id": "tr-0118"}
+{"prompt": "Extract operating cash flow FY2022 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$4,604 million (filing MSDV-10K-2022, evidence: \"$4,604 million\")", "task_id": "tr-0119"}
+{"prompt": "How much total assets did Wayne Enterprises report in FY2023?", "completion": "$46,805 million (filing WYNE-10K-2023, evidence: \"$46,805 million\")", "task_id": "tr-0120"}
+{"prompt": "Find Stark Industries 2024 revenue \u2014 give value + evidence.", "completion": "$49,943 million (filing STK-10K-2024, evidence: \"$49,943 million\")", "task_id": "tr-0121"}
+{"prompt": "How much net income did Umbrella Co report in FY2022?", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0122"}
+{"prompt": "How much total assets did Wayne Enterprises report in FY2022?", "completion": "$114,258 million (filing WYNE-10K-2022, evidence: \"$114,258 million\")", "task_id": "tr-0123"}
+{"prompt": "Extract operating cash flow FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$3,111 million (filing HOOL-10K-2024, evidence: \"$3,111 million\")", "task_id": "tr-0124"}
+{"prompt": "Extract operating cash flow FY2023 for Stark Industries (STK) from the 10-K.", "completion": "$9,343 million (filing STK-10K-2023, evidence: \"$9,343 million\")", "task_id": "tr-0125"}
+{"prompt": "Find Massive Dynamic 2022 revenue \u2014 give value + evidence.", "completion": "$33,928 million (filing MSDV-10K-2022, evidence: \"$33,928 million\")", "task_id": "tr-0126"}
+{"prompt": "What was Stark Industries's total assets for FY2023? Cite the filing.", "completion": "$135,249 million (filing STK-10K-2023, evidence: \"$135,249 million\")", "task_id": "tr-0127"}
+{"prompt": "Extract total assets FY2023 for Initech LLC (INIT) from the 10-K.", "completion": "$97,819 million (filing INIT-10K-2023, evidence: \"$97,819 million\")", "task_id": "tr-0128"}
+{"prompt": "What was Initech LLC's net income for FY2022? Cite the filing.", "completion": "$6,549 million (filing INIT-10K-2022, evidence: \"$6,549 million\")", "task_id": "tr-0129"}
+{"prompt": "How much net income did ACME Corp report in FY2023?", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0130"}
+{"prompt": "How much revenue did Wayne Enterprises report in FY2023?", "completion": "$28,673 million (filing WYNE-10K-2023, evidence: \"$28,673 million\")", "task_id": "tr-0131"}
+{"prompt": "How much net income did Hooli Systems report in FY2023?", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0132"}
+{"prompt": "Extract operating cash flow FY2022 for Stark Industries (STK) from the 10-K.", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0133"}
+{"prompt": "What was Globex Inc's revenue for FY2023? Cite the filing.", "completion": "$50,590 million (filing GLBX-10K-2023, evidence: \"$50,590 million\")", "task_id": "tr-0134"}
+{"prompt": "Extract net income FY2023 for Hooli Systems (HOOL) from the 10-K.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0135"}
+{"prompt": "What was Massive Dynamic's operating cash flow for FY2023? Cite the filing.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0136"}
+{"prompt": "What was Stark Industries's net income for FY2024? Cite the filing.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0137"}
+{"prompt": "How much net income did Hooli Systems report in FY2024?", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0138"}
+{"prompt": "How much total assets did Massive Dynamic report in FY2022?", "completion": "$94,513 million (filing MSDV-10K-2022, evidence: \"$94,513 million\")", "task_id": "tr-0139"}
+{"prompt": "WYNE FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$9,412 million (filing WYNE-10K-2023, evidence: \"$9,412 million\")", "task_id": "tr-0140"}
+{"prompt": "How much net income did Hooli Systems report in FY2024?", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0141"}
+{"prompt": "Extract total assets FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0142"}
+{"prompt": "WYNE FY2024 total assets \u2014 lookup and cite.", "completion": "$96,182 million (filing WYNE-10K-2024, evidence: \"$96,182 million\")", "task_id": "tr-0143"}
+{"prompt": "Find Stark Industries 2022 net income \u2014 give value + evidence.", "completion": "$8,456 million (filing STK-10K-2022, evidence: \"$8,456 million\")", "task_id": "tr-0144"}
+{"prompt": "Find Hooli Systems 2024 revenue \u2014 give value + evidence.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0145"}
+{"prompt": "Find Initech LLC 2023 total assets \u2014 give value + evidence.", "completion": "$97,819 million (filing INIT-10K-2023, evidence: \"$97,819 million\")", "task_id": "tr-0146"}
+{"prompt": "Extract revenue FY2023 for Umbrella Co (UMBR) from the 10-K.", "completion": "$27,213 million (filing UMBR-10K-2023, evidence: \"$27,213 million\")", "task_id": "tr-0147"}
+{"prompt": "How much net income did Globex Inc report in FY2023?", "completion": "$8,561 million (filing GLBX-10K-2023, evidence: \"$8,561 million\")", "task_id": "tr-0148"}
+{"prompt": "Extract net income FY2023 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$1,576 million (filing MSDV-10K-2023, evidence: \"$1,576 million\")", "task_id": "tr-0149"}
+{"prompt": "How much operating cash flow did ACME Corp report in FY2024?", "completion": "$1,690 million (filing ACME-10K-2024, evidence: \"$1,690 million\")", "task_id": "tr-0150"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2023?", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0151"}
+{"prompt": "How much net income did ACME Corp report in FY2023?", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0152"}
+{"prompt": "HOOL FY2022 revenue \u2014 lookup and cite.", "completion": "$58,663 million (filing HOOL-10K-2022, evidence: \"$58,663 million\")", "task_id": "tr-0153"}
+{"prompt": "What was Hooli Systems's operating cash flow for FY2022? Cite the filing.", "completion": "$9,280 million (filing HOOL-10K-2022, evidence: \"$9,280 million\")", "task_id": "tr-0154"}
+{"prompt": "How much total assets did Umbrella Co report in FY2024?", "completion": "$75,131 million (filing UMBR-10K-2024, evidence: \"$75,131 million\")", "task_id": "tr-0155"}
+{"prompt": "How much net income did Hooli Systems report in FY2023?", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0156"}
+{"prompt": "How much total assets did Initech LLC report in FY2023?", "completion": "$97,819 million (filing INIT-10K-2023, evidence: \"$97,819 million\")", "task_id": "tr-0157"}
+{"prompt": "How much revenue did Stark Industries report in FY2022?", "completion": "$52,796 million (filing STK-10K-2022, evidence: \"$52,796 million\")", "task_id": "tr-0158"}
+{"prompt": "Extract operating cash flow FY2023 for Umbrella Co (UMBR) from the 10-K.", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0159"}
+{"prompt": "HOOL FY2024 net income \u2014 lookup and cite.", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0160"}
+{"prompt": "How much revenue did Stark Industries report in FY2024?", "completion": "$49,943 million (filing STK-10K-2024, evidence: \"$49,943 million\")", "task_id": "tr-0161"}
+{"prompt": "What was Wayne Enterprises's revenue for FY2022? Cite the filing.", "completion": "$58,352 million (filing WYNE-10K-2022, evidence: \"$58,352 million\")", "task_id": "tr-0162"}
+{"prompt": "Extract operating cash flow FY2024 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$11,918 million (filing WYNE-10K-2024, evidence: \"$11,918 million\")", "task_id": "tr-0163"}
+{"prompt": "What was Hooli Systems's net income for FY2024? Cite the filing.", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0164"}
+{"prompt": "Find Initech LLC 2024 operating cash flow \u2014 give value + evidence.", "completion": "$8,625 million (filing INIT-10K-2024, evidence: \"$8,625 million\")", "task_id": "tr-0165"}
+{"prompt": "Find Initech LLC 2022 operating cash flow \u2014 give value + evidence.", "completion": "$8,268 million (filing INIT-10K-2022, evidence: \"$8,268 million\")", "task_id": "tr-0166"}
+{"prompt": "Find Umbrella Co 2023 operating cash flow \u2014 give value + evidence.", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0167"}
+{"prompt": "What was Hooli Systems's total assets for FY2023? Cite the filing.", "completion": "$35,185 million (filing HOOL-10K-2023, evidence: \"$35,185 million\")", "task_id": "tr-0168"}
+{"prompt": "STK FY2022 revenue \u2014 lookup and cite.", "completion": "$52,796 million (filing STK-10K-2022, evidence: \"$52,796 million\")", "task_id": "tr-0169"}
+{"prompt": "Extract total assets FY2023 for ACME Corp (ACME) from the 10-K.", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0170"}
+{"prompt": "What was Wayne Enterprises's revenue for FY2024? Cite the filing.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0171"}
+{"prompt": "Extract net income FY2022 for ACME Corp (ACME) from the 10-K.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0172"}
+{"prompt": "Extract net income FY2022 for ACME Corp (ACME) from the 10-K.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0173"}
+{"prompt": "What was Globex Inc's operating cash flow for FY2023? Cite the filing.", "completion": "$10,740 million (filing GLBX-10K-2023, evidence: \"$10,740 million\")", "task_id": "tr-0174"}
+{"prompt": "How much net income did Wayne Enterprises report in FY2022?", "completion": "$10,615 million (filing WYNE-10K-2022, evidence: \"$10,615 million\")", "task_id": "tr-0175"}
+{"prompt": "Find Massive Dynamic 2023 total assets \u2014 give value + evidence.", "completion": "$44,979 million (filing MSDV-10K-2023, evidence: \"$44,979 million\")", "task_id": "tr-0176"}
+{"prompt": "Extract revenue FY2024 for Globex Inc (GLBX) from the 10-K.", "completion": "$26,231 million (filing GLBX-10K-2024, evidence: \"$26,231 million\")", "task_id": "tr-0177"}
+{"prompt": "UMBR FY2022 revenue \u2014 lookup and cite.", "completion": "$43,142 million (filing UMBR-10K-2022, evidence: \"$43,142 million\")", "task_id": "tr-0178"}
+{"prompt": "ACME FY2022 total assets \u2014 lookup and cite.", "completion": "$148,871 million (filing ACME-10K-2022, evidence: \"$148,871 million\")", "task_id": "tr-0179"}
+{"prompt": "How much operating cash flow did Massive Dynamic report in FY2022?", "completion": "$4,604 million (filing MSDV-10K-2022, evidence: \"$4,604 million\")", "task_id": "tr-0180"}
+{"prompt": "What was Massive Dynamic's net income for FY2023? Cite the filing.", "completion": "$1,576 million (filing MSDV-10K-2023, evidence: \"$1,576 million\")", "task_id": "tr-0181"}
+{"prompt": "What was Wayne Enterprises's net income for FY2022? Cite the filing.", "completion": "$10,615 million (filing WYNE-10K-2022, evidence: \"$10,615 million\")", "task_id": "tr-0182"}
+{"prompt": "MSDV FY2023 total assets \u2014 lookup and cite.", "completion": "$44,979 million (filing MSDV-10K-2023, evidence: \"$44,979 million\")", "task_id": "tr-0183"}
+{"prompt": "Find Globex Inc 2022 revenue \u2014 give value + evidence.", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0184"}
+{"prompt": "Find Stark Industries 2024 operating cash flow \u2014 give value + evidence.", "completion": "$9,043 million (filing STK-10K-2024, evidence: \"$9,043 million\")", "task_id": "tr-0185"}
+{"prompt": "What was ACME Corp's total assets for FY2024? Cite the filing.", "completion": "$21,416 million (filing ACME-10K-2024, evidence: \"$21,416 million\")", "task_id": "tr-0186"}
+{"prompt": "What was Hooli Systems's operating cash flow for FY2023? Cite the filing.", "completion": "$4,510 million (filing HOOL-10K-2023, evidence: \"$4,510 million\")", "task_id": "tr-0187"}
+{"prompt": "How much total assets did Hooli Systems report in FY2023?", "completion": "$35,185 million (filing HOOL-10K-2023, evidence: \"$35,185 million\")", "task_id": "tr-0188"}
+{"prompt": "How much net income did Massive Dynamic report in FY2023?", "completion": "$1,576 million (filing MSDV-10K-2023, evidence: \"$1,576 million\")", "task_id": "tr-0189"}
+{"prompt": "GLBX FY2024 total assets \u2014 lookup and cite.", "completion": "$39,687 million (filing GLBX-10K-2024, evidence: \"$39,687 million\")", "task_id": "tr-0190"}
+{"prompt": "How much operating cash flow did Stark Industries report in FY2024?", "completion": "$9,043 million (filing STK-10K-2024, evidence: \"$9,043 million\")", "task_id": "tr-0191"}
+{"prompt": "Find Hooli Systems 2023 total assets \u2014 give value + evidence.", "completion": "$35,185 million (filing HOOL-10K-2023, evidence: \"$35,185 million\")", "task_id": "tr-0192"}
+{"prompt": "Find Initech LLC 2023 revenue \u2014 give value + evidence.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0193"}
+{"prompt": "How much net income did Hooli Systems report in FY2024?", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0194"}
+{"prompt": "Find Wayne Enterprises 2022 operating cash flow \u2014 give value + evidence.", "completion": "$6,303 million (filing WYNE-10K-2022, evidence: \"$6,303 million\")", "task_id": "tr-0195"}
+{"prompt": "Find ACME Corp 2022 operating cash flow \u2014 give value + evidence.", "completion": "$8,045 million (filing ACME-10K-2022, evidence: \"$8,045 million\")", "task_id": "tr-0196"}
+{"prompt": "Extract operating cash flow FY2024 for Globex Inc (GLBX) from the 10-K.", "completion": "$7,907 million (filing GLBX-10K-2024, evidence: \"$7,907 million\")", "task_id": "tr-0197"}
+{"prompt": "Find Umbrella Co 2024 total assets \u2014 give value + evidence.", "completion": "$75,131 million (filing UMBR-10K-2024, evidence: \"$75,131 million\")", "task_id": "tr-0198"}
+{"prompt": "INIT FY2024 total assets \u2014 lookup and cite.", "completion": "$95,112 million (filing INIT-10K-2024, evidence: \"$95,112 million\")", "task_id": "tr-0199"}
+{"prompt": "What was ACME Corp's net income for FY2022? Cite the filing.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0200"}
+{"prompt": "How much operating cash flow did Initech LLC report in FY2023?", "completion": "$7,206 million (filing INIT-10K-2023, evidence: \"$7,206 million\")", "task_id": "tr-0201"}
+{"prompt": "How much net income did Stark Industries report in FY2024?", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0202"}
+{"prompt": "How much operating cash flow did Wayne Enterprises report in FY2024?", "completion": "$11,918 million (filing WYNE-10K-2024, evidence: \"$11,918 million\")", "task_id": "tr-0203"}
+{"prompt": "Find ACME Corp 2022 revenue \u2014 give value + evidence.", "completion": "$49,905 million (filing ACME-10K-2022, evidence: \"$49,905 million\")", "task_id": "tr-0204"}
+{"prompt": "Extract operating cash flow FY2023 for Initech LLC (INIT) from the 10-K.", "completion": "$7,206 million (filing INIT-10K-2023, evidence: \"$7,206 million\")", "task_id": "tr-0205"}
+{"prompt": "How much total assets did Umbrella Co report in FY2022?", "completion": "$144,292 million (filing UMBR-10K-2022, evidence: \"$144,292 million\")", "task_id": "tr-0206"}
+{"prompt": "How much total assets did Stark Industries report in FY2024?", "completion": "$96,850 million (filing STK-10K-2024, evidence: \"$96,850 million\")", "task_id": "tr-0207"}
+{"prompt": "Find Massive Dynamic 2024 total assets \u2014 give value + evidence.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0208"}
+{"prompt": "Find Massive Dynamic 2023 operating cash flow \u2014 give value + evidence.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0209"}
+{"prompt": "Extract total assets FY2022 for Umbrella Co (UMBR) from the 10-K.", "completion": "$144,292 million (filing UMBR-10K-2022, evidence: \"$144,292 million\")", "task_id": "tr-0210"}
+{"prompt": "Find Globex Inc 2022 net income \u2014 give value + evidence.", "completion": "$3,159 million (filing GLBX-10K-2022, evidence: \"$3,159 million\")", "task_id": "tr-0211"}
+{"prompt": "Extract net income FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$3,159 million (filing GLBX-10K-2022, evidence: \"$3,159 million\")", "task_id": "tr-0212"}
+{"prompt": "Find Initech LLC 2022 operating cash flow \u2014 give value + evidence.", "completion": "$8,268 million (filing INIT-10K-2022, evidence: \"$8,268 million\")", "task_id": "tr-0213"}
+{"prompt": "What was Massive Dynamic's total assets for FY2024? Cite the filing.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0214"}
+{"prompt": "Extract total assets FY2022 for Initech LLC (INIT) from the 10-K.", "completion": "$110,502 million (filing INIT-10K-2022, evidence: \"$110,502 million\")", "task_id": "tr-0215"}
+{"prompt": "Find Umbrella Co 2024 net income \u2014 give value + evidence.", "completion": "$3,790 million (filing UMBR-10K-2024, evidence: \"$3,790 million\")", "task_id": "tr-0216"}
+{"prompt": "Find ACME Corp 2022 net income \u2014 give value + evidence.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0217"}
+{"prompt": "ACME FY2023 revenue \u2014 lookup and cite.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0218"}
+{"prompt": "How much net income did Umbrella Co report in FY2022?", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0219"}
+{"prompt": "GLBX FY2022 revenue \u2014 lookup and cite.", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0220"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2022?", "completion": "$5,164 million (filing UMBR-10K-2022, evidence: \"$5,164 million\")", "task_id": "tr-0221"}
+{"prompt": "Extract total assets FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0222"}
+{"prompt": "How much total assets did ACME Corp report in FY2023?", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0223"}
+{"prompt": "How much revenue did Globex Inc report in FY2022?", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0224"}
+{"prompt": "STK FY2022 revenue \u2014 lookup and cite.", "completion": "$52,796 million (filing STK-10K-2022, evidence: \"$52,796 million\")", "task_id": "tr-0225"}
+{"prompt": "Extract revenue FY2024 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0226"}
+{"prompt": "What was Globex Inc's total assets for FY2023? Cite the filing.", "completion": "$118,332 million (filing GLBX-10K-2023, evidence: \"$118,332 million\")", "task_id": "tr-0227"}
+{"prompt": "INIT FY2023 revenue \u2014 lookup and cite.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0228"}
+{"prompt": "HOOL FY2023 net income \u2014 lookup and cite.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0229"}
+{"prompt": "How much operating cash flow did Hooli Systems report in FY2022?", "completion": "$9,280 million (filing HOOL-10K-2022, evidence: \"$9,280 million\")", "task_id": "tr-0230"}
+{"prompt": "Find Umbrella Co 2022 operating cash flow \u2014 give value + evidence.", "completion": "$5,164 million (filing UMBR-10K-2022, evidence: \"$5,164 million\")", "task_id": "tr-0231"}
+{"prompt": "WYNE FY2022 revenue \u2014 lookup and cite.", "completion": "$58,352 million (filing WYNE-10K-2022, evidence: \"$58,352 million\")", "task_id": "tr-0232"}
+{"prompt": "Extract revenue FY2024 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$46,311 million (filing MSDV-10K-2024, evidence: \"$46,311 million\")", "task_id": "tr-0233"}
+{"prompt": "Find Wayne Enterprises 2024 net income \u2014 give value + evidence.", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0234"}
+{"prompt": "Extract revenue FY2022 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$33,928 million (filing MSDV-10K-2022, evidence: \"$33,928 million\")", "task_id": "tr-0235"}
+{"prompt": "INIT FY2023 net income \u2014 lookup and cite.", "completion": "$6,222 million (filing INIT-10K-2023, evidence: \"$6,222 million\")", "task_id": "tr-0236"}
+{"prompt": "What was ACME Corp's net income for FY2024? Cite the filing.", "completion": "$2,059 million (filing ACME-10K-2024, evidence: \"$2,059 million\")", "task_id": "tr-0237"}
+{"prompt": "HOOL FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$4,510 million (filing HOOL-10K-2023, evidence: \"$4,510 million\")", "task_id": "tr-0238"}
+{"prompt": "What was Stark Industries's total assets for FY2022? Cite the filing.", "completion": "$143,513 million (filing STK-10K-2022, evidence: \"$143,513 million\")", "task_id": "tr-0239"}
+{"prompt": "Find Initech LLC 2023 total assets \u2014 give value + evidence.", "completion": "$97,819 million (filing INIT-10K-2023, evidence: \"$97,819 million\")", "task_id": "tr-0240"}
+{"prompt": "What was Massive Dynamic's operating cash flow for FY2023? Cite the filing.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0241"}
+{"prompt": "Find Massive Dynamic 2022 net income \u2014 give value + evidence.", "completion": "$6,799 million (filing MSDV-10K-2022, evidence: \"$6,799 million\")", "task_id": "tr-0242"}
+{"prompt": "How much net income did Wayne Enterprises report in FY2024?", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0243"}
+{"prompt": "Extract net income FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$3,159 million (filing GLBX-10K-2022, evidence: \"$3,159 million\")", "task_id": "tr-0244"}
+{"prompt": "What was Initech LLC's net income for FY2024? Cite the filing.", "completion": "$4,661 million (filing INIT-10K-2024, evidence: \"$4,661 million\")", "task_id": "tr-0245"}
+{"prompt": "Find ACME Corp 2023 net income \u2014 give value + evidence.", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0246"}
+{"prompt": "How much total assets did Wayne Enterprises report in FY2023?", "completion": "$46,805 million (filing WYNE-10K-2023, evidence: \"$46,805 million\")", "task_id": "tr-0247"}
+{"prompt": "Find Globex Inc 2022 operating cash flow \u2014 give value + evidence.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0248"}
+{"prompt": "Find Massive Dynamic 2023 operating cash flow \u2014 give value + evidence.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0249"}
+{"prompt": "How much operating cash flow did Stark Industries report in FY2023?", "completion": "$9,343 million (filing STK-10K-2023, evidence: \"$9,343 million\")", "task_id": "tr-0250"}
+{"prompt": "How much revenue did ACME Corp report in FY2024?", "completion": "$13,697 million (filing ACME-10K-2024, evidence: \"$13,697 million\")", "task_id": "tr-0251"}
+{"prompt": "MSDV FY2024 total assets \u2014 lookup and cite.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0252"}
+{"prompt": "What was Initech LLC's revenue for FY2024? Cite the filing.", "completion": "$30,541 million (filing INIT-10K-2024, evidence: \"$30,541 million\")", "task_id": "tr-0253"}
+{"prompt": "Find Initech LLC 2023 revenue \u2014 give value + evidence.", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0254"}
+{"prompt": "Extract revenue FY2022 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$58,352 million (filing WYNE-10K-2022, evidence: \"$58,352 million\")", "task_id": "tr-0255"}
+{"prompt": "Find Stark Industries 2022 operating cash flow \u2014 give value + evidence.", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0256"}
+{"prompt": "How much operating cash flow did Globex Inc report in FY2024?", "completion": "$7,907 million (filing GLBX-10K-2024, evidence: \"$7,907 million\")", "task_id": "tr-0257"}
+{"prompt": "Find ACME Corp 2024 operating cash flow \u2014 give value + evidence.", "completion": "$1,690 million (filing ACME-10K-2024, evidence: \"$1,690 million\")", "task_id": "tr-0258"}
+{"prompt": "Find Hooli Systems 2023 total assets \u2014 give value + evidence.", "completion": "$35,185 million (filing HOOL-10K-2023, evidence: \"$35,185 million\")", "task_id": "tr-0259"}
+{"prompt": "Extract revenue FY2022 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$33,928 million (filing MSDV-10K-2022, evidence: \"$33,928 million\")", "task_id": "tr-0260"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2023?", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0261"}
+{"prompt": "UMBR FY2022 operating cash flow \u2014 lookup and cite.", "completion": "$5,164 million (filing UMBR-10K-2022, evidence: \"$5,164 million\")", "task_id": "tr-0262"}
+{"prompt": "What was ACME Corp's operating cash flow for FY2023? Cite the filing.", "completion": "$5,538 million (filing ACME-10K-2023, evidence: \"$5,538 million\")", "task_id": "tr-0263"}
+{"prompt": "Find Umbrella Co 2023 total assets \u2014 give value + evidence.", "completion": "$74,483 million (filing UMBR-10K-2023, evidence: \"$74,483 million\")", "task_id": "tr-0264"}
+{"prompt": "GLBX FY2022 operating cash flow \u2014 lookup and cite.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0265"}
+{"prompt": "How much operating cash flow did ACME Corp report in FY2022?", "completion": "$8,045 million (filing ACME-10K-2022, evidence: \"$8,045 million\")", "task_id": "tr-0266"}
+{"prompt": "ACME FY2023 net income \u2014 lookup and cite.", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0267"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2024?", "completion": "$12,161 million (filing UMBR-10K-2024, evidence: \"$12,161 million\")", "task_id": "tr-0268"}
+{"prompt": "Find ACME Corp 2023 net income \u2014 give value + evidence.", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0269"}
+{"prompt": "Find Stark Industries 2024 net income \u2014 give value + evidence.", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0270"}
+{"prompt": "What was Hooli Systems's operating cash flow for FY2024? Cite the filing.", "completion": "$3,111 million (filing HOOL-10K-2024, evidence: \"$3,111 million\")", "task_id": "tr-0271"}
+{"prompt": "Extract net income FY2022 for ACME Corp (ACME) from the 10-K.", "completion": "$3,439 million (filing ACME-10K-2022, evidence: \"$3,439 million\")", "task_id": "tr-0272"}
+{"prompt": "UMBR FY2022 revenue \u2014 lookup and cite.", "completion": "$43,142 million (filing UMBR-10K-2022, evidence: \"$43,142 million\")", "task_id": "tr-0273"}
+{"prompt": "Extract revenue FY2023 for Hooli Systems (HOOL) from the 10-K.", "completion": "$14,619 million (filing HOOL-10K-2023, evidence: \"$14,619 million\")", "task_id": "tr-0274"}
+{"prompt": "What was Globex Inc's operating cash flow for FY2022? Cite the filing.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0275"}
+{"prompt": "How much net income did Wayne Enterprises report in FY2024?", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0276"}
+{"prompt": "MSDV FY2023 total assets \u2014 lookup and cite.", "completion": "$44,979 million (filing MSDV-10K-2023, evidence: \"$44,979 million\")", "task_id": "tr-0277"}
+{"prompt": "How much total assets did Massive Dynamic report in FY2023?", "completion": "$44,979 million (filing MSDV-10K-2023, evidence: \"$44,979 million\")", "task_id": "tr-0278"}
+{"prompt": "Extract operating cash flow FY2022 for Stark Industries (STK) from the 10-K.", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0279"}
+{"prompt": "How much net income did Hooli Systems report in FY2024?", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0280"}
+{"prompt": "What was Initech LLC's net income for FY2022? Cite the filing.", "completion": "$6,549 million (filing INIT-10K-2022, evidence: \"$6,549 million\")", "task_id": "tr-0281"}
+{"prompt": "Find Initech LLC 2024 operating cash flow \u2014 give value + evidence.", "completion": "$8,625 million (filing INIT-10K-2024, evidence: \"$8,625 million\")", "task_id": "tr-0282"}
+{"prompt": "What was Stark Industries's total assets for FY2023? Cite the filing.", "completion": "$135,249 million (filing STK-10K-2023, evidence: \"$135,249 million\")", "task_id": "tr-0283"}
+{"prompt": "UMBR FY2022 total assets \u2014 lookup and cite.", "completion": "$144,292 million (filing UMBR-10K-2022, evidence: \"$144,292 million\")", "task_id": "tr-0284"}
+{"prompt": "Extract operating cash flow FY2022 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$6,303 million (filing WYNE-10K-2022, evidence: \"$6,303 million\")", "task_id": "tr-0285"}
+{"prompt": "Find Hooli Systems 2024 operating cash flow \u2014 give value + evidence.", "completion": "$3,111 million (filing HOOL-10K-2024, evidence: \"$3,111 million\")", "task_id": "tr-0286"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2023?", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0287"}
+{"prompt": "Extract net income FY2023 for Umbrella Co (UMBR) from the 10-K.", "completion": "$5,197 million (filing UMBR-10K-2023, evidence: \"$5,197 million\")", "task_id": "tr-0288"}
+{"prompt": "Extract operating cash flow FY2022 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$6,303 million (filing WYNE-10K-2022, evidence: \"$6,303 million\")", "task_id": "tr-0289"}
+{"prompt": "Find Hooli Systems 2023 revenue \u2014 give value + evidence.", "completion": "$14,619 million (filing HOOL-10K-2023, evidence: \"$14,619 million\")", "task_id": "tr-0290"}
+{"prompt": "How much operating cash flow did Massive Dynamic report in FY2024?", "completion": "$8,822 million (filing MSDV-10K-2024, evidence: \"$8,822 million\")", "task_id": "tr-0291"}
+{"prompt": "How much net income did Hooli Systems report in FY2022?", "completion": "$5,819 million (filing HOOL-10K-2022, evidence: \"$5,819 million\")", "task_id": "tr-0292"}
+{"prompt": "ACME FY2023 net income \u2014 lookup and cite.", "completion": "$3,003 million (filing ACME-10K-2023, evidence: \"$3,003 million\")", "task_id": "tr-0293"}
+{"prompt": "What was Wayne Enterprises's total assets for FY2022? Cite the filing.", "completion": "$114,258 million (filing WYNE-10K-2022, evidence: \"$114,258 million\")", "task_id": "tr-0294"}
+{"prompt": "HOOL FY2024 revenue \u2014 lookup and cite.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0295"}
+{"prompt": "Extract revenue FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0296"}
+{"prompt": "What was Hooli Systems's net income for FY2023? Cite the filing.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0297"}
+{"prompt": "Find Stark Industries 2022 total assets \u2014 give value + evidence.", "completion": "$143,513 million (filing STK-10K-2022, evidence: \"$143,513 million\")", "task_id": "tr-0298"}
+{"prompt": "What was Wayne Enterprises's operating cash flow for FY2023? Cite the filing.", "completion": "$9,412 million (filing WYNE-10K-2023, evidence: \"$9,412 million\")", "task_id": "tr-0299"}
+{"prompt": "Find Umbrella Co 2023 operating cash flow \u2014 give value + evidence.", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0300"}
+{"prompt": "WYNE FY2024 operating cash flow \u2014 lookup and cite.", "completion": "$11,918 million (filing WYNE-10K-2024, evidence: \"$11,918 million\")", "task_id": "tr-0301"}
+{"prompt": "Extract revenue FY2023 for ACME Corp (ACME) from the 10-K.", "completion": "$17,144 million (filing ACME-10K-2023, evidence: \"$17,144 million\")", "task_id": "tr-0302"}
+{"prompt": "Extract total assets FY2024 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$96,182 million (filing WYNE-10K-2024, evidence: \"$96,182 million\")", "task_id": "tr-0303"}
+{"prompt": "How much revenue did Massive Dynamic report in FY2024?", "completion": "$46,311 million (filing MSDV-10K-2024, evidence: \"$46,311 million\")", "task_id": "tr-0304"}
+{"prompt": "How much revenue did Globex Inc report in FY2022?", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0305"}
+{"prompt": "What was Globex Inc's total assets for FY2024? Cite the filing.", "completion": "$39,687 million (filing GLBX-10K-2024, evidence: \"$39,687 million\")", "task_id": "tr-0306"}
+{"prompt": "What was ACME Corp's total assets for FY2023? Cite the filing.", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0307"}
+{"prompt": "Find Umbrella Co 2022 total assets \u2014 give value + evidence.", "completion": "$144,292 million (filing UMBR-10K-2022, evidence: \"$144,292 million\")", "task_id": "tr-0308"}
+{"prompt": "Extract net income FY2023 for Hooli Systems (HOOL) from the 10-K.", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0309"}
+{"prompt": "STK FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$9,343 million (filing STK-10K-2023, evidence: \"$9,343 million\")", "task_id": "tr-0310"}
+{"prompt": "Extract net income FY2022 for Massive Dynamic (MSDV) from the 10-K.", "completion": "$6,799 million (filing MSDV-10K-2022, evidence: \"$6,799 million\")", "task_id": "tr-0311"}
+{"prompt": "GLBX FY2024 revenue \u2014 lookup and cite.", "completion": "$26,231 million (filing GLBX-10K-2024, evidence: \"$26,231 million\")", "task_id": "tr-0312"}
+{"prompt": "How much net income did Hooli Systems report in FY2022?", "completion": "$5,819 million (filing HOOL-10K-2022, evidence: \"$5,819 million\")", "task_id": "tr-0313"}
+{"prompt": "Extract net income FY2022 for Wayne Enterprises (WYNE) from the 10-K.", "completion": "$10,615 million (filing WYNE-10K-2022, evidence: \"$10,615 million\")", "task_id": "tr-0314"}
+{"prompt": "How much total assets did Hooli Systems report in FY2024?", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0315"}
+{"prompt": "How much revenue did Initech LLC report in FY2024?", "completion": "$30,541 million (filing INIT-10K-2024, evidence: \"$30,541 million\")", "task_id": "tr-0316"}
+{"prompt": "What was Umbrella Co's net income for FY2022? Cite the filing.", "completion": "$3,072 million (filing UMBR-10K-2022, evidence: \"$3,072 million\")", "task_id": "tr-0317"}
+{"prompt": "HOOL FY2024 total assets \u2014 lookup and cite.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0318"}
+{"prompt": "Find Umbrella Co 2022 operating cash flow \u2014 give value + evidence.", "completion": "$5,164 million (filing UMBR-10K-2022, evidence: \"$5,164 million\")", "task_id": "tr-0319"}
+{"prompt": "Extract total assets FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0320"}
+{"prompt": "What was Hooli Systems's operating cash flow for FY2022? Cite the filing.", "completion": "$9,280 million (filing HOOL-10K-2022, evidence: \"$9,280 million\")", "task_id": "tr-0321"}
+{"prompt": "INIT FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$7,206 million (filing INIT-10K-2023, evidence: \"$7,206 million\")", "task_id": "tr-0322"}
+{"prompt": "Find Umbrella Co 2024 total assets \u2014 give value + evidence.", "completion": "$75,131 million (filing UMBR-10K-2024, evidence: \"$75,131 million\")", "task_id": "tr-0323"}
+{"prompt": "Find ACME Corp 2022 operating cash flow \u2014 give value + evidence.", "completion": "$8,045 million (filing ACME-10K-2022, evidence: \"$8,045 million\")", "task_id": "tr-0324"}
+{"prompt": "ACME FY2022 revenue \u2014 lookup and cite.", "completion": "$49,905 million (filing ACME-10K-2022, evidence: \"$49,905 million\")", "task_id": "tr-0325"}
+{"prompt": "Find Massive Dynamic 2024 operating cash flow \u2014 give value + evidence.", "completion": "$8,822 million (filing MSDV-10K-2024, evidence: \"$8,822 million\")", "task_id": "tr-0326"}
+{"prompt": "Extract total assets FY2023 for Initech LLC (INIT) from the 10-K.", "completion": "$97,819 million (filing INIT-10K-2023, evidence: \"$97,819 million\")", "task_id": "tr-0327"}
+{"prompt": "WYNE FY2024 net income \u2014 lookup and cite.", "completion": "$8,988 million (filing WYNE-10K-2024, evidence: \"$8,988 million\")", "task_id": "tr-0328"}
+{"prompt": "What was Initech LLC's net income for FY2024? Cite the filing.", "completion": "$4,661 million (filing INIT-10K-2024, evidence: \"$4,661 million\")", "task_id": "tr-0329"}
+{"prompt": "Find Wayne Enterprises 2024 revenue \u2014 give value + evidence.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0330"}
+{"prompt": "HOOL FY2024 revenue \u2014 lookup and cite.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0331"}
+{"prompt": "What was Umbrella Co's net income for FY2024? Cite the filing.", "completion": "$3,790 million (filing UMBR-10K-2024, evidence: \"$3,790 million\")", "task_id": "tr-0332"}
+{"prompt": "How much total assets did Umbrella Co report in FY2022?", "completion": "$144,292 million (filing UMBR-10K-2022, evidence: \"$144,292 million\")", "task_id": "tr-0333"}
+{"prompt": "Extract net income FY2024 for Globex Inc (GLBX) from the 10-K.", "completion": "$4,921 million (filing GLBX-10K-2024, evidence: \"$4,921 million\")", "task_id": "tr-0334"}
+{"prompt": "STK FY2024 total assets \u2014 lookup and cite.", "completion": "$96,850 million (filing STK-10K-2024, evidence: \"$96,850 million\")", "task_id": "tr-0335"}
+{"prompt": "Extract total assets FY2023 for Stark Industries (STK) from the 10-K.", "completion": "$135,249 million (filing STK-10K-2023, evidence: \"$135,249 million\")", "task_id": "tr-0336"}
+{"prompt": "Find Initech LLC 2024 operating cash flow \u2014 give value + evidence.", "completion": "$8,625 million (filing INIT-10K-2024, evidence: \"$8,625 million\")", "task_id": "tr-0337"}
+{"prompt": "What was Massive Dynamic's total assets for FY2024? Cite the filing.", "completion": "$123,514 million (filing MSDV-10K-2024, evidence: \"$123,514 million\")", "task_id": "tr-0338"}
+{"prompt": "Extract revenue FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$18,659 million (filing HOOL-10K-2024, evidence: \"$18,659 million\")", "task_id": "tr-0339"}
+{"prompt": "INIT FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$7,206 million (filing INIT-10K-2023, evidence: \"$7,206 million\")", "task_id": "tr-0340"}
+{"prompt": "How much revenue did Umbrella Co report in FY2024?", "completion": "$45,837 million (filing UMBR-10K-2024, evidence: \"$45,837 million\")", "task_id": "tr-0341"}
+{"prompt": "ACME FY2022 total assets \u2014 lookup and cite.", "completion": "$148,871 million (filing ACME-10K-2022, evidence: \"$148,871 million\")", "task_id": "tr-0342"}
+{"prompt": "Find Globex Inc 2022 operating cash flow \u2014 give value + evidence.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0343"}
+{"prompt": "MSDV FY2022 total assets \u2014 lookup and cite.", "completion": "$94,513 million (filing MSDV-10K-2022, evidence: \"$94,513 million\")", "task_id": "tr-0344"}
+{"prompt": "What was Hooli Systems's total assets for FY2022? Cite the filing.", "completion": "$97,356 million (filing HOOL-10K-2022, evidence: \"$97,356 million\")", "task_id": "tr-0345"}
+{"prompt": "How much net income did Massive Dynamic report in FY2022?", "completion": "$6,799 million (filing MSDV-10K-2022, evidence: \"$6,799 million\")", "task_id": "tr-0346"}
+{"prompt": "ACME FY2022 total assets \u2014 lookup and cite.", "completion": "$148,871 million (filing ACME-10K-2022, evidence: \"$148,871 million\")", "task_id": "tr-0347"}
+{"prompt": "How much revenue did Initech LLC report in FY2023?", "completion": "$58,036 million (filing INIT-10K-2023, evidence: \"$58,036 million\")", "task_id": "tr-0348"}
+{"prompt": "How much total assets did Massive Dynamic report in FY2023?", "completion": "$44,979 million (filing MSDV-10K-2023, evidence: \"$44,979 million\")", "task_id": "tr-0349"}
+{"prompt": "What was Globex Inc's net income for FY2022? Cite the filing.", "completion": "$3,159 million (filing GLBX-10K-2022, evidence: \"$3,159 million\")", "task_id": "tr-0350"}
+{"prompt": "How much total assets did ACME Corp report in FY2023?", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0351"}
+{"prompt": "Extract revenue FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0352"}
+{"prompt": "How much net income did Stark Industries report in FY2024?", "completion": "$8,339 million (filing STK-10K-2024, evidence: \"$8,339 million\")", "task_id": "tr-0353"}
+{"prompt": "HOOL FY2024 total assets \u2014 lookup and cite.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0354"}
+{"prompt": "How much net income did Hooli Systems report in FY2023?", "completion": "$1,675 million (filing HOOL-10K-2023, evidence: \"$1,675 million\")", "task_id": "tr-0355"}
+{"prompt": "How much revenue did Wayne Enterprises report in FY2024?", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0356"}
+{"prompt": "Find Wayne Enterprises 2023 operating cash flow \u2014 give value + evidence.", "completion": "$9,412 million (filing WYNE-10K-2023, evidence: \"$9,412 million\")", "task_id": "tr-0357"}
+{"prompt": "Extract total assets FY2023 for ACME Corp (ACME) from the 10-K.", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0358"}
+{"prompt": "Extract operating cash flow FY2024 for Hooli Systems (HOOL) from the 10-K.", "completion": "$3,111 million (filing HOOL-10K-2024, evidence: \"$3,111 million\")", "task_id": "tr-0359"}
+{"prompt": "Find Umbrella Co 2024 revenue \u2014 give value + evidence.", "completion": "$45,837 million (filing UMBR-10K-2024, evidence: \"$45,837 million\")", "task_id": "tr-0360"}
+{"prompt": "What was Stark Industries's total assets for FY2024? Cite the filing.", "completion": "$96,850 million (filing STK-10K-2024, evidence: \"$96,850 million\")", "task_id": "tr-0361"}
+{"prompt": "Extract total assets FY2022 for Hooli Systems (HOOL) from the 10-K.", "completion": "$97,356 million (filing HOOL-10K-2022, evidence: \"$97,356 million\")", "task_id": "tr-0362"}
+{"prompt": "What was Globex Inc's operating cash flow for FY2022? Cite the filing.", "completion": "$3,480 million (filing GLBX-10K-2022, evidence: \"$3,480 million\")", "task_id": "tr-0363"}
+{"prompt": "MSDV FY2022 net income \u2014 lookup and cite.", "completion": "$6,799 million (filing MSDV-10K-2022, evidence: \"$6,799 million\")", "task_id": "tr-0364"}
+{"prompt": "Find ACME Corp 2022 revenue \u2014 give value + evidence.", "completion": "$49,905 million (filing ACME-10K-2022, evidence: \"$49,905 million\")", "task_id": "tr-0365"}
+{"prompt": "INIT FY2023 net income \u2014 lookup and cite.", "completion": "$6,222 million (filing INIT-10K-2023, evidence: \"$6,222 million\")", "task_id": "tr-0366"}
+{"prompt": "INIT FY2022 revenue \u2014 lookup and cite.", "completion": "$53,753 million (filing INIT-10K-2022, evidence: \"$53,753 million\")", "task_id": "tr-0367"}
+{"prompt": "Extract net income FY2022 for Initech LLC (INIT) from the 10-K.", "completion": "$6,549 million (filing INIT-10K-2022, evidence: \"$6,549 million\")", "task_id": "tr-0368"}
+{"prompt": "UMBR FY2023 net income \u2014 lookup and cite.", "completion": "$5,197 million (filing UMBR-10K-2023, evidence: \"$5,197 million\")", "task_id": "tr-0369"}
+{"prompt": "Extract total assets FY2022 for ACME Corp (ACME) from the 10-K.", "completion": "$148,871 million (filing ACME-10K-2022, evidence: \"$148,871 million\")", "task_id": "tr-0370"}
+{"prompt": "Extract total assets FY2023 for Globex Inc (GLBX) from the 10-K.", "completion": "$118,332 million (filing GLBX-10K-2023, evidence: \"$118,332 million\")", "task_id": "tr-0371"}
+{"prompt": "Extract revenue FY2022 for Globex Inc (GLBX) from the 10-K.", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0372"}
+{"prompt": "Extract total assets FY2022 for ACME Corp (ACME) from the 10-K.", "completion": "$148,871 million (filing ACME-10K-2022, evidence: \"$148,871 million\")", "task_id": "tr-0373"}
+{"prompt": "What was Wayne Enterprises's total assets for FY2022? Cite the filing.", "completion": "$114,258 million (filing WYNE-10K-2022, evidence: \"$114,258 million\")", "task_id": "tr-0374"}
+{"prompt": "What was Globex Inc's total assets for FY2024? Cite the filing.", "completion": "$39,687 million (filing GLBX-10K-2024, evidence: \"$39,687 million\")", "task_id": "tr-0375"}
+{"prompt": "GLBX FY2023 operating cash flow \u2014 lookup and cite.", "completion": "$10,740 million (filing GLBX-10K-2023, evidence: \"$10,740 million\")", "task_id": "tr-0376"}
+{"prompt": "How much revenue did Globex Inc report in FY2022?", "completion": "$23,247 million (filing GLBX-10K-2022, evidence: \"$23,247 million\")", "task_id": "tr-0377"}
+{"prompt": "HOOL FY2024 total assets \u2014 lookup and cite.", "completion": "$35,806 million (filing HOOL-10K-2024, evidence: \"$35,806 million\")", "task_id": "tr-0378"}
+{"prompt": "How much revenue did Wayne Enterprises report in FY2022?", "completion": "$58,352 million (filing WYNE-10K-2022, evidence: \"$58,352 million\")", "task_id": "tr-0379"}
+{"prompt": "STK FY2023 net income \u2014 lookup and cite.", "completion": "$5,110 million (filing STK-10K-2023, evidence: \"$5,110 million\")", "task_id": "tr-0380"}
+{"prompt": "How much total assets did ACME Corp report in FY2023?", "completion": "$48,918 million (filing ACME-10K-2023, evidence: \"$48,918 million\")", "task_id": "tr-0381"}
+{"prompt": "What was Wayne Enterprises's revenue for FY2024? Cite the filing.", "completion": "$45,170 million (filing WYNE-10K-2024, evidence: \"$45,170 million\")", "task_id": "tr-0382"}
+{"prompt": "How much operating cash flow did Stark Industries report in FY2022?", "completion": "$7,538 million (filing STK-10K-2022, evidence: \"$7,538 million\")", "task_id": "tr-0383"}
+{"prompt": "How much revenue did Massive Dynamic report in FY2022?", "completion": "$33,928 million (filing MSDV-10K-2022, evidence: \"$33,928 million\")", "task_id": "tr-0384"}
+{"prompt": "What was Massive Dynamic's operating cash flow for FY2023? Cite the filing.", "completion": "$2,841 million (filing MSDV-10K-2023, evidence: \"$2,841 million\")", "task_id": "tr-0385"}
+{"prompt": "ACME FY2024 total assets \u2014 lookup and cite.", "completion": "$21,416 million (filing ACME-10K-2024, evidence: \"$21,416 million\")", "task_id": "tr-0386"}
+{"prompt": "Extract revenue FY2023 for Globex Inc (GLBX) from the 10-K.", "completion": "$50,590 million (filing GLBX-10K-2023, evidence: \"$50,590 million\")", "task_id": "tr-0387"}
+{"prompt": "How much total assets did Initech LLC report in FY2024?", "completion": "$95,112 million (filing INIT-10K-2024, evidence: \"$95,112 million\")", "task_id": "tr-0388"}
+{"prompt": "How much total assets did Wayne Enterprises report in FY2023?", "completion": "$46,805 million (filing WYNE-10K-2023, evidence: \"$46,805 million\")", "task_id": "tr-0389"}
+{"prompt": "What was Stark Industries's operating cash flow for FY2023? Cite the filing.", "completion": "$9,343 million (filing STK-10K-2023, evidence: \"$9,343 million\")", "task_id": "tr-0390"}
+{"prompt": "MSDV FY2023 revenue \u2014 lookup and cite.", "completion": "$17,150 million (filing MSDV-10K-2023, evidence: \"$17,150 million\")", "task_id": "tr-0391"}
+{"prompt": "How much net income did Massive Dynamic report in FY2024?", "completion": "$5,688 million (filing MSDV-10K-2024, evidence: \"$5,688 million\")", "task_id": "tr-0392"}
+{"prompt": "How much net income did Hooli Systems report in FY2024?", "completion": "$2,107 million (filing HOOL-10K-2024, evidence: \"$2,107 million\")", "task_id": "tr-0393"}
+{"prompt": "How much operating cash flow did Umbrella Co report in FY2023?", "completion": "$8,583 million (filing UMBR-10K-2023, evidence: \"$8,583 million\")", "task_id": "tr-0394"}
+{"prompt": "Find Hooli Systems 2023 revenue \u2014 give value + evidence.", "completion": "$14,619 million (filing HOOL-10K-2023, evidence: \"$14,619 million\")", "task_id": "tr-0395"}
+{"prompt": "Find Hooli Systems 2023 total assets \u2014 give value + evidence.", "completion": "$35,185 million (filing HOOL-10K-2023, evidence: \"$35,185 million\")", "task_id": "tr-0396"}
+{"prompt": "How much net income did Umbrella Co report in FY2024?", "completion": "$3,790 million (filing UMBR-10K-2024, evidence: \"$3,790 million\")", "task_id": "tr-0397"}
+{"prompt": "What was ACME Corp's revenue for FY2024? Cite the filing.", "completion": "$13,697 million (filing ACME-10K-2024, evidence: \"$13,697 million\")", "task_id": "tr-0398"}
+{"prompt": "What was ACME Corp's operating cash flow for FY2024? Cite the filing.", "completion": "$1,690 million (filing ACME-10K-2024, evidence: \"$1,690 million\")", "task_id": "tr-0399"}
