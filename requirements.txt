@@ -1,0 +1,2 @@
+# Laptop (cheap work): stdlib only
+# Kaggle GPU: pip install -q "transformers>=5.2.0" trl peft datasets accelerate
