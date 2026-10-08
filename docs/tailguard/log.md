@@ -183,3 +183,8 @@ ledger < 10k tokens). Waiting for "go".
 
 ## 2026-10-09 — P3.12 fail-loud adapter dir (near-miss caught)
 - Pasted traceback: pilot downloaded 5.41GB base weights then died in adapter_sha — load_model had silently continued base-only when --adapter path did not exist (fail-loud check only covered existing-but-empty dirs). Fixed: nonexistent --adapter now raises immediately listing the parent dir. No silent base-only runs possible.
+
+## 2026-10-09 — P3.13 torchao conflict (pasted traceback)
+- Symptom: PeftModel.from_pretrained crashed in dispatch_torchao: installed peft requires torchao>=0.16 when torchao is present; Kaggle image ships torchao 0.10. (Adapter path + weights load were fine: 434/434.)
+- Fix: `pip uninstall -y torchao` (same as P1 recipe; training ran fine without it). Baked into runbook Cell 0. Needs kernel restart after uninstall (torchao may already be imported).
+- Note: pilot + timing were pasted as one block; timing failed only because pilot crashed first (no pilot_runs.jsonl). No action.

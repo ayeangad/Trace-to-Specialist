@@ -135,7 +135,11 @@ fresh session; if still < 0.90, STOP (do not lower the gate).
 %cd /kaggle/working/hyde
 !git rev-parse HEAD
 !pip install -q "transformers>=5.2.0" trl peft datasets accelerate huggingface_hub jinja2
+!pip uninstall -y torchao
 ```
+(Kaggle ships torchao 0.10; installed peft requires torchao>=0.16 when
+present and crashes in `dispatch_torchao` otherwise. Phase 1 trained fine
+without torchao.)
 
 ### Cell 1 (code) — API VERIFY (no weights needed; paste back output)
 (The method lives on `GenerationMixin`, inherited by model instances —
