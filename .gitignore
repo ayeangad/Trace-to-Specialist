@@ -3,3 +3,16 @@ __pycache__/
 *.pt *.bin *.safetensors
 *.zip
 *.ZIP
+
+# Tail Guard: keep research/private material local (never pushed)
+private/
+.env
+venv/
+*.html
+research_notes/
+reports/
+hyde-research-problems.md
+tail-guard-build-plan.md
+.agy/
+deep-research-skill/
+experiments/tailguard/cache/
