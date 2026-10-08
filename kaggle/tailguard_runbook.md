@@ -5,6 +5,10 @@ paste back every `OUTPUT:` block plus the listed download files.
 
 Repo: `git@github.com:ayeangad/Trace-to-Specialist.git`, branch `tailguard`.
 
+Shortcut: `kaggle/p1_run.py` runs all Phase 1 commands with the same gates
+(upload it with the repo, then `python kaggle/p1_run.py --repo <repo-root>
+--hf-token <token>`). The cells below are the canonical step-by-step version.
+
 ---
 
 ## Phase 1 — Rebuild and verify the 3B specialist (~0.5 day)

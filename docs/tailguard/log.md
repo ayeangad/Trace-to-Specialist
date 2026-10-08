@@ -126,3 +126,8 @@ ledger < 10k tokens). Waiting for "go".
 - Summarise one-liner tested on synthetic 50-row file -> n 50 mean_reward 10.0 success 0.96 had_submit 1.0. PASS.
 - Remote for clone cell: origin git@github.com:ayeangad/Trace-to-Specialist.git.
 - Wrote kaggle/tailguard_runbook.md (Phase 1 cells 0-6 + persist list; P3/P8.1 stubs). No GPU run locally.
+
+## 2026-10-08 — P1.1 single-file helper (per Angad request)
+- Wrote kaggle/p1_run.py: same P1 commands as runbook cells (regen/train/verify) + same gates (kept>=350, turns key, deterministic diff, adapter+checkpoint-100 files, success>=0.90), exits non-zero on gate failure. HF token via --hf-token or HF_TOKEN env (avoids Kaggle-secret env-injection issues seen with os.environ).
+- Local tests (no GPU): --help ok; summarize() on synthetic 50-row file -> exact expected dict. PASS. Full run needs T4 (script enforces cuda gate itself).
+- Runbook header points to the script as shortcut; cells stay canonical.
