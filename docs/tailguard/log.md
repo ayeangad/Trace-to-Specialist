@@ -177,3 +177,6 @@ ledger < 10k tokens). Waiting for "go".
 
 ## 2026-10-09 — P3 VERIFY (pasted from Kaggle)
 - GenerationMixin.compute_transition_scores signature matches expected (sequences, scores, beam_indices=None, normalize_logits=False). API VERIFY: PASS. Awaiting pilot timing.
+
+## 2026-10-09 — P3 pilot blocked: adapter file not at mount path
+- Pasted traceback: FileNotFoundError /kaggle/input/hydenewdataset/adapter_model.safetensors (in adapter_sha, before any GPU work). Possible causes: dataset not attached to THIS notebook, different mount dirname, or upload still processing ("Pending Actions" was on the dataset page). Asked for `ls /kaggle/input/` diagnostics.
