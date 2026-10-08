@@ -131,3 +131,9 @@ ledger < 10k tokens). Waiting for "go".
 - Wrote kaggle/p1_run.py: same P1 commands as runbook cells (regen/train/verify) + same gates (kept>=350, turns key, deterministic diff, adapter+checkpoint-100 files, success>=0.90), exits non-zero on gate failure. HF token via --hf-token or HF_TOKEN env (avoids Kaggle-secret env-injection issues seen with os.environ).
 - Local tests (no GPU): --help ok; summarize() on synthetic 50-row file -> exact expected dict. PASS. Full run needs T4 (script enforces cuda gate itself).
 - Runbook header points to the script as shortcut; cells stay canonical.
+
+## 2026-10-08 — P1 Kaggle debug: missing top-level adapter files
+- Symptom (pasted): harness `ERROR: /kaggle/working/qwen25-3b-sft has no adapter_config.json or config.json. Did you mean ... checkpoint-100?`.
+- Root cause (verified on installed package, rule 2): transformers 5.19.0 `trainer.py::_finalize_training` (lines 1976-2025) writes NO end-of-training save to the out-dir root; `_save_checkpoint` fires only at save_steps. With 100 steps and save_steps=100, final weights exist only in checkpoint-100/ (step 100 = final step). Training itself healthy (100/100, loss 0.2557). Runbook expectation was wrong, not the training.
+- Fix: runbook Cell 4b copies adapter_config.json + adapter_model.safetensors up from checkpoint-100 after asserting trainer_state global_step==100 and sha256-identical after copy. Honest relocation of final weights; verify then runs against the out dir as planned.
+- Also fixed: verify summary must be a plain cell (second `!python -c` quoting EOF from user). Committed as P1.3.

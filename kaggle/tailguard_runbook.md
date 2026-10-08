@@ -65,6 +65,35 @@ If anything else differs: STOP, paste back the diff.
 ```
 EXPECTED: out dir contains `adapter_config.json`; `checkpoint-100/adapter_config.json` exists.
 
+### Cell 4b (code, ONLY if the top-level `adapter_*.json` are missing)
+Cause (verified on installed transformers 5.19.0, laptop
+`trainer.py::_finalize_training`): the Trainer writes checkpoints only at
+`save_steps` and performs **no end-of-training save** to the out-dir root
+(the tokenizer files get there via `tok.save_pretrained`). With 100 training
+steps and `save_steps=100`, the final weights live only in `checkpoint-100/`
+(step 100 = final step). Relocating the two adapter files up is a
+byte-identical move of the final weights, not new training — then verify
+against the out dir exactly as Cell 5 says.
+```python
+import hashlib, json, shutil
+from pathlib import Path
+out = Path("/kaggle/working/qwen25-3b-sft")
+ckpt = out / "checkpoint-100"
+ts = json.loads((ckpt / "trainer_state.json").read_text())
+print("global_step:", ts["global_step"], "max_steps:", ts.get("max_steps"))
+assert ts["global_step"] == 100, "checkpoint is not the final step; STOP"
+assert (ckpt / "adapter_config.json").exists()
+assert (ckpt / "adapter_model.safetensors").exists()
+for f in ("adapter_config.json", "adapter_model.safetensors"):
+    shutil.copy(ckpt / f, out / f)
+for f in ("adapter_config.json", "adapter_model.safetensors"):
+    a = hashlib.sha256((out / f).read_bytes()).hexdigest()
+    b = hashlib.sha256((ckpt / f).read_bytes()).hexdigest()
+    print(f, "identical:", a == b)
+    assert a == b
+print("top-level:", sorted(p.name for p in out.iterdir()))
+```
+
 ### Cell 5 (code) — verify on frozen test
 ```python
 !python evals/run_model_baseline.py --model /kaggle/working/qwen25-3b-sft --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tasks/frozen_test.jsonl --out experiments/tailguard/p1_frozen_sft3b.jsonl --limit 50
