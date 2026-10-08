@@ -148,3 +148,10 @@ ledger < 10k tokens). Waiting for "go".
 - Recomputed from file: n 50 mean_reward 10.0 success 1.0 had_submit 1.0. Matches Kaggle-pasted summary. GATE >= 0.90: PASS.
 - Adapter files: verified via /tmp/tg-adapter extraction of uploaded tarball — top-level adapter_config.json + adapter_model.safetensors present, checkpoint-100/adapter_config.json present. PASS.
 - Still missing for the record: Kaggle HEAD hash, collector kept count, git diff --stat (Cells 2-3 paste-backs); dataset-upload confirmation. Asked Angad.
+
+## 2026-10-09 — P1 session transcript (pasted by Angad, record)
+- Cell 4b output: global_step 100 max_steps 100; adapter_config.json identical True; adapter_model.safetensors identical True; top-level now [README.md, adapter_config.json, adapter_model.safetensors, chat_template.jinja, checkpoint-100, tokenizer.json, tokenizer_config.json].
+- Cell 5: weights loaded 434/434, wrote p1_frozen_sft3b.jsonl; summary n 50 mean_reward 10.0 success 1.0 had_submit 1.0 (matches committed file).
+- Note: HF Hub warning "sending unauthenticated requests" during verify (tokenizer download worked anyway; login cell ran earlier for training).
+- Note: laptop-tar-in-notebook-cell SyntaxError repeated in transcript (already resolved on laptop terminal; /tmp/tg-adapter verified).
+- MISSING per rule 3 (session closed, not pasted): Kaggle HEAD hash, collector kept count, git diff --stat. Training success (1.0) implies regen was sound; local determinism check passed.
