@@ -53,12 +53,19 @@ def load_model(adapter_dir: str, base_model: str):
     import torch  # noqa: F401 (Kaggle GPU)
     from transformers import AutoModelForCausalLM, AutoTokenizer
     mp = Path(adapter_dir)
-    if mp.exists() and mp.is_dir():
-        if not ((mp / "adapter_config.json").exists() or (mp / "config.json").exists()):
-            cands = sorted(str(p.parent) for p in mp.glob("checkpoint-*/adapter_config.json"))
-            hint = f" Did you mean one of: {cands}?" if cands else ""
-            raise SystemExit(
-                f"ERROR: {adapter_dir} has no adapter_config.json or config.json.{hint}")
+    if not (mp.exists() and mp.is_dir()):
+        try:
+            sib = sorted(p.name for p in mp.parent.iterdir()) if mp.parent.exists() else []
+        except Exception:
+            sib = []
+        raise SystemExit(
+            f"ERROR: --adapter {adapter_dir} is not a directory. "
+            f"Contents of {mp.parent}: {sib}")
+    if not ((mp / "adapter_config.json").exists() or (mp / "config.json").exists()):
+        cands = sorted(str(p.parent) for p in mp.glob("checkpoint-*/adapter_config.json"))
+        hint = f" Did you mean one of: {cands}?" if cands else ""
+        raise SystemExit(
+            f"ERROR: {adapter_dir} has no adapter_config.json or config.json.{hint}")
     try:
         tok = AutoTokenizer.from_pretrained(adapter_dir, trust_remote_code=True)
     except Exception:

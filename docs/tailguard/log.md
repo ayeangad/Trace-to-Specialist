@@ -180,3 +180,6 @@ ledger < 10k tokens). Waiting for "go".
 
 ## 2026-10-09 — P3 pilot blocked: adapter file not at mount path
 - Pasted traceback: FileNotFoundError /kaggle/input/hydenewdataset/adapter_model.safetensors (in adapter_sha, before any GPU work). Possible causes: dataset not attached to THIS notebook, different mount dirname, or upload still processing ("Pending Actions" was on the dataset page). Asked for `ls /kaggle/input/` diagnostics.
+
+## 2026-10-09 — P3.12 fail-loud adapter dir (near-miss caught)
+- Pasted traceback: pilot downloaded 5.41GB base weights then died in adapter_sha — load_model had silently continued base-only when --adapter path did not exist (fail-loud check only covered existing-but-empty dirs). Fixed: nonexistent --adapter now raises immediately listing the parent dir. No silent base-only runs possible.
