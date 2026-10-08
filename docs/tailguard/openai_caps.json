@@ -1,0 +1,74 @@
+{
+ "gpt-5.4-mini": {
+  "max_completion_tokens": true,
+  "max_tokens": false,
+  "temperature": true,
+  "logprobs": true,
+  "tools": true,
+  "reasoning_effort": [
+   "none",
+   "low"
+  ],
+  "errors": {
+   "max_tokens": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.\", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}",
+   "reasoning_effort=minimal": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported value: 'reasoning_effort' does not support 'minimal' with this model. Supported values are: 'none', 'low', 'medium', 'high', and 'xhigh'.\", 'type': 'invalid_request_error', 'param': 'reasoning_effort', 'code': 'unsupported_value'}}"
+  }
+ },
+ "gpt-4.1-mini": {
+  "max_completion_tokens": true,
+  "max_tokens": true,
+  "temperature": true,
+  "logprobs": true,
+  "tools": true,
+  "reasoning_effort": [],
+  "errors": {
+   "reasoning_effort=none": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+   "reasoning_effort=minimal": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+   "reasoning_effort=low": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}"
+  }
+ },
+ "gpt-5.4": {
+  "max_completion_tokens": true,
+  "max_tokens": false,
+  "temperature": true,
+  "logprobs": true,
+  "tools": true,
+  "reasoning_effort": [
+   "none",
+   "low"
+  ],
+  "errors": {
+   "max_tokens": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.\", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}",
+   "reasoning_effort=minimal": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported value: 'reasoning_effort' does not support 'minimal' with this model. Supported values are: 'none', 'low', 'medium', 'high', and 'xhigh'.\", 'type': 'invalid_request_error', 'param': 'reasoning_effort', 'code': 'unsupported_value'}}"
+  }
+ },
+ "gpt-5.4-nano": {
+  "max_completion_tokens": true,
+  "max_tokens": false,
+  "temperature": true,
+  "logprobs": true,
+  "tools": true,
+  "reasoning_effort": [
+   "none",
+   "low"
+  ],
+  "errors": {
+   "max_tokens": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.\", 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': 'unsupported_parameter'}}",
+   "reasoning_effort=minimal": "BadRequestError: Error code: 400 - {'error': {'message': \"Unsupported value: 'reasoning_effort' does not support 'minimal' with this model. Supported values are: 'none', 'low', 'medium', 'high', and 'xhigh'.\", 'type': 'invalid_request_error', 'param': 'reasoning_effort', 'code': 'unsupported_value'}}"
+  }
+ },
+ "gpt-4.1-nano": {
+  "max_completion_tokens": true,
+  "max_tokens": true,
+  "temperature": true,
+  "logprobs": true,
+  "tools": false,
+  "reasoning_effort": [],
+  "errors": {
+   "tools": "BadRequestError: Error code: 400 - {'error': {'message': 'Could not finish the tool call because max_tokens was reached. Please try again with higher max_tokens.', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+   "reasoning_effort=none": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+   "reasoning_effort=minimal": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+   "reasoning_effort=low": "BadRequestError: Error code: 400 - {'error': {'message': 'Unrecognized request argument supplied: reasoning_effort', 'type': 'invalid_request_error', 'param': None, 'code': None}}"
+  }
+ }
+}
