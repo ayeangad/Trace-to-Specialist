@@ -138,10 +138,13 @@ fresh session; if still < 0.90, STOP (do not lower the gate).
 ```
 
 ### Cell 1 (code) — API VERIFY (no weights needed; paste back output)
+(The method lives on `GenerationMixin`, inherited by model instances —
+checking the class `AutoModelForCausalLM` raises AttributeError; that is
+expected and not a failure.)
 ```python
 import inspect
-from transformers import AutoModelForCausalLM
-print(inspect.signature(AutoModelForCausalLM.compute_transition_scores))
+from transformers.generation.utils import GenerationMixin
+print(inspect.signature(GenerationMixin.compute_transition_scores))
 ```
 EXPECTED: `(sequences, scores, beam_indices=None, normalize_logits=False)`.
 If different: STOP, paste back.
