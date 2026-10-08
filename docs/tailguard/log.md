@@ -155,3 +155,10 @@ ledger < 10k tokens). Waiting for "go".
 - Note: HF Hub warning "sending unauthenticated requests" during verify (tokenizer download worked anyway; login cell ran earlier for training).
 - Note: laptop-tar-in-notebook-cell SyntaxError repeated in transcript (already resolved on laptop terminal; /tmp/tg-adapter verified).
 - MISSING per rule 3 (session closed, not pasted): Kaggle HEAD hash, collector kept count, git diff --stat. Training success (1.0) implies regen was sound; local determinism check passed.
+
+## 2026-10-09 — P2.2-P2.8 tail pool done
+- generate_tail.py run: 138 filings, 2000 tasks (fit 500 / cal 700 / test 800; S0 64% + 6 tails x 6% exact per split), 200 drift. Slice texts spot-checked (S0/T1/T2/T3/T6/D1 match templates; T4 synonyms; T5 typo "Ketsrel"; D1 gt e.g. $7.6B -> 7600).
+- Filing-slice tag decision: standard-text filings (shared by S0/T4/T5 tasks) tagged slice "S0" at filing level; task records carry the task slice. notes standard everywhere; mda standard except explicit T1/T2 text and D1 billions phrasing; D1 tables hold rounded gt millions.
+- validate_tail.py: ALL CHECKS PASSED (evidence substrings, values incl. D1 rounding, company-split uniqueness, ticker hygiene, 2200 search hits, exact counts).
+- Oracle: tasks.jsonl -> avg_reward 10.0 success_rate 1.0 n 2000; drift -> 10.0 / 1.0 n 200. PASS.
+- tests: test_generate_tail.py 3 passed (determinism sha, manifest sha, per-slice template checks). Determinism re-run touched only the timestamp sidecar (restored).
