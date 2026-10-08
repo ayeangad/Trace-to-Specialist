@@ -117,3 +117,12 @@ ledger < 10k tokens). Waiting for "go".
 - Output: submitted value "$58,663 million" filing HOOL-10K-2022 evidence "Revenue was $58,663 million." -> success False, reward 7.0 (filing+section+evidence+efficiency right, VALUE wrong: gt $29,638M). Honest pilot point: frontier is not oracle on this data.
 - Tokens: 4 api calls, prompt 1858 + completion 134 = 1992 total (~2.0k/episode vs plan estimate 2.5k). Phase 4 recheck: 1000 episodes x ~2k ~= 2.0M tokens, fits small-pool day only if sequenced with judge per plan Days A/B/C.
 - No repo files created, no commit.
+
+## 2026-10-08 — P1 local prep (GPU work runs on Kaggle; laptop prep only)
+- Flag checks (all match runbook): `data/generate_tasks.py --help` (--n-train/--n-dev/--n-test/--seed), `trajectories/collector.py --help` (--tasks/--out), `training/sft.py --help` (--model/--demos/--out/--epochs/--lr), `evals/run_model_baseline.py --help` (--model/--base-model/--tasks/--out/--limit). PASS.
+- Old-format confirm: `head -c 400 data/tasks/sft_demos.jsonl` shows prompt/completion rows (no turns) -> regen required. PASS.
+- Determinism: ran `venv/bin/python data/generate_tasks.py --n-train 400 --n-dev 60 --n-test 100` locally; `git status --short data/` empty (byte-identical train/dev/frozen_test/filings/manifest). PASS. (Manifest counts: train 400, dev 56, frozen 99 — per-company rounding, as committed.)
+- Collector dry run: `trajectories/collector.py --tasks data/tasks/train.jsonl --out /tmp/opencode/sft_demos_check.jsonl` -> kept 400, dropped 0, all rows have turns+reward keys. PASS (matches "kept ≈ 400").
+- Summarise one-liner tested on synthetic 50-row file -> n 50 mean_reward 10.0 success 0.96 had_submit 1.0. PASS.
+- Remote for clone cell: origin git@github.com:ayeangad/Trace-to-Specialist.git.
+- Wrote kaggle/tailguard_runbook.md (Phase 1 cells 0-6 + persist list; P3/P8.1 stubs). No GPU run locally.
