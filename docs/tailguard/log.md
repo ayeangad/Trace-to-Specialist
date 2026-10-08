@@ -70,3 +70,50 @@ openai_client.py (cache/ledger/budget/retries/build_params), the capability
 probe writing openai_caps.json, and a one-episode frontier pilot for token
 calibration — then the P0 acceptance checks (imports, caps file, client tests,
 ledger < 10k tokens). Waiting for "go".
+
+## 2026-10-08 — P0.0 cleanup (branch, private/, gitignore)
+- Commands: `git checkout -b tailguard`; `mkdir -p private && mv research_notes reports hyde-research-problems.md hyde_deep_dive.html hyde_final_report.html hyde_fresh_investigation_report.html hyde_recording_problem_report.html hyde_route_certificate_report.html .agy deep-research-skill private/`; edited `.gitignore` (+private/, .env, venv/, *.html, research_notes/, reports/, hyde-research-problems.md, tail-guard-build-plan.md, .agy/, deep-research-skill/, experiments/tailguard/cache/).
+- Verify: `git status --short` -> only `M .gitignore` + `?? docs/`; `git check-ignore` confirms .env, venv/, final-problem.html, tail-guard-build-plan.md, private/ ignored. PASS.
+- Kept in place: venv/ (moving breaks it), .env (never moved/committed), final-problem.html + tail-guard-build-plan.md at root (plan paths; both ignored per Angad's answers).
+- Commit: `tailguard: P0.0 repo cleanup + gitignore` (a98562e). PASS.
+
+## 2026-10-08 — P0.1 folders + requirements
+- Commands: `mkdir -p tailguard/signals data/tail tests/tailguard docs/tailguard experiments/tailguard/cache`; touch inits + questions.md; wrote requirements-tailguard.txt (openai>=1.40, numpy, scipy, pandas, scikit-learn>=1.4, matplotlib, sentence-transformers, pytest, python-dotenv).
+- Commit: `tailguard: P0.1 branch folders and requirements` (b289045). PASS.
+
+## 2026-10-08 — P0.2 install
+- Command: `venv/bin/pip install -r requirements-tailguard.txt` -> success (openai 3.26.0, torch 2.14.1, transformers 5.19.0, sentence-transformers 6.1.0, sklearn 1.9.1, etc.); `venv/bin/pip freeze > requirements-tailguard.lock` (84 lines).
+- Check: `venv/bin/python -c "import openai, numpy, scipy, sklearn, sentence_transformers, matplotlib, pandas"` exits 0; `import dotenv` ok. PASS.
+- Commit: `tailguard: P0.2 laptop install + frozen lock` (187b915). PASS.
+- NOTE: installed openai is 3.26.0 (plan assumed >=1.40 API surface). Verified signatures on the installed package (rule 2):
+  - `inspect.signature(OpenAI(api_key='test').chat.completions.create)` accepts messages, model, max_completion_tokens, max_tokens, temperature, logprobs, top_logprobs, tools, tool_choice, reasoning_effort, top_p. (full output in shell history; key params confirmed)
+  - `CompletionUsage.model_fields` = completion_tokens, prompt_tokens, total_tokens, completion_tokens_details, prompt_tokens_details.
+  - `TopLogprob.model_fields` = token, bytes, logprob. ToolCall fields = id, function, type. `CompletionTokensDetails` includes reasoning_tokens. Errors RateLimitError/APIStatusError/BadRequestError exist.
+  - `OpenAI()` with no key raises OpenAIError (expected; client constructed lazily after dotenv load).
+
+## 2026-10-08 — P0.3 API key
+- Command: `venv/bin/python -c "from dotenv import load_dotenv; load_dotenv(); import os; print('key present:', bool(os.getenv('OPENAI_API_KEY')))"` -> `key present: True` (boolean only; key never printed/logged/committed). PASS.
+- No files created, no commit. Dashboard data-sharing confirmation is with Angad (needed for free tokens).
+
+## 2026-10-08 — P0.4 logging_utils.py
+- Wrote tailguard/logging_utils.py (append_jsonl w/ flush+fsync, read_jsonl, read_done_ids, write_config). Committed with P0.5 (below).
+
+## 2026-10-08 — P0.5 openai_client.py + tests
+- Wrote tailguard/config.py (verbatim §3 constants), tailguard/openai_client.py (cache/ledger/budget/retries/build_params + live-or-dict adapters + --probe), tests/tailguard/test_openai_client.py (9 tests, fake client, no network).
+- Command: `venv/bin/python -m pytest tests/tailguard/test_openai_client.py -q` -> `9 passed in 0.80s`. PASS. Covers: cache-hit zero tokens, ledger sums by pool+UTC date, BudgetExceeded (no ledger/cache write), pool_of unknown raises, build_params drops unaccepted keys + lowest reasoning level, retry-then-success (1 ledger line), BadRequest no-retry (1 call, no ledger), adapter live==cached, tool_choice override passthrough.
+- Commit: `tailguard: P0.4-P0.5 logging utils, config, budget-safe OpenAI client + tests` (c51559c). PASS.
+
+## 2026-10-08 — P0.6 capability probe
+- Command: `venv/bin/python -m tailguard.openai_client --probe` -> wrote docs/tailguard/openai_caps.json (5 models). Probe tokens: 989 (< 5,000). PASS.
+- Measured caps (full file committed):
+  - gpt-5.4-mini (frontier): max_completion_tokens T, max_tokens F, temperature T, logprobs T, tools T, reasoning [none, low]. Frontier stands, no fallback.
+  - gpt-4.1-mini (judge): max_completion_tokens T, max_tokens T, temperature T, logprobs T, tools T, reasoning []. Judge returns logprobs and is non-reasoning as hoped; judge stands, no fallback.
+  - gpt-5.4 (strong): same shape as gpt-5.4-mini. gpt-5.4-nano: same shape. gpt-4.1-nano: tools F BUT error is "Could not finish the tool call because max_tokens was reached" (16-token truncation artifact of the probe, not proof of no tool support); reasoning [].
+  - Notable errors: 5.4-family rejects max_tokens ("Use max_completion_tokens instead") and reasoning_effort=minimal ("Supported: none, low, medium, high, xhigh"); 4.1-family rejects reasoning_effort entirely ("Unrecognized request argument").
+- Commit: `tailguard: P0.6 OpenAI capability probe caps file` (2c7bb05). PASS.
+
+## 2026-10-08 — P0.7 frontier pilot (budget calibration)
+- Temp script /tmp/opencode/tg_p0_pilot.py (not in repo): 1 episode on data/tasks/dev.jsonl dev-0000 ("What was Hooli Systems's revenue for FY2022?"), default store, Phase-4 loop, gpt-5.4-mini, max_out 512.
+- Output: submitted value "$58,663 million" filing HOOL-10K-2022 evidence "Revenue was $58,663 million." -> success False, reward 7.0 (filing+section+evidence+efficiency right, VALUE wrong: gt $29,638M). Honest pilot point: frontier is not oracle on this data.
+- Tokens: 4 api calls, prompt 1858 + completion 134 = 1992 total (~2.0k/episode vs plan estimate 2.5k). Phase 4 recheck: 1000 episodes x ~2k ~= 2.0M tokens, fits small-pool day only if sequenced with judge per plan Days A/B/C.
+- No repo files created, no commit.
