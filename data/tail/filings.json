@@ -1,0 +1,4418 @@
+{
+ "ZPHY-10K-2022": {
+  "filing_id": "ZPHY-10K-2022",
+  "company": "Zephyr Holdings",
+  "ticker": "ZPHY",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 27148,
+   "net_income": 1566,
+   "total_assets": 53758,
+   "operating_cash_flow": 3755
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27148,
+    "net_income": 1566
+   },
+   "balance_sheet": {
+    "total_assets": 53758
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3755
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $27,148 million. Net income was $1,566 million. Total assets were $53,758 million. Operating cash flow was $3,755 million.",
+   "mda": "Management Discussion FY2022 for Zephyr Holdings. Revenue of $27,148 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "ZPHY-10K-2023": {
+  "filing_id": "ZPHY-10K-2023",
+  "company": "Zephyr Holdings",
+  "ticker": "ZPHY",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 13683,
+   "net_income": 2930,
+   "total_assets": 26403,
+   "operating_cash_flow": 4044
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 13683,
+    "net_income": 2930
+   },
+   "balance_sheet": {
+    "total_assets": 26403
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4044
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $13,683 million. Net income was $2,930 million. Total assets were $26,403 million. Operating cash flow was $4,044 million.",
+   "mda": "Management Discussion FY2023 for Zephyr Holdings. Revenue of $13,683 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "ZPHY-10K-2024": {
+  "filing_id": "ZPHY-10K-2024",
+  "company": "Zephyr Holdings",
+  "ticker": "ZPHY",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 54490,
+   "net_income": 4749,
+   "total_assets": 95005,
+   "operating_cash_flow": 15626
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 54490,
+    "net_income": 4749
+   },
+   "balance_sheet": {
+    "total_assets": 95005
+   },
+   "cash_flow": {
+    "operating_cash_flow": 15626
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $54,490 million. Net income was $4,749 million. Total assets were $95,005 million. Operating cash flow was $15,626 million.",
+   "mda": "Management Discussion FY2024 for Zephyr Holdings. Revenue of $54,490 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "QRVX-10K-2022": {
+  "filing_id": "QRVX-10K-2022",
+  "company": "Quorvex Industries",
+  "ticker": "QRVX",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 9820,
+   "net_income": 1156,
+   "total_assets": 19140,
+   "operating_cash_flow": 1685
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 9820,
+    "net_income": 1156
+   },
+   "balance_sheet": {
+    "total_assets": 19140
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1685
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $9,820 million. Net income was $1,156 million. Total assets were $19,140 million. Operating cash flow was $1,685 million.",
+   "mda": "Management Discussion FY2022 for Quorvex Industries. Revenue of $9,820 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "QRVX-10K-2023": {
+  "filing_id": "QRVX-10K-2023",
+  "company": "Quorvex Industries",
+  "ticker": "QRVX",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 37520,
+   "net_income": 2258,
+   "total_assets": 63306,
+   "operating_cash_flow": 11452
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 37520,
+    "net_income": 2258
+   },
+   "balance_sheet": {
+    "total_assets": 63306
+   },
+   "cash_flow": {
+    "operating_cash_flow": 11452
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $37,520 million. Net income was $2,258 million. Total assets were $63,306 million. Operating cash flow was $11,452 million.",
+   "mda": "Management Discussion FY2023 for Quorvex Industries. Revenue of $37,520 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "QRVX-10K-2024": {
+  "filing_id": "QRVX-10K-2024",
+  "company": "Quorvex Industries",
+  "ticker": "QRVX",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 27017,
+   "net_income": 5808,
+   "total_assets": 62445,
+   "operating_cash_flow": 5834
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27017,
+    "net_income": 5808
+   },
+   "balance_sheet": {
+    "total_assets": 62445
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5834
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $27,017 million. Net income was $5,808 million. Total assets were $62,445 million. Operating cash flow was $5,834 million.",
+   "mda": "Management Discussion FY2024 for Quorvex Industries. Revenue of $27,017 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "BRGH-10K-2022": {
+  "filing_id": "BRGH-10K-2022",
+  "company": "Brightwater Systems",
+  "ticker": "BRGH",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 38323,
+   "net_income": 2295,
+   "total_assets": 118714,
+   "operating_cash_flow": 4579
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 38323,
+    "net_income": 2295
+   },
+   "balance_sheet": {
+    "total_assets": 118714
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4579
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $38,323 million. Net income was $2,295 million. Total assets were $118,714 million. Operating cash flow was $4,579 million.",
+   "mda": "Management Discussion FY2022 for Brightwater Systems. Revenue of $38,323 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "BRGH-10K-2023": {
+  "filing_id": "BRGH-10K-2023",
+  "company": "Brightwater Systems",
+  "ticker": "BRGH",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 40135,
+   "net_income": 2440,
+   "total_assets": 124626,
+   "operating_cash_flow": 9312
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 40135,
+    "net_income": 2440
+   },
+   "balance_sheet": {
+    "total_assets": 124626
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9312
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $40,135 million. Net income was $2,440 million. Total assets were $124,626 million. Operating cash flow was $9,312 million.",
+   "mda": "Management Discussion FY2023 for Brightwater Systems. Revenue of $40,135 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "BRGH-10K-2024": {
+  "filing_id": "BRGH-10K-2024",
+  "company": "Brightwater Systems",
+  "ticker": "BRGH",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 12407,
+   "net_income": 1290,
+   "total_assets": 27291,
+   "operating_cash_flow": 1402
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 12407,
+    "net_income": 1290
+   },
+   "balance_sheet": {
+    "total_assets": 27291
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1402
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $12,407 million. Net income was $1,290 million. Total assets were $27,291 million. Operating cash flow was $1,402 million.",
+   "mda": "Management Discussion FY2024 for Brightwater Systems. Revenue of $12,407 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "KSTR-10K-2022": {
+  "filing_id": "KSTR-10K-2022",
+  "company": "Kestrel Group",
+  "ticker": "KSTR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 56241,
+   "net_income": 3956,
+   "total_assets": 174215,
+   "operating_cash_flow": 8441
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 56241,
+    "net_income": 3956
+   },
+   "balance_sheet": {
+    "total_assets": 174215
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8441
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $56,241 million. Net income was $3,956 million. Total assets were $174,215 million. Operating cash flow was $8,441 million.",
+   "mda": "Management Discussion FY2022 for Kestrel Group. Revenue of $56,241 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "KSTR-10K-2023": {
+  "filing_id": "KSTR-10K-2023",
+  "company": "Kestrel Group",
+  "ticker": "KSTR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 24510,
+   "net_income": 4522,
+   "total_assets": 45101,
+   "operating_cash_flow": 4121
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 24510,
+    "net_income": 4522
+   },
+   "balance_sheet": {
+    "total_assets": 45101
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4121
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $24,510 million. Net income was $4,522 million. Total assets were $45,101 million. Operating cash flow was $4,121 million.",
+   "mda": "Management Discussion FY2023 for Kestrel Group. Revenue of $24,510 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "KSTR-10K-2024": {
+  "filing_id": "KSTR-10K-2024",
+  "company": "Kestrel Group",
+  "ticker": "KSTR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 8355,
+   "net_income": 691,
+   "total_assets": 14320,
+   "operating_cash_flow": 1940
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8355,
+    "net_income": 691
+   },
+   "balance_sheet": {
+    "total_assets": 14320
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1940
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $8,355 million. Net income was $691 million. Total assets were $14,320 million. Operating cash flow was $1,940 million.",
+   "mda": "Management Discussion FY2024 for Kestrel Group. Revenue of $8,355 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "BSDN-10K-2022": {
+  "filing_id": "BSDN-10K-2022",
+  "company": "Obsidian Labs",
+  "ticker": "BSDN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 9785,
+   "net_income": 606,
+   "total_assets": 31357,
+   "operating_cash_flow": 2697
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 9785,
+    "net_income": 606
+   },
+   "balance_sheet": {
+    "total_assets": 31357
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2697
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $9,785 million. Net income was $606 million. Total assets were $31,357 million. Operating cash flow was $2,697 million.",
+   "mda": "Management Discussion FY2022 for Obsidian Labs. Revenue of $9,785 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "BSDN-10K-2023": {
+  "filing_id": "BSDN-10K-2023",
+  "company": "Obsidian Labs",
+  "ticker": "BSDN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 36220,
+   "net_income": 6792,
+   "total_assets": 57404,
+   "operating_cash_flow": 7533
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 36220,
+    "net_income": 6792
+   },
+   "balance_sheet": {
+    "total_assets": 57404
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7533
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $36,220 million. Net income was $6,792 million. Total assets were $57,404 million. Operating cash flow was $7,533 million.",
+   "mda": "Management Discussion FY2023 for Obsidian Labs. Revenue of $36,220 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "BSDN-10K-2024": {
+  "filing_id": "BSDN-10K-2024",
+  "company": "Obsidian Labs",
+  "ticker": "BSDN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 57097,
+   "net_income": 4618,
+   "total_assets": 122317,
+   "operating_cash_flow": 15252
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57097,
+    "net_income": 4618
+   },
+   "balance_sheet": {
+    "total_assets": 122317
+   },
+   "cash_flow": {
+    "operating_cash_flow": 15252
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $57,097 million. Net income was $4,618 million. Total assets were $122,317 million. Operating cash flow was $15,252 million.",
+   "mda": "Management Discussion FY2024 for Obsidian Labs. Revenue of $57,097 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "HLCY-10K-2022": {
+  "filing_id": "HLCY-10K-2022",
+  "company": "Halcyon Corp",
+  "ticker": "HLCY",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 12825,
+   "net_income": 1292,
+   "total_assets": 41773,
+   "operating_cash_flow": 1653
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 12825,
+    "net_income": 1292
+   },
+   "balance_sheet": {
+    "total_assets": 41773
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1653
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $12,825 million. Net income was $1,292 million. Total assets were $41,773 million. Operating cash flow was $1,653 million.",
+   "mda": "Management Discussion FY2022 for Halcyon Corp. Revenue of $12,825 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "HLCY-10K-2023": {
+  "filing_id": "HLCY-10K-2023",
+  "company": "Halcyon Corp",
+  "ticker": "HLCY",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 58309,
+   "net_income": 11639,
+   "total_assets": 92157,
+   "operating_cash_flow": 16665
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58309,
+    "net_income": 11639
+   },
+   "balance_sheet": {
+    "total_assets": 92157
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16665
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $58,309 million. Net income was $11,639 million. Total assets were $92,157 million. Operating cash flow was $16,665 million.",
+   "mda": "Management Discussion FY2023 for Halcyon Corp. Revenue of $58,309 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "HLCY-10K-2024": {
+  "filing_id": "HLCY-10K-2024",
+  "company": "Halcyon Corp",
+  "ticker": "HLCY",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 59056,
+   "net_income": 9366,
+   "total_assets": 143555,
+   "operating_cash_flow": 9857
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 59056,
+    "net_income": 9366
+   },
+   "balance_sheet": {
+    "total_assets": 143555
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9857
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $59,056 million. Net income was $9,366 million. Total assets were $143,555 million. Operating cash flow was $9,857 million.",
+   "mda": "Management Discussion FY2024 for Halcyon Corp. Revenue of $59,056 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "MRLW-10K-2022": {
+  "filing_id": "MRLW-10K-2022",
+  "company": "Marlowe Partners",
+  "ticker": "MRLW",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 16860,
+   "net_income": 3511,
+   "total_assets": 25837,
+   "operating_cash_flow": 4550
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 16860,
+    "net_income": 3511
+   },
+   "balance_sheet": {
+    "total_assets": 25837
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4550
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $16,860 million. Net income was $3,511 million. Total assets were $25,837 million. Operating cash flow was $4,550 million.",
+   "mda": "Management Discussion FY2022 for Marlowe Partners. Revenue of $16,860 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "MRLW-10K-2023": {
+  "filing_id": "MRLW-10K-2023",
+  "company": "Marlowe Partners",
+  "ticker": "MRLW",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 14521,
+   "net_income": 1382,
+   "total_assets": 35340,
+   "operating_cash_flow": 4121
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 14521,
+    "net_income": 1382
+   },
+   "balance_sheet": {
+    "total_assets": 35340
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4121
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $14,521 million. Net income was $1,382 million. Total assets were $35,340 million. Operating cash flow was $4,121 million.",
+   "mda": "Management Discussion FY2023 for Marlowe Partners. Revenue of $14,521 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "MRLW-10K-2024": {
+  "filing_id": "MRLW-10K-2024",
+  "company": "Marlowe Partners",
+  "ticker": "MRLW",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 23252,
+   "net_income": 3542,
+   "total_assets": 50365,
+   "operating_cash_flow": 3028
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23252,
+    "net_income": 3542
+   },
+   "balance_sheet": {
+    "total_assets": 50365
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3028
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $23,252 million. Net income was $3,542 million. Total assets were $50,365 million. Operating cash flow was $3,028 million.",
+   "mda": "Management Discussion FY2024 for Marlowe Partners. Revenue of $23,252 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "TDWL-10K-2022": {
+  "filing_id": "TDWL-10K-2022",
+  "company": "Tidewell Dynamics",
+  "ticker": "TDWL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 26847,
+   "net_income": 2740,
+   "total_assets": 42446,
+   "operating_cash_flow": 4584
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 26847,
+    "net_income": 2740
+   },
+   "balance_sheet": {
+    "total_assets": 42446
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4584
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $26,847 million. Net income was $2,740 million. Total assets were $42,446 million. Operating cash flow was $4,584 million.",
+   "mda": "Management Discussion FY2022 for Tidewell Dynamics. Revenue of $26,847 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "TDWL-10K-2023": {
+  "filing_id": "TDWL-10K-2023",
+  "company": "Tidewell Dynamics",
+  "ticker": "TDWL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 41791,
+   "net_income": 2541,
+   "total_assets": 92064,
+   "operating_cash_flow": 4311
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 41791,
+    "net_income": 2541
+   },
+   "balance_sheet": {
+    "total_assets": 92064
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4311
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $41,791 million. Net income was $2,541 million. Total assets were $92,064 million. Operating cash flow was $4,311 million.",
+   "mda": "Management Discussion FY2023 for Tidewell Dynamics. Revenue of $41,791 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "TDWL-10K-2024": {
+  "filing_id": "TDWL-10K-2024",
+  "company": "Tidewell Dynamics",
+  "ticker": "TDWL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 12205,
+   "net_income": 1475,
+   "total_assets": 23606,
+   "operating_cash_flow": 2349
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 12205,
+    "net_income": 1475
+   },
+   "balance_sheet": {
+    "total_assets": 23606
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2349
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $12,205 million. Net income was $1,475 million. Total assets were $23,606 million. Operating cash flow was $2,349 million.",
+   "mda": "Management Discussion FY2024 for Tidewell Dynamics. Revenue of $12,205 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "CRVN-10K-2022": {
+  "filing_id": "CRVN-10K-2022",
+  "company": "Corvana Holdings",
+  "ticker": "CRVN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 17544,
+   "net_income": 1629,
+   "total_assets": 55228,
+   "operating_cash_flow": 2400
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17544,
+    "net_income": 1629
+   },
+   "balance_sheet": {
+    "total_assets": 55228
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2400
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $17,544 million. Net income was $1,629 million. Total assets were $55,228 million. Operating cash flow was $2,400 million.",
+   "mda": "Management Discussion FY2022 for Corvana Holdings. Revenue of $17,544 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "CRVN-10K-2023": {
+  "filing_id": "CRVN-10K-2023",
+  "company": "Corvana Holdings",
+  "ticker": "CRVN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 35087,
+   "net_income": 6808,
+   "total_assets": 63588,
+   "operating_cash_flow": 5342
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 35087,
+    "net_income": 6808
+   },
+   "balance_sheet": {
+    "total_assets": 63588
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5342
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $35,087 million. Net income was $6,808 million. Total assets were $63,588 million. Operating cash flow was $5,342 million.",
+   "mda": "Management Discussion FY2023 for Corvana Holdings. Revenue of $35,087 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "CRVN-10K-2024": {
+  "filing_id": "CRVN-10K-2024",
+  "company": "Corvana Holdings",
+  "ticker": "CRVN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 52723,
+   "net_income": 9260,
+   "total_assets": 157220,
+   "operating_cash_flow": 17024
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 52723,
+    "net_income": 9260
+   },
+   "balance_sheet": {
+    "total_assets": 157220
+   },
+   "cash_flow": {
+    "operating_cash_flow": 17024
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $52,723 million. Net income was $9,260 million. Total assets were $157,220 million. Operating cash flow was $17,024 million.",
+   "mda": "Management Discussion FY2024 for Corvana Holdings. Revenue of $52,723 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "FNNC-10K-2022": {
+  "filing_id": "FNNC-10K-2022",
+  "company": "Fennick Industries",
+  "ticker": "FNNC",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 17136,
+   "net_income": 2829,
+   "total_assets": 59471,
+   "operating_cash_flow": 4417
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17136,
+    "net_income": 2829
+   },
+   "balance_sheet": {
+    "total_assets": 59471
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4417
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $17,136 million. Net income was $2,829 million. Total assets were $59,471 million. Operating cash flow was $4,417 million.",
+   "mda": "Management Discussion FY2022 for Fennick Industries. Revenue of $17,136 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "FNNC-10K-2023": {
+  "filing_id": "FNNC-10K-2023",
+  "company": "Fennick Industries",
+  "ticker": "FNNC",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 16986,
+   "net_income": 2692,
+   "total_assets": 37692,
+   "operating_cash_flow": 2987
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 16986,
+    "net_income": 2692
+   },
+   "balance_sheet": {
+    "total_assets": 37692
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2987
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $16,986 million. Net income was $2,692 million. Total assets were $37,692 million. Operating cash flow was $2,987 million.",
+   "mda": "Management Discussion FY2023 for Fennick Industries. Revenue of $16,986 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "FNNC-10K-2024": {
+  "filing_id": "FNNC-10K-2024",
+  "company": "Fennick Industries",
+  "ticker": "FNNC",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 51489,
+   "net_income": 3706,
+   "total_assets": 172996,
+   "operating_cash_flow": 16687
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 51489,
+    "net_income": 3706
+   },
+   "balance_sheet": {
+    "total_assets": 172996
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16687
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $51,489 million. Net income was $3,706 million. Total assets were $172,996 million. Operating cash flow was $16,687 million.",
+   "mda": "Management Discussion FY2024 for Fennick Industries. Revenue of $51,489 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "GLNM-10K-2022": {
+  "filing_id": "GLNM-10K-2022",
+  "company": "Glenmoor Systems",
+  "ticker": "GLNM",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 27006,
+   "net_income": 2163,
+   "total_assets": 44158,
+   "operating_cash_flow": 5749
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27006,
+    "net_income": 2163
+   },
+   "balance_sheet": {
+    "total_assets": 44158
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5749
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $27,006 million. Net income was $2,163 million. Total assets were $44,158 million. Operating cash flow was $5,749 million.",
+   "mda": "Management Discussion FY2022 for Glenmoor Systems. Revenue of $27,006 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "GLNM-10K-2023": {
+  "filing_id": "GLNM-10K-2023",
+  "company": "Glenmoor Systems",
+  "ticker": "GLNM",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 8275,
+   "net_income": 1786,
+   "total_assets": 27760,
+   "operating_cash_flow": 1316
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8275,
+    "net_income": 1786
+   },
+   "balance_sheet": {
+    "total_assets": 27760
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1316
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $8,275 million. Net income was $1,786 million. Total assets were $27,760 million. Operating cash flow was $1,316 million.",
+   "mda": "Management Discussion FY2023 for Glenmoor Systems. Revenue of $8,275 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "GLNM-10K-2024": {
+  "filing_id": "GLNM-10K-2024",
+  "company": "Glenmoor Systems",
+  "ticker": "GLNM",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 59478,
+   "net_income": 8752,
+   "total_assets": 197996,
+   "operating_cash_flow": 16372
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 59478,
+    "net_income": 8752
+   },
+   "balance_sheet": {
+    "total_assets": 197996
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16372
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $59,478 million. Net income was $8,752 million. Total assets were $197,996 million. Operating cash flow was $16,372 million.",
+   "mda": "Management Discussion FY2024 for Glenmoor Systems. Revenue of $59,478 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "RNBR-10K-2022": {
+  "filing_id": "RNBR-10K-2022",
+  "company": "Ironbark Group",
+  "ticker": "RNBR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 25530,
+   "net_income": 3297,
+   "total_assets": 41705,
+   "operating_cash_flow": 4119
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 25530,
+    "net_income": 3297
+   },
+   "balance_sheet": {
+    "total_assets": 41705
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4119
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $25,530 million. Net income was $3,297 million. Total assets were $41,705 million. Operating cash flow was $4,119 million.",
+   "mda": "Management Discussion FY2022 for Ironbark Group. Revenue of $25,530 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "RNBR-10K-2023": {
+  "filing_id": "RNBR-10K-2023",
+  "company": "Ironbark Group",
+  "ticker": "RNBR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 23934,
+   "net_income": 3080,
+   "total_assets": 51592,
+   "operating_cash_flow": 8223
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23934,
+    "net_income": 3080
+   },
+   "balance_sheet": {
+    "total_assets": 51592
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8223
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $23,934 million. Net income was $3,080 million. Total assets were $51,592 million. Operating cash flow was $8,223 million.",
+   "mda": "Management Discussion FY2023 for Ironbark Group. Revenue of $23,934 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "RNBR-10K-2024": {
+  "filing_id": "RNBR-10K-2024",
+  "company": "Ironbark Group",
+  "ticker": "RNBR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 56619,
+   "net_income": 5416,
+   "total_assets": 87564,
+   "operating_cash_flow": 16144
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 56619,
+    "net_income": 5416
+   },
+   "balance_sheet": {
+    "total_assets": 87564
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16144
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $56,619 million. Net income was $5,416 million. Total assets were $87,564 million. Operating cash flow was $16,144 million.",
+   "mda": "Management Discussion FY2024 for Ironbark Group. Revenue of $56,619 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "JNPR-10K-2022": {
+  "filing_id": "JNPR-10K-2022",
+  "company": "Juniper Labs",
+  "ticker": "JNPR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 38427,
+   "net_income": 2200,
+   "total_assets": 89847,
+   "operating_cash_flow": 10931
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 38427,
+    "net_income": 2200
+   },
+   "balance_sheet": {
+    "total_assets": 89847
+   },
+   "cash_flow": {
+    "operating_cash_flow": 10931
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $38,427 million. Net income was $2,200 million. Total assets were $89,847 million. Operating cash flow was $10,931 million.",
+   "mda": "Management Discussion FY2022 for Juniper Labs. Revenue of $38,427 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "JNPR-10K-2023": {
+  "filing_id": "JNPR-10K-2023",
+  "company": "Juniper Labs",
+  "ticker": "JNPR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 55146,
+   "net_income": 9068,
+   "total_assets": 159820,
+   "operating_cash_flow": 13898
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 55146,
+    "net_income": 9068
+   },
+   "balance_sheet": {
+    "total_assets": 159820
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13898
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $55,146 million. Net income was $9,068 million. Total assets were $159,820 million. Operating cash flow was $13,898 million.",
+   "mda": "Management Discussion FY2023 for Juniper Labs. Revenue of $55,146 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "JNPR-10K-2024": {
+  "filing_id": "JNPR-10K-2024",
+  "company": "Juniper Labs",
+  "ticker": "JNPR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 40012,
+   "net_income": 7251,
+   "total_assets": 110043,
+   "operating_cash_flow": 7355
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 40012,
+    "net_income": 7251
+   },
+   "balance_sheet": {
+    "total_assets": 110043
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7355
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $40,012 million. Net income was $7,251 million. Total assets were $110,043 million. Operating cash flow was $7,355 million.",
+   "mda": "Management Discussion FY2024 for Juniper Labs. Revenue of $40,012 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "KLTR-10K-2022": {
+  "filing_id": "KLTR-10K-2022",
+  "company": "Kaltrix Corp",
+  "ticker": "KLTR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 24673,
+   "net_income": 3993,
+   "total_assets": 78842,
+   "operating_cash_flow": 6482
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 24673,
+    "net_income": 3993
+   },
+   "balance_sheet": {
+    "total_assets": 78842
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6482
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $24,673 million. Net income was $3,993 million. Total assets were $78,842 million. Operating cash flow was $6,482 million.",
+   "mda": "Management Discussion FY2022 for Kaltrix Corp. Revenue of $24,673 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "KLTR-10K-2023": {
+  "filing_id": "KLTR-10K-2023",
+  "company": "Kaltrix Corp",
+  "ticker": "KLTR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 23815,
+   "net_income": 4622,
+   "total_assets": 82562,
+   "operating_cash_flow": 7891
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23815,
+    "net_income": 4622
+   },
+   "balance_sheet": {
+    "total_assets": 82562
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7891
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $23,815 million. Net income was $4,622 million. Total assets were $82,562 million. Operating cash flow was $7,891 million.",
+   "mda": "Management Discussion FY2023 for Kaltrix Corp. Revenue of $23,815 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "KLTR-10K-2024": {
+  "filing_id": "KLTR-10K-2024",
+  "company": "Kaltrix Corp",
+  "ticker": "KLTR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 18489,
+   "net_income": 2173,
+   "total_assets": 57129,
+   "operating_cash_flow": 2478
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 18489,
+    "net_income": 2173
+   },
+   "balance_sheet": {
+    "total_assets": 57129
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2478
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $18,489 million. Net income was $2,173 million. Total assets were $57,129 million. Operating cash flow was $2,478 million.",
+   "mda": "Management Discussion FY2024 for Kaltrix Corp. Revenue of $18,489 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "LMRX-10K-2022": {
+  "filing_id": "LMRX-10K-2022",
+  "company": "Lumora Partners",
+  "ticker": "LMRX",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 13506,
+   "net_income": 2601,
+   "total_assets": 32622,
+   "operating_cash_flow": 1644
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 13506,
+    "net_income": 2601
+   },
+   "balance_sheet": {
+    "total_assets": 32622
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1644
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $13,506 million. Net income was $2,601 million. Total assets were $32,622 million. Operating cash flow was $1,644 million.",
+   "mda": "Management Discussion FY2022 for Lumora Partners. Revenue of $13,506 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "LMRX-10K-2023": {
+  "filing_id": "LMRX-10K-2023",
+  "company": "Lumora Partners",
+  "ticker": "LMRX",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 22295,
+   "net_income": 2118,
+   "total_assets": 58047,
+   "operating_cash_flow": 7344
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 22295,
+    "net_income": 2118
+   },
+   "balance_sheet": {
+    "total_assets": 58047
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7344
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $22,295 million. Net income was $2,118 million. Total assets were $58,047 million. Operating cash flow was $7,344 million.",
+   "mda": "Management Discussion FY2023 for Lumora Partners. Revenue of $22,295 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "LMRX-10K-2024": {
+  "filing_id": "LMRX-10K-2024",
+  "company": "Lumora Partners",
+  "ticker": "LMRX",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 46166,
+   "net_income": 3674,
+   "total_assets": 109869,
+   "operating_cash_flow": 9737
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 46166,
+    "net_income": 3674
+   },
+   "balance_sheet": {
+    "total_assets": 109869
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9737
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $46,166 million. Net income was $3,674 million. Total assets were $109,869 million. Operating cash flow was $9,737 million.",
+   "mda": "Management Discussion FY2024 for Lumora Partners. Revenue of $46,166 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "NTHR-10K-2022": {
+  "filing_id": "NTHR-10K-2022",
+  "company": "Nethercott Dynamics",
+  "ticker": "NTHR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 26318,
+   "net_income": 2277,
+   "total_assets": 48664,
+   "operating_cash_flow": 8113
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 26318,
+    "net_income": 2277
+   },
+   "balance_sheet": {
+    "total_assets": 48664
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8113
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $26,318 million. Net income was $2,277 million. Total assets were $48,664 million. Operating cash flow was $8,113 million.",
+   "mda": "Management Discussion FY2022 for Nethercott Dynamics. Revenue of $26,318 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "NTHR-10K-2023": {
+  "filing_id": "NTHR-10K-2023",
+  "company": "Nethercott Dynamics",
+  "ticker": "NTHR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 8741,
+   "net_income": 607,
+   "total_assets": 20102,
+   "operating_cash_flow": 1856
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8741,
+    "net_income": 607
+   },
+   "balance_sheet": {
+    "total_assets": 20102
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1856
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $8,741 million. Net income was $607 million. Total assets were $20,102 million. Operating cash flow was $1,856 million.",
+   "mda": "Management Discussion FY2023 for Nethercott Dynamics. Revenue of $8,741 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "NTHR-10K-2024": {
+  "filing_id": "NTHR-10K-2024",
+  "company": "Nethercott Dynamics",
+  "ticker": "NTHR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 53433,
+   "net_income": 8943,
+   "total_assets": 166039,
+   "operating_cash_flow": 16723
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 53433,
+    "net_income": 8943
+   },
+   "balance_sheet": {
+    "total_assets": 166039
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16723
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $53,433 million. Net income was $8,943 million. Total assets were $166,039 million. Operating cash flow was $16,723 million.",
+   "mda": "Management Discussion FY2024 for Nethercott Dynamics. Revenue of $53,433 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "RWLL-10K-2022": {
+  "filing_id": "RWLL-10K-2022",
+  "company": "Orwell Holdings",
+  "ticker": "RWLL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 31222,
+   "net_income": 1963,
+   "total_assets": 63271,
+   "operating_cash_flow": 6282
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 31222,
+    "net_income": 1963
+   },
+   "balance_sheet": {
+    "total_assets": 63271
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6282
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $31,222 million. Net income was $1,963 million. Total assets were $63,271 million. Operating cash flow was $6,282 million.",
+   "mda": "Management Discussion FY2022 for Orwell Holdings. Revenue of $31,222 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "RWLL-10K-2023": {
+  "filing_id": "RWLL-10K-2023",
+  "company": "Orwell Holdings",
+  "ticker": "RWLL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 49928,
+   "net_income": 5207,
+   "total_assets": 143338,
+   "operating_cash_flow": 11658
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 49928,
+    "net_income": 5207
+   },
+   "balance_sheet": {
+    "total_assets": 143338
+   },
+   "cash_flow": {
+    "operating_cash_flow": 11658
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $49,928 million. Net income was $5,207 million. Total assets were $143,338 million. Operating cash flow was $11,658 million.",
+   "mda": "Management Discussion FY2023 for Orwell Holdings. Revenue of $49,928 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "RWLL-10K-2024": {
+  "filing_id": "RWLL-10K-2024",
+  "company": "Orwell Holdings",
+  "ticker": "RWLL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 53775,
+   "net_income": 7786,
+   "total_assets": 177911,
+   "operating_cash_flow": 9792
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 53775,
+    "net_income": 7786
+   },
+   "balance_sheet": {
+    "total_assets": 177911
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9792
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $53,775 million. Net income was $7,786 million. Total assets were $177,911 million. Operating cash flow was $9,792 million.",
+   "mda": "Management Discussion FY2024 for Orwell Holdings. Revenue of $53,775 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "PMBR-10K-2022": {
+  "filing_id": "PMBR-10K-2022",
+  "company": "Pembrook Industries",
+  "ticker": "PMBR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 40760,
+   "net_income": 7104,
+   "total_assets": 112141,
+   "operating_cash_flow": 8351
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 40760,
+    "net_income": 7104
+   },
+   "balance_sheet": {
+    "total_assets": 112141
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8351
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $40,760 million. Net income was $7,104 million. Total assets were $112,141 million. Operating cash flow was $8,351 million.",
+   "mda": "Management Discussion FY2022 for Pembrook Industries. Revenue of $40,760 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "PMBR-10K-2023": {
+  "filing_id": "PMBR-10K-2023",
+  "company": "Pembrook Industries",
+  "ticker": "PMBR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 33778,
+   "net_income": 2403,
+   "total_assets": 79230,
+   "operating_cash_flow": 6093
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 33778,
+    "net_income": 2403
+   },
+   "balance_sheet": {
+    "total_assets": 79230
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6093
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $33,778 million. Net income was $2,403 million. Total assets were $79,230 million. Operating cash flow was $6,093 million.",
+   "mda": "Management Discussion FY2023 for Pembrook Industries. Revenue of $33,778 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "PMBR-10K-2024": {
+  "filing_id": "PMBR-10K-2024",
+  "company": "Pembrook Industries",
+  "ticker": "PMBR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "S0",
+  "values": {
+   "revenue": 41685,
+   "net_income": 2398,
+   "total_assets": 141542,
+   "operating_cash_flow": 6332
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 41685,
+    "net_income": 2398
+   },
+   "balance_sheet": {
+    "total_assets": 141542
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6332
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $41,685 million. Net income was $2,398 million. Total assets were $141,542 million. Operating cash flow was $6,332 million.",
+   "mda": "Management Discussion FY2024 for Pembrook Industries. Revenue of $41,685 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "QLLN-10K-2022": {
+  "filing_id": "QLLN-10K-2022",
+  "company": "Quillon Systems",
+  "ticker": "QLLN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 25759,
+   "net_income": 2809,
+   "total_assets": 52968,
+   "operating_cash_flow": 3947
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 25759000,
+    "net_income": 2809000
+   },
+   "balance_sheet": {
+    "total_assets": 52968000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3947000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $25,759,000. Net income was $2,809,000. Total assets were $52,968,000. Operating cash flow was $3,947,000.",
+   "mda": "Management Discussion FY2022 for Quillon Systems. Revenue of $25,759,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "QLLN-10K-2023": {
+  "filing_id": "QLLN-10K-2023",
+  "company": "Quillon Systems",
+  "ticker": "QLLN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 42062,
+   "net_income": 6529,
+   "total_assets": 79302,
+   "operating_cash_flow": 12483
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 42062000,
+    "net_income": 6529000
+   },
+   "balance_sheet": {
+    "total_assets": 79302000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12483000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $42,062,000. Net income was $6,529,000. Total assets were $79,302,000. Operating cash flow was $12,483,000.",
+   "mda": "Management Discussion FY2023 for Quillon Systems. Revenue of $42,062,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "QLLN-10K-2024": {
+  "filing_id": "QLLN-10K-2024",
+  "company": "Quillon Systems",
+  "ticker": "QLLN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 34510,
+   "net_income": 2676,
+   "total_assets": 85779,
+   "operating_cash_flow": 4752
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 34510000,
+    "net_income": 2676000
+   },
+   "balance_sheet": {
+    "total_assets": 85779000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4752000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $34,510,000. Net income was $2,676,000. Total assets were $85,779,000. Operating cash flow was $4,752,000.",
+   "mda": "Management Discussion FY2024 for Quillon Systems. Revenue of $34,510,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "RVNM-10K-2022": {
+  "filing_id": "RVNM-10K-2022",
+  "company": "Ravenmoor Group",
+  "ticker": "RVNM",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 20114,
+   "net_income": 1395,
+   "total_assets": 54137,
+   "operating_cash_flow": 5657
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 20114000,
+    "net_income": 1395000
+   },
+   "balance_sheet": {
+    "total_assets": 54137000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5657000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $20,114,000. Net income was $1,395,000. Total assets were $54,137,000. Operating cash flow was $5,657,000.",
+   "mda": "Management Discussion FY2022 for Ravenmoor Group. Revenue of $20,114,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "RVNM-10K-2023": {
+  "filing_id": "RVNM-10K-2023",
+  "company": "Ravenmoor Group",
+  "ticker": "RVNM",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 15065,
+   "net_income": 2786,
+   "total_assets": 25521,
+   "operating_cash_flow": 3786
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 15065000,
+    "net_income": 2786000
+   },
+   "balance_sheet": {
+    "total_assets": 25521000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3786000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $15,065,000. Net income was $2,786,000. Total assets were $25,521,000. Operating cash flow was $3,786,000.",
+   "mda": "Management Discussion FY2023 for Ravenmoor Group. Revenue of $15,065,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "RVNM-10K-2024": {
+  "filing_id": "RVNM-10K-2024",
+  "company": "Ravenmoor Group",
+  "ticker": "RVNM",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 35135,
+   "net_income": 4632,
+   "total_assets": 57420,
+   "operating_cash_flow": 3566
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 35135000,
+    "net_income": 4632000
+   },
+   "balance_sheet": {
+    "total_assets": 57420000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3566000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $35,135,000. Net income was $4,632,000. Total assets were $57,420,000. Operating cash flow was $3,566,000.",
+   "mda": "Management Discussion FY2024 for Ravenmoor Group. Revenue of $35,135,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "SLVN-10K-2022": {
+  "filing_id": "SLVN-10K-2022",
+  "company": "Solvane Labs",
+  "ticker": "SLVN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 59893,
+   "net_income": 4541,
+   "total_assets": 120418,
+   "operating_cash_flow": 20165
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 59893000,
+    "net_income": 4541000
+   },
+   "balance_sheet": {
+    "total_assets": 120418000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 20165000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $59,893,000. Net income was $4,541,000. Total assets were $120,418,000. Operating cash flow was $20,165,000.",
+   "mda": "Management Discussion FY2022 for Solvane Labs. Revenue of $59,893,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "SLVN-10K-2023": {
+  "filing_id": "SLVN-10K-2023",
+  "company": "Solvane Labs",
+  "ticker": "SLVN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 10947,
+   "net_income": 1296,
+   "total_assets": 19794,
+   "operating_cash_flow": 3083
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 10947000,
+    "net_income": 1296000
+   },
+   "balance_sheet": {
+    "total_assets": 19794000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3083000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $10,947,000. Net income was $1,296,000. Total assets were $19,794,000. Operating cash flow was $3,083,000.",
+   "mda": "Management Discussion FY2023 for Solvane Labs. Revenue of $10,947,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "SLVN-10K-2024": {
+  "filing_id": "SLVN-10K-2024",
+  "company": "Solvane Labs",
+  "ticker": "SLVN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 32621,
+   "net_income": 6664,
+   "total_assets": 60969,
+   "operating_cash_flow": 9667
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 32621000,
+    "net_income": 6664000
+   },
+   "balance_sheet": {
+    "total_assets": 60969000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9667000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $32,621,000. Net income was $6,664,000. Total assets were $60,969,000. Operating cash flow was $9,667,000.",
+   "mda": "Management Discussion FY2024 for Solvane Labs. Revenue of $32,621,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "THRN-10K-2022": {
+  "filing_id": "THRN-10K-2022",
+  "company": "Thornbury Corp",
+  "ticker": "THRN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 12763,
+   "net_income": 1276,
+   "total_assets": 37652,
+   "operating_cash_flow": 1443
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 12763000,
+    "net_income": 1276000
+   },
+   "balance_sheet": {
+    "total_assets": 37652000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1443000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $12,763,000. Net income was $1,276,000. Total assets were $37,652,000. Operating cash flow was $1,443,000.",
+   "mda": "Management Discussion FY2022 for Thornbury Corp. Revenue of $12,763,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "THRN-10K-2023": {
+  "filing_id": "THRN-10K-2023",
+  "company": "Thornbury Corp",
+  "ticker": "THRN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 20822,
+   "net_income": 2848,
+   "total_assets": 55352,
+   "operating_cash_flow": 7004
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 20822000,
+    "net_income": 2848000
+   },
+   "balance_sheet": {
+    "total_assets": 55352000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7004000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $20,822,000. Net income was $2,848,000. Total assets were $55,352,000. Operating cash flow was $7,004,000.",
+   "mda": "Management Discussion FY2023 for Thornbury Corp. Revenue of $20,822,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "THRN-10K-2024": {
+  "filing_id": "THRN-10K-2024",
+  "company": "Thornbury Corp",
+  "ticker": "THRN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 43488,
+   "net_income": 6899,
+   "total_assets": 102076,
+   "operating_cash_flow": 14915
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 43488000,
+    "net_income": 6899000
+   },
+   "balance_sheet": {
+    "total_assets": 102076000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14915000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $43,488,000. Net income was $6,899,000. Total assets were $102,076,000. Operating cash flow was $14,915,000.",
+   "mda": "Management Discussion FY2024 for Thornbury Corp. Revenue of $43,488,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "MBRL-10K-2022": {
+  "filing_id": "MBRL-10K-2022",
+  "company": "Umberlyn Partners",
+  "ticker": "MBRL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 45611,
+   "net_income": 6953,
+   "total_assets": 120854,
+   "operating_cash_flow": 7497
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 45611000,
+    "net_income": 6953000
+   },
+   "balance_sheet": {
+    "total_assets": 120854000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7497000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $45,611,000. Net income was $6,953,000. Total assets were $120,854,000. Operating cash flow was $7,497,000.",
+   "mda": "Management Discussion FY2022 for Umberlyn Partners. Revenue of $45,611,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "MBRL-10K-2023": {
+  "filing_id": "MBRL-10K-2023",
+  "company": "Umberlyn Partners",
+  "ticker": "MBRL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 23052,
+   "net_income": 3632,
+   "total_assets": 38704,
+   "operating_cash_flow": 6143
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23052000,
+    "net_income": 3632000
+   },
+   "balance_sheet": {
+    "total_assets": 38704000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6143000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $23,052,000. Net income was $3,632,000. Total assets were $38,704,000. Operating cash flow was $6,143,000.",
+   "mda": "Management Discussion FY2023 for Umberlyn Partners. Revenue of $23,052,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "MBRL-10K-2024": {
+  "filing_id": "MBRL-10K-2024",
+  "company": "Umberlyn Partners",
+  "ticker": "MBRL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 51232,
+   "net_income": 9733,
+   "total_assets": 103283,
+   "operating_cash_flow": 7969
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 51232000,
+    "net_income": 9733000
+   },
+   "balance_sheet": {
+    "total_assets": 103283000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7969000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $51,232,000. Net income was $9,733,000. Total assets were $103,283,000. Operating cash flow was $7,969,000.",
+   "mda": "Management Discussion FY2024 for Umberlyn Partners. Revenue of $51,232,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "VXLY-10K-2022": {
+  "filing_id": "VXLY-10K-2022",
+  "company": "Vexley Dynamics",
+  "ticker": "VXLY",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 22217,
+   "net_income": 1259,
+   "total_assets": 34230,
+   "operating_cash_flow": 6724
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 22217000,
+    "net_income": 1259000
+   },
+   "balance_sheet": {
+    "total_assets": 34230000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6724000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. (In thousands of U.S. dollars.) Revenue was $22,217,000. Net income was $1,259,000. Total assets were $34,230,000. Operating cash flow was $6,724,000.",
+   "mda": "Management Discussion FY2022 for Vexley Dynamics. Revenue of $22,217,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "VXLY-10K-2023": {
+  "filing_id": "VXLY-10K-2023",
+  "company": "Vexley Dynamics",
+  "ticker": "VXLY",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 19622,
+   "net_income": 3532,
+   "total_assets": 59016,
+   "operating_cash_flow": 4260
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 19622000,
+    "net_income": 3532000
+   },
+   "balance_sheet": {
+    "total_assets": 59016000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4260000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. (In thousands of U.S. dollars.) Revenue was $19,622,000. Net income was $3,532,000. Total assets were $59,016,000. Operating cash flow was $4,260,000.",
+   "mda": "Management Discussion FY2023 for Vexley Dynamics. Revenue of $19,622,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "VXLY-10K-2024": {
+  "filing_id": "VXLY-10K-2024",
+  "company": "Vexley Dynamics",
+  "ticker": "VXLY",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T1",
+  "values": {
+   "revenue": 47734,
+   "net_income": 3027,
+   "total_assets": 102574,
+   "operating_cash_flow": 12544
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 47734000,
+    "net_income": 3027000
+   },
+   "balance_sheet": {
+    "total_assets": 102574000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12544000
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. (In thousands of U.S. dollars.) Revenue was $47,734,000. Net income was $3,027,000. Total assets were $102,574,000. Operating cash flow was $12,544,000.",
+   "mda": "Management Discussion FY2024 for Vexley Dynamics. Revenue of $47,734,000 thousand reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "WXFR-10K-2022": {
+  "filing_id": "WXFR-10K-2022",
+  "company": "Wexford Holdings",
+  "ticker": "WXFR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 46147,
+   "net_income": 8837,
+   "total_assets": 112682,
+   "operating_cash_flow": 7273
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 46147,
+    "net_income": 8837
+   },
+   "balance_sheet": {
+    "total_assets": 112682
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7273
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $46,147 million in FY2022 and $41,164 million in FY2021. Net income was $8,837 million in FY2022 and $8,213 million in FY2021. Total assets were $112,682 million in FY2022 and $96,350 million in FY2021. Operating cash flow was $7,273 million in FY2022 and $6,907 million in FY2021.",
+   "mda": "Management Discussion FY2022 for Wexford Holdings. Revenue of $46,147 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "WXFR-10K-2023": {
+  "filing_id": "WXFR-10K-2023",
+  "company": "Wexford Holdings",
+  "ticker": "WXFR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 48755,
+   "net_income": 8741,
+   "total_assets": 169248,
+   "operating_cash_flow": 13005
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 48755,
+    "net_income": 8741
+   },
+   "balance_sheet": {
+    "total_assets": 169248
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13005
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $48,755 million in FY2023 and $46,147 million in FY2022. Net income was $8,741 million in FY2023 and $8,837 million in FY2022. Total assets were $169,248 million in FY2023 and $112,682 million in FY2022. Operating cash flow was $13,005 million in FY2023 and $7,273 million in FY2022.",
+   "mda": "Management Discussion FY2023 for Wexford Holdings. Revenue of $48,755 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "WXFR-10K-2024": {
+  "filing_id": "WXFR-10K-2024",
+  "company": "Wexford Holdings",
+  "ticker": "WXFR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 53591,
+   "net_income": 7934,
+   "total_assets": 151109,
+   "operating_cash_flow": 7445
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 53591,
+    "net_income": 7934
+   },
+   "balance_sheet": {
+    "total_assets": 151109
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7445
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $53,591 million in FY2024 and $48,755 million in FY2023. Net income was $7,934 million in FY2024 and $8,741 million in FY2023. Total assets were $151,109 million in FY2024 and $169,248 million in FY2023. Operating cash flow was $7,445 million in FY2024 and $13,005 million in FY2023.",
+   "mda": "Management Discussion FY2024 for Wexford Holdings. Revenue of $53,591 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "XNDR-10K-2022": {
+  "filing_id": "XNDR-10K-2022",
+  "company": "Xandria Industries",
+  "ticker": "XNDR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 20586,
+   "net_income": 1620,
+   "total_assets": 37311,
+   "operating_cash_flow": 3950
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 20586,
+    "net_income": 1620
+   },
+   "balance_sheet": {
+    "total_assets": 37311
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3950
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $20,586 million in FY2022 and $18,133 million in FY2021. Net income was $1,620 million in FY2022 and $1,455 million in FY2021. Total assets were $37,311 million in FY2022 and $33,311 million in FY2021. Operating cash flow was $3,950 million in FY2022 and $3,654 million in FY2021.",
+   "mda": "Management Discussion FY2022 for Xandria Industries. Revenue of $20,586 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "XNDR-10K-2023": {
+  "filing_id": "XNDR-10K-2023",
+  "company": "Xandria Industries",
+  "ticker": "XNDR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 27843,
+   "net_income": 1890,
+   "total_assets": 94513,
+   "operating_cash_flow": 6520
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 27843,
+    "net_income": 1890
+   },
+   "balance_sheet": {
+    "total_assets": 94513
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6520
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $27,843 million in FY2023 and $20,586 million in FY2022. Net income was $1,890 million in FY2023 and $1,620 million in FY2022. Total assets were $94,513 million in FY2023 and $37,311 million in FY2022. Operating cash flow was $6,520 million in FY2023 and $3,950 million in FY2022.",
+   "mda": "Management Discussion FY2023 for Xandria Industries. Revenue of $27,843 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "XNDR-10K-2024": {
+  "filing_id": "XNDR-10K-2024",
+  "company": "Xandria Industries",
+  "ticker": "XNDR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 8834,
+   "net_income": 1125,
+   "total_assets": 26388,
+   "operating_cash_flow": 1142
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8834,
+    "net_income": 1125
+   },
+   "balance_sheet": {
+    "total_assets": 26388
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1142
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $27,843 million in FY2023 and $8,834 million in FY2024. Net income was $1,890 million in FY2023 and $1,125 million in FY2024. Total assets were $94,513 million in FY2023 and $26,388 million in FY2024. Operating cash flow was $6,520 million in FY2023 and $1,142 million in FY2024.",
+   "mda": "Management Discussion FY2024 for Xandria Industries. Revenue of $8,834 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "YRRW-10K-2022": {
+  "filing_id": "YRRW-10K-2022",
+  "company": "Yarrowind Systems",
+  "ticker": "YRRW",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 15055,
+   "net_income": 1074,
+   "total_assets": 28366,
+   "operating_cash_flow": 3281
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 15055,
+    "net_income": 1074
+   },
+   "balance_sheet": {
+    "total_assets": 28366
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3281
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $13,110 million in FY2021 and $15,055 million in FY2022. Net income was $963 million in FY2021 and $1,074 million in FY2022. Total assets were $25,653 million in FY2021 and $28,366 million in FY2022. Operating cash flow was $3,098 million in FY2021 and $3,281 million in FY2022.",
+   "mda": "Management Discussion FY2022 for Yarrowind Systems. Revenue of $15,055 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "YRRW-10K-2023": {
+  "filing_id": "YRRW-10K-2023",
+  "company": "Yarrowind Systems",
+  "ticker": "YRRW",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 10188,
+   "net_income": 683,
+   "total_assets": 29879,
+   "operating_cash_flow": 1890
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 10188,
+    "net_income": 683
+   },
+   "balance_sheet": {
+    "total_assets": 29879
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1890
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $10,188 million in FY2023 and $15,055 million in FY2022. Net income was $683 million in FY2023 and $1,074 million in FY2022. Total assets were $29,879 million in FY2023 and $28,366 million in FY2022. Operating cash flow was $1,890 million in FY2023 and $3,281 million in FY2022.",
+   "mda": "Management Discussion FY2023 for Yarrowind Systems. Revenue of $10,188 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "YRRW-10K-2024": {
+  "filing_id": "YRRW-10K-2024",
+  "company": "Yarrowind Systems",
+  "ticker": "YRRW",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 54553,
+   "net_income": 8680,
+   "total_assets": 126717,
+   "operating_cash_flow": 17778
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 54553,
+    "net_income": 8680
+   },
+   "balance_sheet": {
+    "total_assets": 126717
+   },
+   "cash_flow": {
+    "operating_cash_flow": 17778
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $54,553 million in FY2024 and $10,188 million in FY2023. Net income was $8,680 million in FY2024 and $683 million in FY2023. Total assets were $126,717 million in FY2024 and $29,879 million in FY2023. Operating cash flow was $17,778 million in FY2024 and $1,890 million in FY2023.",
+   "mda": "Management Discussion FY2024 for Yarrowind Systems. Revenue of $54,553 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "ZLTR-10K-2022": {
+  "filing_id": "ZLTR-10K-2022",
+  "company": "Zoltrane Group",
+  "ticker": "ZLTR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 44603,
+   "net_income": 5010,
+   "total_assets": 154019,
+   "operating_cash_flow": 4728
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 44603,
+    "net_income": 5010
+   },
+   "balance_sheet": {
+    "total_assets": 154019
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4728
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $40,659 million in FY2021 and $44,603 million in FY2022. Net income was $4,455 million in FY2021 and $5,010 million in FY2022. Total assets were $142,095 million in FY2021 and $154,019 million in FY2022. Operating cash flow was $4,115 million in FY2021 and $4,728 million in FY2022.",
+   "mda": "Management Discussion FY2022 for Zoltrane Group. Revenue of $44,603 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "ZLTR-10K-2023": {
+  "filing_id": "ZLTR-10K-2023",
+  "company": "Zoltrane Group",
+  "ticker": "ZLTR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 22582,
+   "net_income": 3712,
+   "total_assets": 78957,
+   "operating_cash_flow": 6942
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 22582,
+    "net_income": 3712
+   },
+   "balance_sheet": {
+    "total_assets": 78957
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6942
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $44,603 million in FY2022 and $22,582 million in FY2023. Net income was $5,010 million in FY2022 and $3,712 million in FY2023. Total assets were $154,019 million in FY2022 and $78,957 million in FY2023. Operating cash flow was $4,728 million in FY2022 and $6,942 million in FY2023.",
+   "mda": "Management Discussion FY2023 for Zoltrane Group. Revenue of $22,582 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "ZLTR-10K-2024": {
+  "filing_id": "ZLTR-10K-2024",
+  "company": "Zoltrane Group",
+  "ticker": "ZLTR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 42885,
+   "net_income": 4891,
+   "total_assets": 122948,
+   "operating_cash_flow": 14517
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 42885,
+    "net_income": 4891
+   },
+   "balance_sheet": {
+    "total_assets": 122948
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14517
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $42,885 million in FY2024 and $22,582 million in FY2023. Net income was $4,891 million in FY2024 and $3,712 million in FY2023. Total assets were $122,948 million in FY2024 and $78,957 million in FY2023. Operating cash flow was $14,517 million in FY2024 and $6,942 million in FY2023.",
+   "mda": "Management Discussion FY2024 for Zoltrane Group. Revenue of $42,885 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "SHGR-10K-2022": {
+  "filing_id": "SHGR-10K-2022",
+  "company": "Ashgrove Labs",
+  "ticker": "SHGR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 33187,
+   "net_income": 5185,
+   "total_assets": 85976,
+   "operating_cash_flow": 10045
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 33187,
+    "net_income": 5185
+   },
+   "balance_sheet": {
+    "total_assets": 85976
+   },
+   "cash_flow": {
+    "operating_cash_flow": 10045
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $29,583 million in FY2021 and $33,187 million in FY2022. Net income was $4,593 million in FY2021 and $5,185 million in FY2022. Total assets were $80,895 million in FY2021 and $85,976 million in FY2022. Operating cash flow was $9,357 million in FY2021 and $10,045 million in FY2022.",
+   "mda": "Management Discussion FY2022 for Ashgrove Labs. Revenue of $33,187 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "SHGR-10K-2023": {
+  "filing_id": "SHGR-10K-2023",
+  "company": "Ashgrove Labs",
+  "ticker": "SHGR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 8266,
+   "net_income": 703,
+   "total_assets": 27263,
+   "operating_cash_flow": 2101
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 8266,
+    "net_income": 703
+   },
+   "balance_sheet": {
+    "total_assets": 27263
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2101
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $33,187 million in FY2022 and $8,266 million in FY2023. Net income was $5,185 million in FY2022 and $703 million in FY2023. Total assets were $85,976 million in FY2022 and $27,263 million in FY2023. Operating cash flow was $10,045 million in FY2022 and $2,101 million in FY2023.",
+   "mda": "Management Discussion FY2023 for Ashgrove Labs. Revenue of $8,266 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "SHGR-10K-2024": {
+  "filing_id": "SHGR-10K-2024",
+  "company": "Ashgrove Labs",
+  "ticker": "SHGR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 38403,
+   "net_income": 2790,
+   "total_assets": 76846,
+   "operating_cash_flow": 13230
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 38403,
+    "net_income": 2790
+   },
+   "balance_sheet": {
+    "total_assets": 76846
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13230
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $38,403 million in FY2024 and $8,266 million in FY2023. Net income was $2,790 million in FY2024 and $703 million in FY2023. Total assets were $76,846 million in FY2024 and $27,263 million in FY2023. Operating cash flow was $13,230 million in FY2024 and $2,101 million in FY2023.",
+   "mda": "Management Discussion FY2024 for Ashgrove Labs. Revenue of $38,403 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "BRMB-10K-2022": {
+  "filing_id": "BRMB-10K-2022",
+  "company": "Bramblefield Corp",
+  "ticker": "BRMB",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 36518,
+   "net_income": 6995,
+   "total_assets": 91918,
+   "operating_cash_flow": 9799
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 36518,
+    "net_income": 6995
+   },
+   "balance_sheet": {
+    "total_assets": 91918
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9799
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $31,413 million in FY2021 and $36,518 million in FY2022. Net income was $6,213 million in FY2021 and $6,995 million in FY2022. Total assets were $87,643 million in FY2021 and $91,918 million in FY2022. Operating cash flow was $8,792 million in FY2021 and $9,799 million in FY2022.",
+   "mda": "Management Discussion FY2022 for Bramblefield Corp. Revenue of $36,518 million in FY2022 reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "BRMB-10K-2023": {
+  "filing_id": "BRMB-10K-2023",
+  "company": "Bramblefield Corp",
+  "ticker": "BRMB",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 42145,
+   "net_income": 8697,
+   "total_assets": 119689,
+   "operating_cash_flow": 13499
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 42145,
+    "net_income": 8697
+   },
+   "balance_sheet": {
+    "total_assets": 119689
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13499
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $36,518 million in FY2022 and $42,145 million in FY2023. Net income was $6,995 million in FY2022 and $8,697 million in FY2023. Total assets were $91,918 million in FY2022 and $119,689 million in FY2023. Operating cash flow was $9,799 million in FY2022 and $13,499 million in FY2023.",
+   "mda": "Management Discussion FY2023 for Bramblefield Corp. Revenue of $42,145 million in FY2023 reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "BRMB-10K-2024": {
+  "filing_id": "BRMB-10K-2024",
+  "company": "Bramblefield Corp",
+  "ticker": "BRMB",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T2",
+  "values": {
+   "revenue": 57838,
+   "net_income": 3041,
+   "total_assets": 127671,
+   "operating_cash_flow": 10474
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57838,
+    "net_income": 3041
+   },
+   "balance_sheet": {
+    "total_assets": 127671
+   },
+   "cash_flow": {
+    "operating_cash_flow": 10474
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations. Revenue was $42,145 million in FY2023 and $57,838 million in FY2024. Net income was $8,697 million in FY2023 and $3,041 million in FY2024. Total assets were $119,689 million in FY2023 and $127,671 million in FY2024. Operating cash flow was $13,499 million in FY2023 and $10,474 million in FY2024.",
+   "mda": "Management Discussion FY2024 for Bramblefield Corp. Revenue of $57,838 million in FY2024 reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "CNDR-10K-2022": {
+  "filing_id": "CNDR-10K-2022",
+  "company": "Cindervale Partners",
+  "ticker": "CNDR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 37703,
+   "net_income": 6405,
+   "total_assets": 102477,
+   "operating_cash_flow": 9697
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 37703,
+    "net_income": 6405
+   },
+   "balance_sheet": {
+    "total_assets": 102477
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9697
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $37,703 million. Adjusted revenue, a non-GAAP measure, was $40,213 million. Net income was $6,405 million. Adjusted net income, a non-GAAP measure, was $7,052 million. Total assets were $102,477 million. Adjusted total assets, a non-GAAP measure, were $105,564 million. Operating cash flow was $9,697 million. Adjusted operating cash flow, a non-GAAP measure, was $10,025 million.",
+   "mda": "Management Discussion FY2022 for Cindervale Partners. Revenue of $37,703 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "CNDR-10K-2023": {
+  "filing_id": "CNDR-10K-2023",
+  "company": "Cindervale Partners",
+  "ticker": "CNDR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 25176,
+   "net_income": 5459,
+   "total_assets": 37886,
+   "operating_cash_flow": 5974
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 25176,
+    "net_income": 5459
+   },
+   "balance_sheet": {
+    "total_assets": 37886
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5974
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Adjusted revenue, a non-GAAP measure, was $27,782 million. Revenue was $25,176 million. Adjusted net income, a non-GAAP measure, was $5,883 million. Net income was $5,459 million. Adjusted total assets, a non-GAAP measure, were $39,256 million. Total assets were $37,886 million. Adjusted operating cash flow, a non-GAAP measure, was $6,272 million. Operating cash flow was $5,974 million.",
+   "mda": "Management Discussion FY2023 for Cindervale Partners. Revenue of $25,176 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "CNDR-10K-2024": {
+  "filing_id": "CNDR-10K-2024",
+  "company": "Cindervale Partners",
+  "ticker": "CNDR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 50060,
+   "net_income": 4363,
+   "total_assets": 87939,
+   "operating_cash_flow": 14988
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 50060,
+    "net_income": 4363
+   },
+   "balance_sheet": {
+    "total_assets": 87939
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14988
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $50,060 million. Adjusted revenue, a non-GAAP measure, was $51,788 million. Net income was $4,363 million. Adjusted net income, a non-GAAP measure, was $4,584 million. Total assets were $87,939 million. Adjusted total assets, a non-GAAP measure, were $97,610 million. Operating cash flow was $14,988 million. Adjusted operating cash flow, a non-GAAP measure, was $16,192 million.",
+   "mda": "Management Discussion FY2024 for Cindervale Partners. Revenue of $50,060 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "DRYC-10K-2022": {
+  "filing_id": "DRYC-10K-2022",
+  "company": "Draycott Dynamics",
+  "ticker": "DRYC",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 17730,
+   "net_income": 1500,
+   "total_assets": 33177,
+   "operating_cash_flow": 5811
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17730,
+    "net_income": 1500
+   },
+   "balance_sheet": {
+    "total_assets": 33177
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5811
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $17,730 million. Adjusted revenue, a non-GAAP measure, was $18,381 million. Net income was $1,500 million. Adjusted net income, a non-GAAP measure, was $1,618 million. Total assets were $33,177 million. Adjusted total assets, a non-GAAP measure, were $36,130 million. Operating cash flow was $5,811 million. Adjusted operating cash flow, a non-GAAP measure, was $6,214 million.",
+   "mda": "Management Discussion FY2022 for Draycott Dynamics. Revenue of $17,730 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "DRYC-10K-2023": {
+  "filing_id": "DRYC-10K-2023",
+  "company": "Draycott Dynamics",
+  "ticker": "DRYC",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 22163,
+   "net_income": 1872,
+   "total_assets": 67042,
+   "operating_cash_flow": 4627
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 22163,
+    "net_income": 1872
+   },
+   "balance_sheet": {
+    "total_assets": 67042
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4627
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Adjusted revenue, a non-GAAP measure, was $24,295 million. Revenue was $22,163 million. Adjusted net income, a non-GAAP measure, was $1,949 million. Net income was $1,872 million. Adjusted total assets, a non-GAAP measure, were $74,346 million. Total assets were $67,042 million. Adjusted operating cash flow, a non-GAAP measure, was $5,120 million. Operating cash flow was $4,627 million.",
+   "mda": "Management Discussion FY2023 for Draycott Dynamics. Revenue of $22,163 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "DRYC-10K-2024": {
+  "filing_id": "DRYC-10K-2024",
+  "company": "Draycott Dynamics",
+  "ticker": "DRYC",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 56213,
+   "net_income": 11826,
+   "total_assets": 146080,
+   "operating_cash_flow": 17139
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 56213,
+    "net_income": 11826
+   },
+   "balance_sheet": {
+    "total_assets": 146080
+   },
+   "cash_flow": {
+    "operating_cash_flow": 17139
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $56,213 million. Adjusted revenue, a non-GAAP measure, was $60,908 million. Net income was $11,826 million. Adjusted net income, a non-GAAP measure, was $12,934 million. Total assets were $146,080 million. Adjusted total assets, a non-GAAP measure, were $156,390 million. Operating cash flow was $17,139 million. Adjusted operating cash flow, a non-GAAP measure, was $17,749 million.",
+   "mda": "Management Discussion FY2024 for Draycott Dynamics. Revenue of $56,213 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "MBRN-10K-2022": {
+  "filing_id": "MBRN-10K-2022",
+  "company": "Emberlin Holdings",
+  "ticker": "MBRN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 57727,
+   "net_income": 5249,
+   "total_assets": 111337,
+   "operating_cash_flow": 17326
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57727,
+    "net_income": 5249
+   },
+   "balance_sheet": {
+    "total_assets": 111337
+   },
+   "cash_flow": {
+    "operating_cash_flow": 17326
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Adjusted revenue, a non-GAAP measure, was $63,108 million. Revenue was $57,727 million. Adjusted net income, a non-GAAP measure, was $5,451 million. Net income was $5,249 million. Adjusted total assets, a non-GAAP measure, were $118,594 million. Total assets were $111,337 million. Adjusted operating cash flow, a non-GAAP measure, was $18,559 million. Operating cash flow was $17,326 million.",
+   "mda": "Management Discussion FY2022 for Emberlin Holdings. Revenue of $57,727 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "MBRN-10K-2023": {
+  "filing_id": "MBRN-10K-2023",
+  "company": "Emberlin Holdings",
+  "ticker": "MBRN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 11822,
+   "net_income": 1088,
+   "total_assets": 23384,
+   "operating_cash_flow": 2542
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 11822,
+    "net_income": 1088
+   },
+   "balance_sheet": {
+    "total_assets": 23384
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2542
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Adjusted revenue, a non-GAAP measure, was $13,100 million. Revenue was $11,822 million. Adjusted net income, a non-GAAP measure, was $1,153 million. Net income was $1,088 million. Adjusted total assets, a non-GAAP measure, were $24,700 million. Total assets were $23,384 million. Adjusted operating cash flow, a non-GAAP measure, was $2,626 million. Operating cash flow was $2,542 million.",
+   "mda": "Management Discussion FY2023 for Emberlin Holdings. Revenue of $11,822 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "MBRN-10K-2024": {
+  "filing_id": "MBRN-10K-2024",
+  "company": "Emberlin Holdings",
+  "ticker": "MBRN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 37682,
+   "net_income": 5975,
+   "total_assets": 66876,
+   "operating_cash_flow": 8270
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 37682,
+    "net_income": 5975
+   },
+   "balance_sheet": {
+    "total_assets": 66876
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8270
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Adjusted revenue, a non-GAAP measure, was $39,804 million. Revenue was $37,682 million. Adjusted net income, a non-GAAP measure, was $6,222 million. Net income was $5,975 million. Adjusted total assets, a non-GAAP measure, were $70,815 million. Total assets were $66,876 million. Adjusted operating cash flow, a non-GAAP measure, was $8,911 million. Operating cash flow was $8,270 million.",
+   "mda": "Management Discussion FY2024 for Emberlin Holdings. Revenue of $37,682 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "FXHL-10K-2022": {
+  "filing_id": "FXHL-10K-2022",
+  "company": "Foxhollow Industries",
+  "ticker": "FXHL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 23963,
+   "net_income": 3122,
+   "total_assets": 39361,
+   "operating_cash_flow": 5769
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23963,
+    "net_income": 3122
+   },
+   "balance_sheet": {
+    "total_assets": 39361
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5769
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Adjusted revenue, a non-GAAP measure, was $25,567 million. Revenue was $23,963 million. Adjusted net income, a non-GAAP measure, was $3,414 million. Net income was $3,122 million. Adjusted total assets, a non-GAAP measure, were $40,805 million. Total assets were $39,361 million. Adjusted operating cash flow, a non-GAAP measure, was $6,373 million. Operating cash flow was $5,769 million.",
+   "mda": "Management Discussion FY2022 for Foxhollow Industries. Revenue of $23,963 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "FXHL-10K-2023": {
+  "filing_id": "FXHL-10K-2023",
+  "company": "Foxhollow Industries",
+  "ticker": "FXHL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 47776,
+   "net_income": 5843,
+   "total_assets": 165950,
+   "operating_cash_flow": 14494
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 47776,
+    "net_income": 5843
+   },
+   "balance_sheet": {
+    "total_assets": 165950
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14494
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Adjusted revenue, a non-GAAP measure, was $49,382 million. Revenue was $47,776 million. Adjusted net income, a non-GAAP measure, was $6,228 million. Net income was $5,843 million. Adjusted total assets, a non-GAAP measure, were $184,940 million. Total assets were $165,950 million. Adjusted operating cash flow, a non-GAAP measure, was $15,835 million. Operating cash flow was $14,494 million.",
+   "mda": "Management Discussion FY2023 for Foxhollow Industries. Revenue of $47,776 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "FXHL-10K-2024": {
+  "filing_id": "FXHL-10K-2024",
+  "company": "Foxhollow Industries",
+  "ticker": "FXHL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 33458,
+   "net_income": 2066,
+   "total_assets": 94322,
+   "operating_cash_flow": 7963
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 33458,
+    "net_income": 2066
+   },
+   "balance_sheet": {
+    "total_assets": 94322
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7963
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Adjusted revenue, a non-GAAP measure, was $34,697 million. Revenue was $33,458 million. Adjusted net income, a non-GAAP measure, was $2,186 million. Net income was $2,066 million. Adjusted total assets, a non-GAAP measure, were $104,151 million. Total assets were $94,322 million. Adjusted operating cash flow, a non-GAAP measure, was $8,245 million. Operating cash flow was $7,963 million.",
+   "mda": "Management Discussion FY2024 for Foxhollow Industries. Revenue of $33,458 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "GRYW-10K-2022": {
+  "filing_id": "GRYW-10K-2022",
+  "company": "Greywick Systems",
+  "ticker": "GRYW",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 34980,
+   "net_income": 4844,
+   "total_assets": 92466,
+   "operating_cash_flow": 7507
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 34980,
+    "net_income": 4844
+   },
+   "balance_sheet": {
+    "total_assets": 92466
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7507
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Adjusted revenue, a non-GAAP measure, was $37,170 million. Revenue was $34,980 million. Adjusted net income, a non-GAAP measure, was $5,220 million. Net income was $4,844 million. Adjusted total assets, a non-GAAP measure, were $101,098 million. Total assets were $92,466 million. Adjusted operating cash flow, a non-GAAP measure, was $7,857 million. Operating cash flow was $7,507 million.",
+   "mda": "Management Discussion FY2022 for Greywick Systems. Revenue of $34,980 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "GRYW-10K-2023": {
+  "filing_id": "GRYW-10K-2023",
+  "company": "Greywick Systems",
+  "ticker": "GRYW",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 16259,
+   "net_income": 1490,
+   "total_assets": 46390,
+   "operating_cash_flow": 4796
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 16259,
+    "net_income": 1490
+   },
+   "balance_sheet": {
+    "total_assets": 46390
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4796
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Adjusted revenue, a non-GAAP measure, was $18,017 million. Revenue was $16,259 million. Adjusted net income, a non-GAAP measure, was $1,589 million. Net income was $1,490 million. Adjusted total assets, a non-GAAP measure, were $50,805 million. Total assets were $46,390 million. Adjusted operating cash flow, a non-GAAP measure, was $5,148 million. Operating cash flow was $4,796 million.",
+   "mda": "Management Discussion FY2023 for Greywick Systems. Revenue of $16,259 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "GRYW-10K-2024": {
+  "filing_id": "GRYW-10K-2024",
+  "company": "Greywick Systems",
+  "ticker": "GRYW",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 51192,
+   "net_income": 4553,
+   "total_assets": 157749,
+   "operating_cash_flow": 7354
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 51192,
+    "net_income": 4553
+   },
+   "balance_sheet": {
+    "total_assets": 157749
+   },
+   "cash_flow": {
+    "operating_cash_flow": 7354
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Adjusted revenue, a non-GAAP measure, was $53,607 million. Revenue was $51,192 million. Adjusted net income, a non-GAAP measure, was $4,722 million. Net income was $4,553 million. Adjusted total assets, a non-GAAP measure, were $163,715 million. Total assets were $157,749 million. Adjusted operating cash flow, a non-GAAP measure, was $7,912 million. Operating cash flow was $7,354 million.",
+   "mda": "Management Discussion FY2024 for Greywick Systems. Revenue of $51,192 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "HLLW-10K-2022": {
+  "filing_id": "HLLW-10K-2022",
+  "company": "Holloway Group",
+  "ticker": "HLLW",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 42032,
+   "net_income": 4732,
+   "total_assets": 90633,
+   "operating_cash_flow": 4997
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 42032,
+    "net_income": 4732
+   },
+   "balance_sheet": {
+    "total_assets": 90633
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4997
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $42,032 million. Adjusted revenue, a non-GAAP measure, was $43,396 million. Net income was $4,732 million. Adjusted net income, a non-GAAP measure, was $5,239 million. Total assets were $90,633 million. Adjusted total assets, a non-GAAP measure, were $101,355 million. Operating cash flow was $4,997 million. Adjusted operating cash flow, a non-GAAP measure, was $5,210 million.",
+   "mda": "Management Discussion FY2022 for Holloway Group. Revenue of $42,032 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "HLLW-10K-2023": {
+  "filing_id": "HLLW-10K-2023",
+  "company": "Holloway Group",
+  "ticker": "HLLW",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 16321,
+   "net_income": 831,
+   "total_assets": 29340,
+   "operating_cash_flow": 4081
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 16321,
+    "net_income": 831
+   },
+   "balance_sheet": {
+    "total_assets": 29340
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4081
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $16,321 million. Adjusted revenue, a non-GAAP measure, was $17,502 million. Net income was $831 million. Adjusted net income, a non-GAAP measure, was $875 million. Total assets were $29,340 million. Adjusted total assets, a non-GAAP measure, were $32,737 million. Operating cash flow was $4,081 million. Adjusted operating cash flow, a non-GAAP measure, was $4,259 million.",
+   "mda": "Management Discussion FY2023 for Holloway Group. Revenue of $16,321 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "HLLW-10K-2024": {
+  "filing_id": "HLLW-10K-2024",
+  "company": "Holloway Group",
+  "ticker": "HLLW",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T3",
+  "values": {
+   "revenue": 57162,
+   "net_income": 6394,
+   "total_assets": 196456,
+   "operating_cash_flow": 6638
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57162,
+    "net_income": 6394
+   },
+   "balance_sheet": {
+    "total_assets": 196456
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6638
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Adjusted revenue, a non-GAAP measure, was $63,073 million. Revenue was $57,162 million. Adjusted net income, a non-GAAP measure, was $6,603 million. Net income was $6,394 million. Adjusted total assets, a non-GAAP measure, were $212,592 million. Total assets were $196,456 million. Adjusted operating cash flow, a non-GAAP measure, was $6,974 million. Operating cash flow was $6,638 million.",
+   "mda": "Management Discussion FY2024 for Holloway Group. Revenue of $57,162 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "VRLL-10K-2022": {
+  "filing_id": "VRLL-10K-2022",
+  "company": "Ivorell Labs",
+  "ticker": "VRLL",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 46345,
+   "net_income": 7671,
+   "total_assets": 80014,
+   "operating_cash_flow": 14193
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 46345,
+    "net_income": 7671
+   },
+   "balance_sheet": {
+    "total_assets": 80014
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14193
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 46,345\nNet income | 7,671\nTotal assets | 80,014\nOperating cash flow | 14,193",
+   "mda": "Management Discussion FY2022 for Ivorell Labs. Revenue of $46,345 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "VRLL-10K-2023": {
+  "filing_id": "VRLL-10K-2023",
+  "company": "Ivorell Labs",
+  "ticker": "VRLL",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 23335,
+   "net_income": 3745,
+   "total_assets": 45316,
+   "operating_cash_flow": 5344
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23335,
+    "net_income": 3745
+   },
+   "balance_sheet": {
+    "total_assets": 45316
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5344
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 23,335\nNet income | 3,745\nTotal assets | 45,316\nOperating cash flow | 5,344",
+   "mda": "Management Discussion FY2023 for Ivorell Labs. Revenue of $23,335 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "VRLL-10K-2024": {
+  "filing_id": "VRLL-10K-2024",
+  "company": "Ivorell Labs",
+  "ticker": "VRLL",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 13361,
+   "net_income": 984,
+   "total_assets": 30039,
+   "operating_cash_flow": 2118
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 13361,
+    "net_income": 984
+   },
+   "balance_sheet": {
+    "total_assets": 30039
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2118
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 13,361\nNet income | 984\nTotal assets | 30,039\nOperating cash flow | 2,118",
+   "mda": "Management Discussion FY2024 for Ivorell Labs. Revenue of $13,361 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "JSPR-10K-2022": {
+  "filing_id": "JSPR-10K-2022",
+  "company": "Jasperline Corp",
+  "ticker": "JSPR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 54915,
+   "net_income": 11697,
+   "total_assets": 189793,
+   "operating_cash_flow": 12882
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 54915,
+    "net_income": 11697
+   },
+   "balance_sheet": {
+    "total_assets": 189793
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12882
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 54,915\nNet income | 11,697\nTotal assets | 189,793\nOperating cash flow | 12,882",
+   "mda": "Management Discussion FY2022 for Jasperline Corp. Revenue of $54,915 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "JSPR-10K-2023": {
+  "filing_id": "JSPR-10K-2023",
+  "company": "Jasperline Corp",
+  "ticker": "JSPR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 9569,
+   "net_income": 682,
+   "total_assets": 14499,
+   "operating_cash_flow": 2492
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 9569,
+    "net_income": 682
+   },
+   "balance_sheet": {
+    "total_assets": 14499
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2492
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 9,569\nNet income | 682\nTotal assets | 14,499\nOperating cash flow | 2,492",
+   "mda": "Management Discussion FY2023 for Jasperline Corp. Revenue of $9,569 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "JSPR-10K-2024": {
+  "filing_id": "JSPR-10K-2024",
+  "company": "Jasperline Corp",
+  "ticker": "JSPR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 54081,
+   "net_income": 3520,
+   "total_assets": 141333,
+   "operating_cash_flow": 12116
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 54081,
+    "net_income": 3520
+   },
+   "balance_sheet": {
+    "total_assets": 141333
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12116
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 54,081\nNet income | 3,520\nTotal assets | 141,333\nOperating cash flow | 12,116",
+   "mda": "Management Discussion FY2024 for Jasperline Corp. Revenue of $54,081 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "KRYN-10K-2022": {
+  "filing_id": "KRYN-10K-2022",
+  "company": "Krynwood Partners",
+  "ticker": "KRYN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 42628,
+   "net_income": 4039,
+   "total_assets": 73260,
+   "operating_cash_flow": 4324
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 42628,
+    "net_income": 4039
+   },
+   "balance_sheet": {
+    "total_assets": 73260
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4324
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 42,628\nNet income | 4,039\nTotal assets | 73,260\nOperating cash flow | 4,324",
+   "mda": "Management Discussion FY2022 for Krynwood Partners. Revenue of $42,628 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "KRYN-10K-2023": {
+  "filing_id": "KRYN-10K-2023",
+  "company": "Krynwood Partners",
+  "ticker": "KRYN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 11907,
+   "net_income": 1360,
+   "total_assets": 40255,
+   "operating_cash_flow": 1675
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 11907,
+    "net_income": 1360
+   },
+   "balance_sheet": {
+    "total_assets": 40255
+   },
+   "cash_flow": {
+    "operating_cash_flow": 1675
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 11,907\nNet income | 1,360\nTotal assets | 40,255\nOperating cash flow | 1,675",
+   "mda": "Management Discussion FY2023 for Krynwood Partners. Revenue of $11,907 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "KRYN-10K-2024": {
+  "filing_id": "KRYN-10K-2024",
+  "company": "Krynwood Partners",
+  "ticker": "KRYN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 59790,
+   "net_income": 5636,
+   "total_assets": 100964,
+   "operating_cash_flow": 12274
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 59790,
+    "net_income": 5636
+   },
+   "balance_sheet": {
+    "total_assets": 100964
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12274
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 59,790\nNet income | 5,636\nTotal assets | 100,964\nOperating cash flow | 12,274",
+   "mda": "Management Discussion FY2024 for Krynwood Partners. Revenue of $59,790 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "LRKS-10K-2022": {
+  "filing_id": "LRKS-10K-2022",
+  "company": "Larkspire Dynamics",
+  "ticker": "LRKS",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 14949,
+   "net_income": 1821,
+   "total_assets": 38357,
+   "operating_cash_flow": 3189
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 14949,
+    "net_income": 1821
+   },
+   "balance_sheet": {
+    "total_assets": 38357
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3189
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 14,949\nNet income | 1,821\nTotal assets | 38,357\nOperating cash flow | 3,189",
+   "mda": "Management Discussion FY2022 for Larkspire Dynamics. Revenue of $14,949 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "LRKS-10K-2023": {
+  "filing_id": "LRKS-10K-2023",
+  "company": "Larkspire Dynamics",
+  "ticker": "LRKS",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 47732,
+   "net_income": 4904,
+   "total_assets": 160794,
+   "operating_cash_flow": 14849
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 47732,
+    "net_income": 4904
+   },
+   "balance_sheet": {
+    "total_assets": 160794
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14849
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 47,732\nNet income | 4,904\nTotal assets | 160,794\nOperating cash flow | 14,849",
+   "mda": "Management Discussion FY2023 for Larkspire Dynamics. Revenue of $47,732 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "LRKS-10K-2024": {
+  "filing_id": "LRKS-10K-2024",
+  "company": "Larkspire Dynamics",
+  "ticker": "LRKS",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 10054,
+   "net_income": 1846,
+   "total_assets": 27347,
+   "operating_cash_flow": 2122
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 10054,
+    "net_income": 1846
+   },
+   "balance_sheet": {
+    "total_assets": 27347
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2122
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 10,054\nNet income | 1,846\nTotal assets | 27,347\nOperating cash flow | 2,122",
+   "mda": "Management Discussion FY2024 for Larkspire Dynamics. Revenue of $10,054 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "MSTH-10K-2022": {
+  "filing_id": "MSTH-10K-2022",
+  "company": "Mistholme Holdings",
+  "ticker": "MSTH",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 57301,
+   "net_income": 5749,
+   "total_assets": 116037,
+   "operating_cash_flow": 9170
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57301,
+    "net_income": 5749
+   },
+   "balance_sheet": {
+    "total_assets": 116037
+   },
+   "cash_flow": {
+    "operating_cash_flow": 9170
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 57,301\nNet income | 5,749\nTotal assets | 116,037\nOperating cash flow | 9,170",
+   "mda": "Management Discussion FY2022 for Mistholme Holdings. Revenue of $57,301 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "MSTH-10K-2023": {
+  "filing_id": "MSTH-10K-2023",
+  "company": "Mistholme Holdings",
+  "ticker": "MSTH",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 46940,
+   "net_income": 7809,
+   "total_assets": 79884,
+   "operating_cash_flow": 13590
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 46940,
+    "net_income": 7809
+   },
+   "balance_sheet": {
+    "total_assets": 79884
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13590
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 46,940\nNet income | 7,809\nTotal assets | 79,884\nOperating cash flow | 13,590",
+   "mda": "Management Discussion FY2023 for Mistholme Holdings. Revenue of $46,940 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "MSTH-10K-2024": {
+  "filing_id": "MSTH-10K-2024",
+  "company": "Mistholme Holdings",
+  "ticker": "MSTH",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 13518,
+   "net_income": 2640,
+   "total_assets": 33145,
+   "operating_cash_flow": 2385
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 13518,
+    "net_income": 2640
+   },
+   "balance_sheet": {
+    "total_assets": 33145
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2385
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 13,518\nNet income | 2,640\nTotal assets | 33,145\nOperating cash flow | 2,385",
+   "mda": "Management Discussion FY2024 for Mistholme Holdings. Revenue of $13,518 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "NRTH-10K-2022": {
+  "filing_id": "NRTH-10K-2022",
+  "company": "Northgale Industries",
+  "ticker": "NRTH",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 59361,
+   "net_income": 7206,
+   "total_assets": 112929,
+   "operating_cash_flow": 16138
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 59361,
+    "net_income": 7206
+   },
+   "balance_sheet": {
+    "total_assets": 112929
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16138
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2022 (USD millions)\nLine item | FY2022\nRevenue | 59,361\nNet income | 7,206\nTotal assets | 112,929\nOperating cash flow | 16,138",
+   "mda": "Management Discussion FY2022 for Northgale Industries. Revenue of $59,361 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "NRTH-10K-2023": {
+  "filing_id": "NRTH-10K-2023",
+  "company": "Northgale Industries",
+  "ticker": "NRTH",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 40512,
+   "net_income": 4367,
+   "total_assets": 122384,
+   "operating_cash_flow": 13421
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 40512,
+    "net_income": 4367
+   },
+   "balance_sheet": {
+    "total_assets": 122384
+   },
+   "cash_flow": {
+    "operating_cash_flow": 13421
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2023 (USD millions)\nLine item | FY2023\nRevenue | 40,512\nNet income | 4,367\nTotal assets | 122,384\nOperating cash flow | 13,421",
+   "mda": "Management Discussion FY2023 for Northgale Industries. Revenue of $40,512 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "NRTH-10K-2024": {
+  "filing_id": "NRTH-10K-2024",
+  "company": "Northgale Industries",
+  "ticker": "NRTH",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "T6",
+  "values": {
+   "revenue": 12413,
+   "net_income": 2301,
+   "total_assets": 30039,
+   "operating_cash_flow": 3728
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 12413,
+    "net_income": 2301
+   },
+   "balance_sheet": {
+    "total_assets": 30039
+   },
+   "cash_flow": {
+    "operating_cash_flow": 3728
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Financial Data, FY2024 (USD millions)\nLine item | FY2024\nRevenue | 12,413\nNet income | 2,301\nTotal assets | 30,039\nOperating cash flow | 3,728",
+   "mda": "Management Discussion FY2024 for Northgale Industries. Revenue of $12,413 million reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "KHVN-10K-2022": {
+  "filing_id": "KHVN-10K-2022",
+  "company": "Oakhaven Systems",
+  "ticker": "KHVN",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 30860,
+   "net_income": 4522,
+   "total_assets": 95402,
+   "operating_cash_flow": 5738
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 30900,
+    "net_income": 4500
+   },
+   "balance_sheet": {
+    "total_assets": 95400
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5700
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $30.9 billion. Net income was $4.5 billion. Total assets were $95.4 billion. Operating cash flow was $5.7 billion.",
+   "mda": "Management Discussion FY2022 for Oakhaven Systems. Revenue of $30.9 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "KHVN-10K-2023": {
+  "filing_id": "KHVN-10K-2023",
+  "company": "Oakhaven Systems",
+  "ticker": "KHVN",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 48335,
+   "net_income": 8244,
+   "total_assets": 108440,
+   "operating_cash_flow": 8469
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 48300,
+    "net_income": 8200
+   },
+   "balance_sheet": {
+    "total_assets": 108400
+   },
+   "cash_flow": {
+    "operating_cash_flow": 8500
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $48.3 billion. Net income was $8.2 billion. Total assets were $108.4 billion. Operating cash flow was $8.5 billion.",
+   "mda": "Management Discussion FY2023 for Oakhaven Systems. Revenue of $48.3 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "KHVN-10K-2024": {
+  "filing_id": "KHVN-10K-2024",
+  "company": "Oakhaven Systems",
+  "ticker": "KHVN",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 58832,
+   "net_income": 7840,
+   "total_assets": 107924,
+   "operating_cash_flow": 6753
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58800,
+    "net_income": 7800
+   },
+   "balance_sheet": {
+    "total_assets": 107900
+   },
+   "cash_flow": {
+    "operating_cash_flow": 6800
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $58.8 billion. Net income was $7.8 billion. Total assets were $107.9 billion. Operating cash flow was $6.8 billion.",
+   "mda": "Management Discussion FY2024 for Oakhaven Systems. Revenue of $58.8 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "PNCR-10K-2022": {
+  "filing_id": "PNCR-10K-2022",
+  "company": "Pinecrest Group",
+  "ticker": "PNCR",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 57457,
+   "net_income": 6701,
+   "total_assets": 96433,
+   "operating_cash_flow": 10415
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 57500,
+    "net_income": 6700
+   },
+   "balance_sheet": {
+    "total_assets": 96400
+   },
+   "cash_flow": {
+    "operating_cash_flow": 10400
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $57.5 billion. Net income was $6.7 billion. Total assets were $96.4 billion. Operating cash flow was $10.4 billion.",
+   "mda": "Management Discussion FY2022 for Pinecrest Group. Revenue of $57.5 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "PNCR-10K-2023": {
+  "filing_id": "PNCR-10K-2023",
+  "company": "Pinecrest Group",
+  "ticker": "PNCR",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 52283,
+   "net_income": 3326,
+   "total_assets": 105064,
+   "operating_cash_flow": 15903
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 52300,
+    "net_income": 3300
+   },
+   "balance_sheet": {
+    "total_assets": 105100
+   },
+   "cash_flow": {
+    "operating_cash_flow": 15900
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $52.3 billion. Net income was $3.3 billion. Total assets were $105.1 billion. Operating cash flow was $15.9 billion.",
+   "mda": "Management Discussion FY2023 for Pinecrest Group. Revenue of $52.3 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "PNCR-10K-2024": {
+  "filing_id": "PNCR-10K-2024",
+  "company": "Pinecrest Group",
+  "ticker": "PNCR",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 43758,
+   "net_income": 2571,
+   "total_assets": 115899,
+   "operating_cash_flow": 5094
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 43800,
+    "net_income": 2600
+   },
+   "balance_sheet": {
+    "total_assets": 115900
+   },
+   "cash_flow": {
+    "operating_cash_flow": 5100
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $43.8 billion. Net income was $2.6 billion. Total assets were $115.9 billion. Operating cash flow was $5.1 billion.",
+   "mda": "Management Discussion FY2024 for Pinecrest Group. Revenue of $43.8 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "QRRY-10K-2022": {
+  "filing_id": "QRRY-10K-2022",
+  "company": "Quarrystone Labs",
+  "ticker": "QRRY",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 54295,
+   "net_income": 7154,
+   "total_assets": 126735,
+   "operating_cash_flow": 16698
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 54300,
+    "net_income": 7200
+   },
+   "balance_sheet": {
+    "total_assets": 126700
+   },
+   "cash_flow": {
+    "operating_cash_flow": 16700
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $54.3 billion. Net income was $7.2 billion. Total assets were $126.7 billion. Operating cash flow was $16.7 billion.",
+   "mda": "Management Discussion FY2022 for Quarrystone Labs. Revenue of $54.3 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "QRRY-10K-2023": {
+  "filing_id": "QRRY-10K-2023",
+  "company": "Quarrystone Labs",
+  "ticker": "QRRY",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 14921,
+   "net_income": 2563,
+   "total_assets": 23711,
+   "operating_cash_flow": 4892
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 14900,
+    "net_income": 2600
+   },
+   "balance_sheet": {
+    "total_assets": 23700
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4900
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $14.9 billion. Net income was $2.6 billion. Total assets were $23.7 billion. Operating cash flow was $4.9 billion.",
+   "mda": "Management Discussion FY2023 for Quarrystone Labs. Revenue of $14.9 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "QRRY-10K-2024": {
+  "filing_id": "QRRY-10K-2024",
+  "company": "Quarrystone Labs",
+  "ticker": "QRRY",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 22967,
+   "net_income": 4688,
+   "total_assets": 75723,
+   "operating_cash_flow": 4308
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 23000,
+    "net_income": 4700
+   },
+   "balance_sheet": {
+    "total_assets": 75700
+   },
+   "cash_flow": {
+    "operating_cash_flow": 4300
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $23.0 billion. Net income was $4.7 billion. Total assets were $75.7 billion. Operating cash flow was $4.3 billion.",
+   "mda": "Management Discussion FY2024 for Quarrystone Labs. Revenue of $23.0 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ },
+ "RKWD-10K-2022": {
+  "filing_id": "RKWD-10K-2022",
+  "company": "Rookwood Corp",
+  "ticker": "RKWD",
+  "year": 2022,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 17719,
+   "net_income": 1905,
+   "total_assets": 34453,
+   "operating_cash_flow": 2333
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 17700,
+    "net_income": 1900
+   },
+   "balance_sheet": {
+    "total_assets": 34500
+   },
+   "cash_flow": {
+    "operating_cash_flow": 2300
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2022. Revenue was $17.7 billion. Net income was $1.9 billion. Total assets were $34.5 billion. Operating cash flow was $2.3 billion.",
+   "mda": "Management Discussion FY2022 for Rookwood Corp. Revenue of $17.7 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2022. See statements for audited figures."
+  }
+ },
+ "RKWD-10K-2023": {
+  "filing_id": "RKWD-10K-2023",
+  "company": "Rookwood Corp",
+  "ticker": "RKWD",
+  "year": 2023,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 38320,
+   "net_income": 7552,
+   "total_assets": 104956,
+   "operating_cash_flow": 12448
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 38300,
+    "net_income": 7600
+   },
+   "balance_sheet": {
+    "total_assets": 105000
+   },
+   "cash_flow": {
+    "operating_cash_flow": 12400
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2023. Revenue was $38.3 billion. Net income was $7.6 billion. Total assets were $105.0 billion. Operating cash flow was $12.4 billion.",
+   "mda": "Management Discussion FY2023 for Rookwood Corp. Revenue of $38.3 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2023. See statements for audited figures."
+  }
+ },
+ "RKWD-10K-2024": {
+  "filing_id": "RKWD-10K-2024",
+  "company": "Rookwood Corp",
+  "ticker": "RKWD",
+  "year": 2024,
+  "form": "10-K",
+  "source": "synthetic tail-slice filing (seeded, no real issuer)",
+  "slice": "D1",
+  "values": {
+   "revenue": 58317,
+   "net_income": 3996,
+   "total_assets": 178098,
+   "operating_cash_flow": 14317
+  },
+  "tables": {
+   "income_statement": {
+    "revenue": 58300,
+    "net_income": 4000
+   },
+   "balance_sheet": {
+    "total_assets": 178100
+   },
+   "cash_flow": {
+    "operating_cash_flow": 14300
+   }
+  },
+  "sections": {
+   "financial_statements": "Consolidated Statements of Operations, FY2024. Revenue was $58.3 billion. Net income was $4.0 billion. Total assets were $178.1 billion. Operating cash flow was $14.3 billion.",
+   "mda": "Management Discussion FY2024 for Rookwood Corp. Revenue of $58.3 billion reflects operating performance.",
+   "notes": "Notes to financial statements FY2024. See statements for audited figures."
+  }
+ }
+}

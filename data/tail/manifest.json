@@ -1,0 +1,315 @@
+{
+ "seed": 20261008,
+ "counts": {
+  "fit": {
+   "S0": 320,
+   "T1": 30,
+   "T2": 30,
+   "T3": 30,
+   "T4": 30,
+   "T5": 30,
+   "T6": 30
+  },
+  "cal": {
+   "S0": 448,
+   "T1": 42,
+   "T2": 42,
+   "T3": 42,
+   "T4": 42,
+   "T5": 42,
+   "T6": 42
+  },
+  "test": {
+   "S0": 512,
+   "T1": 48,
+   "T2": 48,
+   "T3": 48,
+   "T4": 48,
+   "T5": 48,
+   "T6": 48
+  }
+ },
+ "drift": {
+  "slice": "D1",
+  "n": 200
+ },
+ "companies": {
+  "Zephyr Holdings": {
+   "ticker": "ZPHY",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 0
+  },
+  "Quorvex Industries": {
+   "ticker": "QRVX",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 1
+  },
+  "Brightwater Systems": {
+   "ticker": "BRGH",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 2
+  },
+  "Kestrel Group": {
+   "ticker": "KSTR",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 3
+  },
+  "Obsidian Labs": {
+   "ticker": "BSDN",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 4
+  },
+  "Halcyon Corp": {
+   "ticker": "HLCY",
+   "group": "STD",
+   "split": "fit",
+   "pos_in_group": 5
+  },
+  "Marlowe Partners": {
+   "ticker": "MRLW",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 6
+  },
+  "Tidewell Dynamics": {
+   "ticker": "TDWL",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 7
+  },
+  "Corvana Holdings": {
+   "ticker": "CRVN",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 8
+  },
+  "Fennick Industries": {
+   "ticker": "FNNC",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 9
+  },
+  "Glenmoor Systems": {
+   "ticker": "GLNM",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 10
+  },
+  "Ironbark Group": {
+   "ticker": "RNBR",
+   "group": "STD",
+   "split": "cal",
+   "pos_in_group": 11
+  },
+  "Juniper Labs": {
+   "ticker": "JNPR",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 12
+  },
+  "Kaltrix Corp": {
+   "ticker": "KLTR",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 13
+  },
+  "Lumora Partners": {
+   "ticker": "LMRX",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 14
+  },
+  "Nethercott Dynamics": {
+   "ticker": "NTHR",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 15
+  },
+  "Orwell Holdings": {
+   "ticker": "RWLL",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 16
+  },
+  "Pembrook Industries": {
+   "ticker": "PMBR",
+   "group": "STD",
+   "split": "test",
+   "pos_in_group": 17
+  },
+  "Quillon Systems": {
+   "ticker": "QLLN",
+   "group": "T1",
+   "split": "fit",
+   "pos_in_group": 0
+  },
+  "Ravenmoor Group": {
+   "ticker": "RVNM",
+   "group": "T1",
+   "split": "fit",
+   "pos_in_group": 1
+  },
+  "Solvane Labs": {
+   "ticker": "SLVN",
+   "group": "T1",
+   "split": "cal",
+   "pos_in_group": 2
+  },
+  "Thornbury Corp": {
+   "ticker": "THRN",
+   "group": "T1",
+   "split": "cal",
+   "pos_in_group": 3
+  },
+  "Umberlyn Partners": {
+   "ticker": "MBRL",
+   "group": "T1",
+   "split": "test",
+   "pos_in_group": 4
+  },
+  "Vexley Dynamics": {
+   "ticker": "VXLY",
+   "group": "T1",
+   "split": "test",
+   "pos_in_group": 5
+  },
+  "Wexford Holdings": {
+   "ticker": "WXFR",
+   "group": "T2",
+   "split": "fit",
+   "pos_in_group": 0
+  },
+  "Xandria Industries": {
+   "ticker": "XNDR",
+   "group": "T2",
+   "split": "fit",
+   "pos_in_group": 1
+  },
+  "Yarrowind Systems": {
+   "ticker": "YRRW",
+   "group": "T2",
+   "split": "cal",
+   "pos_in_group": 2
+  },
+  "Zoltrane Group": {
+   "ticker": "ZLTR",
+   "group": "T2",
+   "split": "cal",
+   "pos_in_group": 3
+  },
+  "Ashgrove Labs": {
+   "ticker": "SHGR",
+   "group": "T2",
+   "split": "test",
+   "pos_in_group": 4
+  },
+  "Bramblefield Corp": {
+   "ticker": "BRMB",
+   "group": "T2",
+   "split": "test",
+   "pos_in_group": 5
+  },
+  "Cindervale Partners": {
+   "ticker": "CNDR",
+   "group": "T3",
+   "split": "fit",
+   "pos_in_group": 0
+  },
+  "Draycott Dynamics": {
+   "ticker": "DRYC",
+   "group": "T3",
+   "split": "fit",
+   "pos_in_group": 1
+  },
+  "Emberlin Holdings": {
+   "ticker": "MBRN",
+   "group": "T3",
+   "split": "cal",
+   "pos_in_group": 2
+  },
+  "Foxhollow Industries": {
+   "ticker": "FXHL",
+   "group": "T3",
+   "split": "cal",
+   "pos_in_group": 3
+  },
+  "Greywick Systems": {
+   "ticker": "GRYW",
+   "group": "T3",
+   "split": "test",
+   "pos_in_group": 4
+  },
+  "Holloway Group": {
+   "ticker": "HLLW",
+   "group": "T3",
+   "split": "test",
+   "pos_in_group": 5
+  },
+  "Ivorell Labs": {
+   "ticker": "VRLL",
+   "group": "T6",
+   "split": "fit",
+   "pos_in_group": 0
+  },
+  "Jasperline Corp": {
+   "ticker": "JSPR",
+   "group": "T6",
+   "split": "fit",
+   "pos_in_group": 1
+  },
+  "Krynwood Partners": {
+   "ticker": "KRYN",
+   "group": "T6",
+   "split": "cal",
+   "pos_in_group": 2
+  },
+  "Larkspire Dynamics": {
+   "ticker": "LRKS",
+   "group": "T6",
+   "split": "cal",
+   "pos_in_group": 3
+  },
+  "Mistholme Holdings": {
+   "ticker": "MSTH",
+   "group": "T6",
+   "split": "test",
+   "pos_in_group": 4
+  },
+  "Northgale Industries": {
+   "ticker": "NRTH",
+   "group": "T6",
+   "split": "test",
+   "pos_in_group": 5
+  },
+  "Oakhaven Systems": {
+   "ticker": "KHVN",
+   "group": "D1",
+   "split": "drift"
+  },
+  "Pinecrest Group": {
+   "ticker": "PNCR",
+   "group": "D1",
+   "split": "drift"
+  },
+  "Quarrystone Labs": {
+   "ticker": "QRRY",
+   "group": "D1",
+   "split": "drift"
+  },
+  "Rookwood Corp": {
+   "ticker": "RKWD",
+   "group": "D1",
+   "split": "drift"
+  }
+ },
+ "sha256": {
+  "filings.json": "5fb852711b848451a15b0df175a2f3fffdb738102a1c13447c036ae41ad23122",
+  "tasks.jsonl": "114538ab18b507b7e22e3606f87f91a0c9271b9f04b5c051898f8beaa7a340cf",
+  "drift_tasks.jsonl": "794cdcaee4d3f3370dfe5da0921045b8d259aacbd5dc90abf8eb1ebfd4abf885"
+ }
+}
