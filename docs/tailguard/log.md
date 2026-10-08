@@ -137,3 +137,8 @@ ledger < 10k tokens). Waiting for "go".
 - Root cause (verified on installed package, rule 2): transformers 5.19.0 `trainer.py::_finalize_training` (lines 1976-2025) writes NO end-of-training save to the out-dir root; `_save_checkpoint` fires only at save_steps. With 100 steps and save_steps=100, final weights exist only in checkpoint-100/ (step 100 = final step). Training itself healthy (100/100, loss 0.2557). Runbook expectation was wrong, not the training.
 - Fix: runbook Cell 4b copies adapter_config.json + adapter_model.safetensors up from checkpoint-100 after asserting trainer_state global_step==100 and sha256-identical after copy. Honest relocation of final weights; verify then runs against the out dir as planned.
 - Also fixed: verify summary must be a plain cell (second `!python -c` quoting EOF from user). Committed as P1.3.
+
+## 2026-10-08 — P1 verify result (reported from Kaggle, file pending)
+- Cell C summary (pasted by Angad): n 50 mean_reward 10.0 success 1.0 had_submit 1.0.
+- GATE success >= 0.90: PASS (reported; file-level acceptance runs once p1_frozen_sft3b.jsonl is on the laptop).
+- Pending: Save Version, dataset upload qwen25-3b-sft-tailguard, download jsonl to experiments/tailguard/.
