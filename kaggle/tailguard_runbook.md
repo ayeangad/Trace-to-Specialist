@@ -34,7 +34,7 @@ EXPECTED: `cuda: True` + a Tesla T4 name.
 
 ### Cell 2 (code) — get the repo
 ```python
-!git clone --branch tailguard git@github.com:ayeangad/Trace-to-Specialist.git /kaggle/working/hyde
+!git clone --branch tailguard https://github.com/ayeangad/Trace-to-Specialist.git /kaggle/working/hyde
 %cd /kaggle/working/hyde
 !git rev-parse HEAD
 !git status --short
