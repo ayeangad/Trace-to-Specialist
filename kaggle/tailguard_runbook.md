@@ -123,6 +123,62 @@ fresh session; if still < 0.90, STOP (do not lower the gate).
 
 ---
 
-## Phase 3 — (to be written when Phase 2 passes)
+## Phase 3 — Run the specialist and capture signals (T4, ≤ 20 GPU-h)
+
+### Cell 0 (settings, no code)
+1. Fresh notebook, Accelerator **GPU T4**, Internet **on**, secret `HF_TOKEN` on.
+2. Add Data → attach dataset `qwen25-3b-sft-tailguard` (read-only;
+   mounts at `/kaggle/input/qwen25-3b-sft-tailguard`).
+3. Clone + enter (HTTPS; branch `tailguard`):
+```python
+!git clone --branch tailguard https://github.com/ayeangad/Trace-to-Specialist.git /kaggle/working/hyde
+%cd /kaggle/working/hyde
+!git rev-parse HEAD
+!pip install -q "transformers>=5.2.0" trl peft datasets accelerate huggingface_hub jinja2
+```
+
+### Cell 1 (code) — API VERIFY (no weights needed; paste back output)
+```python
+import inspect
+from transformers import AutoModelForCausalLM
+print(inspect.signature(AutoModelForCausalLM.compute_transition_scores))
+```
+EXPECTED: `(sequences, scores, beam_indices=None, normalize_logits=False)`.
+If different: STOP, paste back.
+
+### Cell 2 (code) — pilot, 20 tasks, separate file
+```python
+!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/pilot_runs.jsonl --limit 20
+```
+Then a plain cell:
+```python
+import json, statistics
+rows = [json.loads(l) for l in open("experiments/tailguard/pilot_runs.jsonl")]
+m = statistics.mean(r["greedy"]["wall_s"] for r in rows)
+print("n", len(rows), "mean_wall_s", round(m, 1), "est_full_h", round(m * 2200 / 3600, 1))
+```
+Paste back the printed line. DECISION (compute from it):
+- est_full_h ≤ 20 → proceed with K=5 (default).
+- est_full_h > 20 → re-pilot with `--k-samples 3` (add the flag to Cell 2,
+  delete `pilot_runs.jsonl` first). If still > 20 h: STOP and report —
+  do NOT run full (Phase 2 regen at reduced N_TASKS is a spec-level change).
+
+### Cells 3–5 (code) — full runs, in order (separate sessions if needed)
+```python
+!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split cal
+!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split test
+!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split fit
+!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/drift_tasks.jsonl --out experiments/tailguard/specialist_drift.jsonl
+```
+Resumable: re-running a cell skips task_ids already in the out file.
+After each session: `!ls -la experiments/tailguard/*.jsonl` (paste back sizes;
+if any file > 50 MB: `!gzip -k` it and download the `.gz`).
+
+### Cell 6 (after runs) — bring back to laptop
+Download (FileLink or version outputs) into the repo:
+`experiments/tailguard/specialist_runs.jsonl` (2,000 lines),
+`experiments/tailguard/specialist_drift.jsonl` (200 lines).
+Paste back: HEAD hash, VERIFY output, pilot line, per-cell line counts
+(`!wc -l`), `ls -la` sizes.
 
 ## Phase 8.1 — (to be written when Phase 7 passes)

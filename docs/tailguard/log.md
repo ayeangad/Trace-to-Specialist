@@ -162,3 +162,10 @@ ledger < 10k tokens). Waiting for "go".
 - validate_tail.py: ALL CHECKS PASSED (evidence substrings, values incl. D1 rounding, company-split uniqueness, ticker hygiene, 2200 search hits, exact counts).
 - Oracle: tasks.jsonl -> avg_reward 10.0 success_rate 1.0 n 2000; drift -> 10.0 / 1.0 n 200. PASS.
 - tests: test_generate_tail.py 3 passed (determinism sha, manifest sha, per-slice template checks). Determinism re-run touched only the timestamp sidecar (restored).
+
+## 2026-10-09 — P3 laptop prep (scripts + tests, no GPU)
+- API verification on installed transformers 5.19.0 (rule 2): GenerationMixin.compute_transition_scores(sequences, scores, beam_indices=None, normalize_logits=False) confirmed; PreTrainedTokenizerBase.apply_chat_template(conversation, tools, tokenize, add_generation_prompt, ...) confirmed. (AutoModelForCausalLM/AutoTokenizer class-level lookup fails — methods live on the mixin/base; instance calls as used in code are correct. Kaggle help() paste-back still required by runbook Cell 1.)
+- Wrote tailguard/signals/confidence.py (pure find_value_token_idx, P3.3 algorithm) + tests (3 passed vs real Qwen2.5-3B tokenizer download; decoded selected tokens contain the value).
+- Wrote tailguard/run_specialist.py (P3.2 greedy exact incl. never-call-submit, P3.3 span, P3.4 task-seeded K samples, P3.5 score_episode label, P3.6 record schema, resume + config sidecar). --help matches spec flags. Sampling seed is task_id-only per spec (CLI --seed recorded in config).
+- Wrote tailguard/evaluate.py --phase3-gate (conf risk -mean value lp, +inf when missing; GO = e>=0.05 AND tail>=0.60 AND S0<=0.05) + 4 local math tests passed (incl. AUROC 1.0 on separable synthetic, None on single class).
+- Wrote runbook Phase 3 ( Cells 0-6: attach dataset, VERIFY, pilot to separate file + wall decision table, full runs cal/test/fit + drift, gzip rule, bring-back list).
