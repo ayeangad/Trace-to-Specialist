@@ -142,3 +142,9 @@ ledger < 10k tokens). Waiting for "go".
 - Cell C summary (pasted by Angad): n 50 mean_reward 10.0 success 1.0 had_submit 1.0.
 - GATE success >= 0.90: PASS (reported; file-level acceptance runs once p1_frozen_sft3b.jsonl is on the laptop).
 - Pending: Save Version, dataset upload qwen25-3b-sft-tailguard, download jsonl to experiments/tailguard/.
+
+## 2026-10-09 — P1 acceptance (file-level, on laptop)
+- File home: experiments/tailguard/p1_frozen_sft3b.jsonl (50 rows).
+- Recomputed from file: n 50 mean_reward 10.0 success 1.0 had_submit 1.0. Matches Kaggle-pasted summary. GATE >= 0.90: PASS.
+- Adapter files: verified via /tmp/tg-adapter extraction of uploaded tarball — top-level adapter_config.json + adapter_model.safetensors present, checkpoint-100/adapter_config.json present. PASS.
+- Still missing for the record: Kaggle HEAD hash, collector kept count, git diff --stat (Cells 2-3 paste-backs); dataset-upload confirmation. Asked Angad.
