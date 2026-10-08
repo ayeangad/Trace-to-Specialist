@@ -34,7 +34,7 @@ from tailguard.logging_utils import (append_jsonl, read_done_ids,  # noqa: E402
                                      write_config)
 from tailguard.signals.confidence import find_value_token_idx  # noqa: E402
 
-ADAPTER_DEFAULT = "/kaggle/input/qwen25-3b-sft-tailguard"
+ADAPTER_DEFAULT = "/kaggle/input/hydenewdataset"  # Kaggle dataset (slug hydenewdataset; flat upload, adapter files at root)
 
 
 def seed_for(task_id: str) -> int:

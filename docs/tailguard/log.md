@@ -169,3 +169,8 @@ ledger < 10k tokens). Waiting for "go".
 - Wrote tailguard/run_specialist.py (P3.2 greedy exact incl. never-call-submit, P3.3 span, P3.4 task-seeded K samples, P3.5 score_episode label, P3.6 record schema, resume + config sidecar). --help matches spec flags. Sampling seed is task_id-only per spec (CLI --seed recorded in config).
 - Wrote tailguard/evaluate.py --phase3-gate (conf risk -mean value lp, +inf when missing; GO = e>=0.05 AND tail>=0.60 AND S0<=0.05) + 4 local math tests passed (incl. AUROC 1.0 on separable synthetic, None on single class).
 - Wrote runbook Phase 3 ( Cells 0-6: attach dataset, VERIFY, pilot to separate file + wall decision table, full runs cal/test/fit + drift, gzip rule, bring-back list).
+
+## 2026-10-09 — P3 dataset findings + adapter path update
+- Angad's dataset is kaggle.com/datasets/ayeangad/hydenewdataset (12 files, 100.22 MB), NOT slug qwen25-3b-sft-tailguard. Web upload flattened checkpoint-100/ contents to root; all distinct files present (size math: 41M top + ~60M checkpoint extras ~= 100M). Phase 3 serving needs only root adapter_config.json + adapter_model.safetensors: OK.
+- Phase 8 implication (recorded early): top-level adapter was byte-copied from checkpoint-100 (Cell 4b identical True), so stale==final weights; plan P8.1(c) fallback will apply.
+- Updated --adapter default to /kaggle/input/hydenewdataset in run_specialist.py + all runbook Phase 3 cells.

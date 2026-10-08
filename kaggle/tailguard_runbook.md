@@ -128,7 +128,7 @@ fresh session; if still < 0.90, STOP (do not lower the gate).
 ### Cell 0 (settings, no code)
 1. Fresh notebook, Accelerator **GPU T4**, Internet **on**, secret `HF_TOKEN` on.
 2. Add Data → attach dataset `qwen25-3b-sft-tailguard` (read-only;
-   mounts at `/kaggle/input/qwen25-3b-sft-tailguard`).
+   mounts at `/kaggle/input/hydenewdataset`).
 3. Clone + enter (HTTPS; branch `tailguard`):
 ```python
 !git clone --branch tailguard https://github.com/ayeangad/Trace-to-Specialist.git /kaggle/working/hyde
@@ -148,7 +148,7 @@ If different: STOP, paste back.
 
 ### Cell 2 (code) — pilot, 20 tasks, separate file
 ```python
-!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/pilot_runs.jsonl --limit 20
+!python -m tailguard.run_specialist --adapter /kaggle/input/hydenewdataset --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/pilot_runs.jsonl --limit 20
 ```
 Then a plain cell:
 ```python
@@ -165,10 +165,10 @@ Paste back the printed line. DECISION (compute from it):
 
 ### Cells 3–5 (code) — full runs, in order (separate sessions if needed)
 ```python
-!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split cal
-!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split test
-!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split fit
-!python -m tailguard.run_specialist --adapter /kaggle/input/qwen25-3b-sft-tailguard --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/drift_tasks.jsonl --out experiments/tailguard/specialist_drift.jsonl
+!python -m tailguard.run_specialist --adapter /kaggle/input/hydenewdataset --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split cal
+!python -m tailguard.run_specialist --adapter /kaggle/input/hydenewdataset --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split test
+!python -m tailguard.run_specialist --adapter /kaggle/input/hydenewdataset --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/tasks.jsonl --out experiments/tailguard/specialist_runs.jsonl --only-split fit
+!python -m tailguard.run_specialist --adapter /kaggle/input/hydenewdataset --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tail/drift_tasks.jsonl --out experiments/tailguard/specialist_drift.jsonl
 ```
 Resumable: re-running a cell skips task_ids already in the out file.
 After each session: `!ls -la experiments/tailguard/*.jsonl` (paste back sizes;
