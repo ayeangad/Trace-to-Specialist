@@ -68,12 +68,17 @@ EXPECTED: out dir contains `adapter_config.json`; `checkpoint-100/adapter_config
 ### Cell 5 (code) — verify on frozen test
 ```python
 !python evals/run_model_baseline.py --model /kaggle/working/qwen25-3b-sft --base-model Qwen/Qwen2.5-3B-Instruct --tasks data/tasks/frozen_test.jsonl --out experiments/tailguard/p1_frozen_sft3b.jsonl --limit 50
-!python -c "
+```
+Then a plain Python cell (not `!` — avoids shell quoting):
+```python
 import json
-rows=[json.loads(l) for l in open('experiments/tailguard/p1_frozen_sft3b.jsonl')]
-n=len(rows)
-print('n',n,'mean_reward',sum(r['reward'] for r in rows)/n,'success',sum(r['success'] for r in rows)/n,'had_submit',sum(r.get('had_submit',False) for r in rows)/n)
-"
+rows = [json.loads(l) for l in open("experiments/tailguard/p1_frozen_sft3b.jsonl")]
+n = len(rows)
+print("n", n,
+      "mean_reward", sum(r["reward"] for r in rows) / n,
+      "success", sum(r["success"] for r in rows) / n,
+      "had_submit", sum(r.get("had_submit", False) for r in rows) / n)
+```
 ```
 EXPECTED: n 50, success ≥ 0.90 (historical 0.96). GATE: if < 0.90, confirm
 native demos (`turns` key), 2 epochs, `--base-model` passed; re-run once in a
