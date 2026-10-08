@@ -174,3 +174,6 @@ ledger < 10k tokens). Waiting for "go".
 - Angad's dataset is kaggle.com/datasets/ayeangad/hydenewdataset (12 files, 100.22 MB), NOT slug qwen25-3b-sft-tailguard. Web upload flattened checkpoint-100/ contents to root; all distinct files present (size math: 41M top + ~60M checkpoint extras ~= 100M). Phase 3 serving needs only root adapter_config.json + adapter_model.safetensors: OK.
 - Phase 8 implication (recorded early): top-level adapter was byte-copied from checkpoint-100 (Cell 4b identical True), so stale==final weights; plan P8.1(c) fallback will apply.
 - Updated --adapter default to /kaggle/input/hydenewdataset in run_specialist.py + all runbook Phase 3 cells.
+
+## 2026-10-09 — P3 VERIFY (pasted from Kaggle)
+- GenerationMixin.compute_transition_scores signature matches expected (sequences, scores, beam_indices=None, normalize_logits=False). API VERIFY: PASS. Awaiting pilot timing.
