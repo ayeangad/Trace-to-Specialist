@@ -188,3 +188,6 @@ ledger < 10k tokens). Waiting for "go".
 - Symptom: PeftModel.from_pretrained crashed in dispatch_torchao: installed peft requires torchao>=0.16 when torchao is present; Kaggle image ships torchao 0.10. (Adapter path + weights load were fine: 434/434.)
 - Fix: `pip uninstall -y torchao` (same as P1 recipe; training ran fine without it). Baked into runbook Cell 0. Needs kernel restart after uninstall (torchao may already be imported).
 - Note: pilot + timing were pasted as one block; timing failed only because pilot crashed first (no pilot_runs.jsonl). No action.
+
+## 2026-10-09 — P3.14 sampling generate missing return_dict_in_generate
+- Symptom (pasted): greedy episode completed (adapter 434/434, submit reached), then AttributeError 'Tensor' has no 'sequences' in sample_submit_turn. Cause: sampling generate() lacked return_dict_in_generate=True (greedy call had it). One-line fix; greedy path already proves parse/tools/submit work on Kaggle.

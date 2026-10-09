@@ -175,7 +175,7 @@ def sample_submit_turn(tok, model, task_id: str, submit_ctx, k: int) -> list[dic
     enc_len = enc["input_ids"].shape[1]
     out = model.generate(**enc, max_new_tokens=MAX_NEW_TOKENS, do_sample=True,
                          temperature=SAMPLE_TEMPERATURE, top_p=SAMPLE_TOP_P,
-                         num_return_sequences=k)
+                         num_return_sequences=k, return_dict_in_generate=True)
     samples = []
     for seq in out.sequences:
         text_k = tok.decode(seq[enc_len:])
